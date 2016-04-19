@@ -12,15 +12,17 @@ def dodatki_absolutno_zaposleni(parser_output):
             zaposleni_dict[key] = []
         zaposleni_dict[key].append(entry)
 
-    def dodatki_sum(tuple_entry):
-        return sum(map(lambda x: structure.dodatki_sum(x), tuple_entry[1]))
-    zaposleni_entries = sorted(zaposleni_dict.items(), key=dodatki_sum, reverse=True)
+    def dodatki_sum(entries):
+        return sum(map(lambda x: structure.dodatki_sum(x), entries))
+    def dodatki_sum_key(tuple_pair):
+        return dodatki_sum(tuple_pair[1])
+    zaposleni_entries = sorted(zaposleni_dict.items(), key=dodatki_sum_key, reverse=True)
 
     for zaposleni in zaposleni_entries[:100]:
         entries = sorted(zaposleni[1], key=structure.leto)
 
         print "Zaposleni #{} - {} EUR dodatkov". \
-            format(zaposleni[0], dodatki_sum(zaposleni))
+            format(zaposleni[0], dodatki_sum(entries))
         for entry in entries:
             print "    {} ({} mesecev) - {} - {}: plača bruto {} EUR, dodatki {} EUR, skupaj {} EUR". \
                 format(structure.leto(entry), entry[3], entry[0], entry[1], \
