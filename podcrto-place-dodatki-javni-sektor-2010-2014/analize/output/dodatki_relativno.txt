@@ -1,0 +1,770 @@
+Top 100 lestvica po izplačilu dodatkov relativno glede na bruto plačo
+
+SPLOŠNA KNJIŽNICA SLOVENSKE KONJICE - DIREKTOR KNJIŽNICE - 2010: 751.5 EUR
+    plača bruto 5.41 EUR, za obdobje 1 mesca/mescev, skupaj 756.91 EUR
+    dodatki znesejo 13890.94% plače bruto, 99.29% celotnega zneska
+    dodatki:
+        dodatek_mag_dr_c040bruto: 751.08 EUR
+        dodatek_poracun_c900bruto: 0.42 EUR
+
+UNIVERZA V MARIBORU ŠTUDENTSKI DOMOVI - DIREKTOR ŠDL - 2010: 5046.57 EUR
+    plača bruto 501.54 EUR, za obdobje 2 mesca/mescev, skupaj 5548.11 EUR
+    dodatki znesejo 1006.21% plače bruto, 90.96% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 5029.81 EUR
+        dodatek_mag_dr_c040bruto: 16.76 EUR
+
+UNIVERZA V MARIBORU - DEKAN / DIREKTOR ČLANICE UNIVERZE OZ. DRUGE ČLANICE UNIVERZE - 2010: 10629.59 EUR
+    plača bruto 3237.2 EUR, za obdobje 12 mesca/mescev, skupaj 13866.79 EUR
+    dodatki znesejo 328.36% plače bruto, 76.66% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 10629.59 EUR
+
+ZDRAVSTVENI DOM OSNOVNO VARSTVO NOVA GORICA - POMOČNIK DIREKTORJA - 2014: 5886.02 EUR
+    plača bruto 1932.2 EUR, za obdobje 1 mesca/mescev, skupaj 7818.22 EUR
+    dodatki znesejo 304.63% plače bruto, 75.29% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 5886.02 EUR
+
+RADIOTELEVIZIJA SLOVENIJA JAVNI ZAVOD, LJUBLJANA - POMOČNIK DIREKTORJA - 2010: 5517.34 EUR
+    plača bruto 2283.89 EUR, za obdobje 2 mesca/mescev, skupaj 7801.23 EUR
+    dodatki znesejo 241.58% plače bruto, 70.72% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 5253.56 EUR
+        dodatek_mag_dr_c040bruto: 39.27 EUR
+        dodatek_poracun_c900bruto: 224.51 EUR
+
+UNIVERZA V MARIBORU - DEKAN / DIREKTOR ČLANICE UNIVERZE OZ. DRUGE ČLANICE UNIVERZE - 2011: 6304.32 EUR
+    plača bruto 3296.14 EUR, za obdobje 12 mesca/mescev, skupaj 9600.46 EUR
+    dodatki znesejo 191.26% plače bruto, 65.67% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 6304.32 EUR
+
+SPLOŠNA BOLNIŠNICA NOVO MESTO - POMOČNIK DIREKTORJA - 2011: 1357.77 EUR
+    plača bruto 790.42 EUR, za obdobje 7 mesca/mescev, skupaj 2148.19 EUR
+    dodatki znesejo 171.78% plače bruto, 63.21% celotnega zneska
+    dodatki:
+        dodatno_delo: 1168.92 EUR
+        dodatek_poracun_c900bruto: 188.85 EUR
+
+ZDRAVSTVENI DOM METLIKA - DIREKTOR ZDRAVSTVENEGA DOMA - 2010: 48606.65 EUR
+    plača bruto 30527.11 EUR, za obdobje 11 mesca/mescev, skupaj 79133.76 EUR
+    dodatki znesejo 159.22% plače bruto, 61.42% celotnega zneska
+    dodatki:
+        dodatno_delo: 47960.47 EUR
+        dodatek_izmensko_delo_c080bruto: 646.18 EUR
+
+SPLOŠNA BOLNIŠNICA NOVO MESTO - POMOČNIK DIREKTORJA - 2010: 652.81 EUR
+    plača bruto 416.7 EUR, za obdobje 3 mesca/mescev, skupaj 1069.51 EUR
+    dodatki znesejo 156.66% plače bruto, 61.04% celotnega zneska
+    dodatki:
+        dodatno_delo: 542.16 EUR
+        dodatek_poracun_c900bruto: 110.65 EUR
+
+UNIVERZA NA PRIMORSKEM UNIVERSITA DEL LITORALE - DIREKTOR JAVNEGA RAZISKOVALNEGA ZAVODA / JAVNEGA INFRASTRUKTURNEGA ZAVODA - 2011: 23932.2 EUR
+    plača bruto 15656.82 EUR, za obdobje 5 mesca/mescev, skupaj 39589.02 EUR
+    dodatki znesejo 152.85% plače bruto, 60.45% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 22605.43 EUR
+        dodatek_mentorstvo_c030bruto: 870.88 EUR
+        dodatek_dvojezicnost_c050bruto: 475.17 EUR
+
+UNIVERZA V MARIBORU - DEKAN / DIREKTOR ČLANICE UNIVERZE OZ. DRUGE ČLANICE UNIVERZE - 2012: 1426.96 EUR
+    plača bruto 939.79 EUR, za obdobje 1 mesca/mescev, skupaj 2366.75 EUR
+    dodatki znesejo 151.84% plače bruto, 60.29% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 1426.96 EUR
+
+ZDRAVSTVENI DOM RADLJE OB DRAVI - DIREKTOR ZDRAVSTVENEGA DOMA - 2010: 39971.7 EUR
+    plača bruto 27003.67 EUR, za obdobje 12 mesca/mescev, skupaj 66975.37 EUR
+    dodatki znesejo 148.02% plače bruto, 59.68% celotnega zneska
+    dodatki:
+        dodatno_delo: 39389.41 EUR
+        dodatek_mag_dr_c040bruto: 580.43 EUR
+        dodatek_poracun_c900bruto: 1.86 EUR
+
+ZDRAVSTVENI DOM RADLJE OB DRAVI - DIREKTOR ZDRAVSTVENEGA DOMA - 2011: 12110.53 EUR
+    plača bruto 8786.04 EUR, za obdobje 3 mesca/mescev, skupaj 20896.57 EUR
+    dodatki znesejo 137.84% plače bruto, 57.95% celotnega zneska
+    dodatki:
+        dodatno_delo: 11921.62 EUR
+        dodatek_mag_dr_c040bruto: 188.91 EUR
+
+ZDRAVSTVENI DOM METLIKA - DIREKTOR ZDRAVSTVENEGA DOMA - 2011: 44317.79 EUR
+    plača bruto 32333.64 EUR, za obdobje 12 mesca/mescev, skupaj 76651.43 EUR
+    dodatki znesejo 137.06% plače bruto, 57.82% celotnega zneska
+    dodatki:
+        dodatno_delo: 43675.62 EUR
+        dodatek_izmensko_delo_c080bruto: 642.17 EUR
+
+SPLOŠNA BOLNIŠNICA TRBOVLJE - STROKOVNI DIREKTOR/STROKOVNI VODJA - 2010: 9855.38 EUR
+    plača bruto 7554.12 EUR, za obdobje 12 mesca/mescev, skupaj 17409.5 EUR
+    dodatki znesejo 130.46% plače bruto, 56.61% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 1346.42 EUR
+        dodatno_delo: 8365.38 EUR
+        dodatek_mag_dr_c040bruto: 143.51 EUR
+        dodatek_poracun_c900bruto: 0.07 EUR
+
+ZDRAVSTVENI DOM METLIKA - DIREKTOR ZDRAVSTVENEGA DOMA - 2013: 31880.04 EUR
+    plača bruto 25078.47 EUR, za obdobje 12 mesca/mescev, skupaj 56958.51 EUR
+    dodatki znesejo 127.12% plače bruto, 55.97% celotnega zneska
+    dodatki:
+        dodatno_delo: 31559.59 EUR
+        dodatek_izmensko_delo_c080bruto: 320.45 EUR
+
+SPLOŠNA BOLNIŠNICA TRBOVLJE - STROKOVNI DIREKTOR/STROKOVNI VODJA - 2011: 3079.58 EUR
+    plača bruto 2489.44 EUR, za obdobje 4 mesca/mescev, skupaj 5569.02 EUR
+    dodatki znesejo 123.71% plače bruto, 55.30% celotnega zneska
+    dodatki:
+        dodatno_delo: 3032.56 EUR
+        dodatek_mag_dr_c040bruto: 47.02 EUR
+
+ZDRAVSTVENI DOM BREŽICE - DIREKTOR ZDRAVSTVENEGA DOMA - 2012: 35242.89 EUR
+    plača bruto 28583.29 EUR, za obdobje 12 mesca/mescev, skupaj 63826.18 EUR
+    dodatki znesejo 123.30% plače bruto, 55.22% celotnega zneska
+    dodatki:
+        dodatno_delo: 35069.37 EUR
+        dodatek_mentorstvo_c030bruto: 173.52 EUR
+
+ZDRAVSTVENI DOM METLIKA - DIREKTOR ZDRAVSTVENEGA DOMA - 2012: 35270.14 EUR
+    plača bruto 29065.39 EUR, za obdobje 12 mesca/mescev, skupaj 64335.53 EUR
+    dodatki znesejo 121.35% plače bruto, 54.82% celotnega zneska
+    dodatki:
+        dodatno_delo: 34862.86 EUR
+        dodatek_izmensko_delo_c080bruto: 407.28 EUR
+
+ZDRAVSTVENI DOM SLOVENJ GRADEC - DIREKTOR ZDRAVSTVENEGA DOMA - 2010: 39801.06 EUR
+    plača bruto 34662.34 EUR, za obdobje 12 mesca/mescev, skupaj 74463.4 EUR
+    dodatki znesejo 114.83% plače bruto, 53.45% celotnega zneska
+    dodatki:
+        dodatno_delo: 39801.06 EUR
+
+ONKOLOŠKI INŠTITUT LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA - 2010: 38485.73 EUR
+    plača bruto 34130.84 EUR, za obdobje 11 mesca/mescev, skupaj 72616.57 EUR
+    dodatki znesejo 112.76% plače bruto, 53.00% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 5909.43 EUR
+        dodatno_delo: 19028.51 EUR
+        dezurstvo: 11196.49 EUR
+        dodatek_mentorstvo_c030bruto: 1397.88 EUR
+        dodatek_mag_dr_c040bruto: 952.44 EUR
+        dodatek_poracun_c900bruto: 0.98 EUR
+
+ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE, RUDARSKA CESTA 12 - STROKOVNI DIREKTOR/STROKOVNI VODJA - 2010: 397.57 EUR
+    plača bruto 357.47 EUR, za obdobje 3 mesca/mescev, skupaj 755.04 EUR
+    dodatki znesejo 111.22% plače bruto, 52.66% celotnega zneska
+    dodatki:
+        dodatno_delo: 397.57 EUR
+
+SPLOŠNA BOLNIŠNICA JESENICE - DIREKTOR BOLNIŠNICE - 2012: 457.44 EUR
+    plača bruto 414.34 EUR, za obdobje 5 mesca/mescev, skupaj 871.78 EUR
+    dodatki znesejo 110.40% plače bruto, 52.47% celotnega zneska
+    dodatki:
+        dodatno_delo: 442.13 EUR
+        dodatek_poracun_c900bruto: 15.31 EUR
+
+OBČINA GROSUPLJE - DIREKTOR/TAJNIK OBČINSKE UPRAVE - 2011: 831.04 EUR
+    plača bruto 771.01 EUR, za obdobje 1 mesca/mescev, skupaj 1602.05 EUR
+    dodatki znesejo 107.79% plače bruto, 51.87% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 323.83 EUR
+        dodatno_delo: 507.21 EUR
+
+ZDRAVSTVENI DOM METLIKA - DIREKTOR ZDRAVSTVENEGA DOMA - 2014: 30800.73 EUR
+    plača bruto 29338.7 EUR, za obdobje 12 mesca/mescev, skupaj 60139.43 EUR
+    dodatki znesejo 104.98% plače bruto, 51.22% celotnega zneska
+    dodatki:
+        dodatno_delo: 30502.0 EUR
+        dodatek_izmensko_delo_c080bruto: 298.73 EUR
+
+ZDRAVSTVENI DOM BREŽICE - DIREKTOR ZDRAVSTVENEGA DOMA - 2010: 31580.21 EUR
+    plača bruto 30320.7 EUR, za obdobje 12 mesca/mescev, skupaj 61900.91 EUR
+    dodatki znesejo 104.15% plače bruto, 51.02% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 2163.89 EUR
+        dodatno_delo: 28870.09 EUR
+        dodatek_mentorstvo_c030bruto: 545.67 EUR
+        dodatek_poracun_c900bruto: 0.56 EUR
+
+DOLENJSKE LEKARNE NOVO MESTO P.O. - DIREKTOR LEKARNE - 2010: 31095.75 EUR
+    plača bruto 30105.38 EUR, za obdobje 12 mesca/mescev, skupaj 61201.13 EUR
+    dodatki znesejo 103.29% plače bruto, 50.81% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 18848.78 EUR
+        dodatno_delo: 11809.78 EUR
+        dodatek_mag_dr_c040bruto: 432.56 EUR
+        dodatek_neenakomerno_razporejen_delovni_cas_c190bruto: 3.7 EUR
+        dodatek_poracun_c900bruto: 0.93 EUR
+
+SPLOŠNA BOLNIŠNICA TRBOVLJE - POMOČNIK DIREKTORJA - 2010: 178.89 EUR
+    plača bruto 173.25 EUR, za obdobje 3 mesca/mescev, skupaj 352.14 EUR
+    dodatki znesejo 103.26% plače bruto, 50.80% celotnega zneska
+    dodatki:
+        dodatno_delo: 133.48 EUR
+        dodatek_poracun_c900bruto: 45.41 EUR
+
+ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE, RUDARSKA CESTA 12 - STROKOVNI DIREKTOR/STROKOVNI VODJA - 2011: 1344.71 EUR
+    plača bruto 1383.54 EUR, za obdobje 12 mesca/mescev, skupaj 2728.25 EUR
+    dodatki znesejo 97.19% plače bruto, 49.29% celotnega zneska
+    dodatki:
+        dodatno_delo: 1344.71 EUR
+
+ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE, RUDARSKA CESTA 12 - STROKOVNI DIREKTOR/STROKOVNI VODJA - 2012: 632.3 EUR
+    plača bruto 668.33 EUR, za obdobje 5 mesca/mescev, skupaj 1300.63 EUR
+    dodatki znesejo 94.61% plače bruto, 48.61% celotnega zneska
+    dodatki:
+        dodatno_delo: 632.3 EUR
+
+CANKARJEV DOM, KULTURNI IN KONGRESNI CENTER - POMOČNIK DIREKTORJA - 2014: 5707.77 EUR
+    plača bruto 6050.15 EUR, za obdobje 2 mesca/mescev, skupaj 11757.92 EUR
+    dodatki znesejo 94.34% plače bruto, 48.54% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 5280.6 EUR
+        dodatek_poracun_c900bruto: 427.17 EUR
+
+ZDRAVSTVENI DOM BREŽICE - DIREKTOR ZDRAVSTVENEGA DOMA - 2011: 30743.36 EUR
+    plača bruto 33066.78 EUR, za obdobje 12 mesca/mescev, skupaj 63810.14 EUR
+    dodatki znesejo 92.97% plače bruto, 48.18% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 1234.42 EUR
+        dodatno_delo: 28913.75 EUR
+        dodatek_mentorstvo_c030bruto: 595.19 EUR
+
+SPLOŠNA BOLNIŠNICA NOVO MESTO - STROKOVNI DIREKTOR/STROKOVNI VODJA - 2010: 289.45 EUR
+    plača bruto 322.39 EUR, za obdobje 3 mesca/mescev, skupaj 611.84 EUR
+    dodatki znesejo 89.78% plače bruto, 47.31% celotnega zneska
+    dodatki:
+        dodatno_delo: 212.55 EUR
+        dodatek_poracun_c900bruto: 76.9 EUR
+
+GEODETSKI INŠTITUT SLOVENIJE - DIREKTOR JAVNEGA RAZISKOVALNEGA ZAVODA / JAVNEGA INFRASTRUKTURNEGA ZAVODA - 2013: 16866.5 EUR
+    plača bruto 18958.13 EUR, za obdobje 7 mesca/mescev, skupaj 35824.63 EUR
+    dodatki znesejo 88.97% plače bruto, 47.08% celotnega zneska
+    dodatki:
+        dodatno_delo: 16528.85 EUR
+        dodatek_mag_dr_c040bruto: 337.65 EUR
+
+ONKOLOŠKI INŠTITUT LJUBLJANA - POMOČNIK DIREKTORJA - 2010: 26923.11 EUR
+    plača bruto 31165.4 EUR, za obdobje 11 mesca/mescev, skupaj 58088.51 EUR
+    dodatki znesejo 86.39% plače bruto, 46.35% celotnega zneska
+    dodatki:
+        polozajni_dodatek: 1342.48 EUR
+        delovna_uspesnost: 4991.61 EUR
+        dodatno_delo: 20588.12 EUR
+        dodatek_poracun_c900bruto: 0.9 EUR
+
+ZDRAVSTVENI DOM DRAVOGRAD - DIREKTOR ZDRAVSTVENEGA DOMA - 2010: 28989.75 EUR
+    plača bruto 34266.99 EUR, za obdobje 12 mesca/mescev, skupaj 63256.74 EUR
+    dodatki znesejo 84.60% plače bruto, 45.83% celotnega zneska
+    dodatki:
+        dodatno_delo: 27998.35 EUR
+        dodatek_mentorstvo_c030bruto: 498.69 EUR
+        dodatek_mag_dr_c040bruto: 492.05 EUR
+        dodatek_poracun_c900bruto: 0.66 EUR
+
+LEKARNA MOZIRJE - DIREKTOR LEKARNE - 2014: 20869.53 EUR
+    plača bruto 24900.89 EUR, za obdobje 12 mesca/mescev, skupaj 45770.42 EUR
+    dodatki znesejo 83.81% plače bruto, 45.60% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 20869.53 EUR
+
+SPLOŠNA BOLNIŠNICA JESENICE - DIREKTOR BOLNIŠNICE - 2011: 377.23 EUR
+    plača bruto 450.97 EUR, za obdobje 5 mesca/mescev, skupaj 828.2 EUR
+    dodatki znesejo 83.65% plače bruto, 45.55% celotnega zneska
+    dodatki:
+        dodatno_delo: 352.84 EUR
+        dodatek_poracun_c900bruto: 24.39 EUR
+
+SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA - POMOČNIK DIREKTORJA - 2010: 24114.44 EUR
+    plača bruto 29540.29 EUR, za obdobje 11 mesca/mescev, skupaj 53654.73 EUR
+    dodatki znesejo 81.63% plače bruto, 44.94% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 5464.26 EUR
+        dodatno_delo: 18592.37 EUR
+        dodatek_ionizirajoce_sevanje_c060bruto: 47.0 EUR
+        dodatek_izmensko_delo_c080bruto: 10.21 EUR
+        dodatek_poracun_c900bruto: 0.6 EUR
+
+JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA - 2011: 23531.5 EUR
+    plača bruto 30830.5 EUR, za obdobje 12 mesca/mescev, skupaj 54362.0 EUR
+    dodatki znesejo 76.33% plače bruto, 43.29% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 23531.5 EUR
+
+RADIOTELEVIZIJA SLOVENIJA JAVNI ZAVOD, LJUBLJANA - POMOČNIK DIREKTORJA - 2010: 15238.95 EUR
+    plača bruto 20173.86 EUR, za obdobje 7 mesca/mescev, skupaj 35412.81 EUR
+    dodatki znesejo 75.54% plače bruto, 43.03% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 14707.84 EUR
+        dodatek_mag_dr_c040bruto: 342.92 EUR
+        dodatek_poracun_c900bruto: 188.19 EUR
+
+SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA - DIREKTOR BOLNIŠNICE - 2010: 31514.68 EUR
+    plača bruto 41767.58 EUR, za obdobje 12 mesca/mescev, skupaj 73282.26 EUR
+    dodatki znesejo 75.45% plače bruto, 43.00% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 4269.58 EUR
+        dodatno_delo: 26604.81 EUR
+        dodatek_mag_dr_c040bruto: 419.45 EUR
+        dodatek_izmensko_delo_c080bruto: 220.03 EUR
+        dodatek_poracun_c900bruto: 0.81 EUR
+
+ONKOLOŠKI INŠTITUT LJUBLJANA - POMOČNIK DIREKTORJA - 2012: 25283.38 EUR
+    plača bruto 33732.36 EUR, za obdobje 12 mesca/mescev, skupaj 59015.74 EUR
+    dodatki znesejo 74.95% plače bruto, 42.84% celotnega zneska
+    dodatki:
+        polozajni_dodatek: 897.06 EUR
+        dodatno_delo: 24386.32 EUR
+
+ZDRAVSTVENI DOM AJDOVŠČINA - POMOČNIK DIREKTORJA - 2011: 850.42 EUR
+    plača bruto 1137.39 EUR, za obdobje 12 mesca/mescev, skupaj 1987.81 EUR
+    dodatki znesejo 74.77% plače bruto, 42.78% celotnega zneska
+    dodatki:
+        dodatno_delo: 850.42 EUR
+
+LEKARNA SEVNICA - DIREKTOR LEKARNE - 2012: 17908.32 EUR
+    plača bruto 24068.97 EUR, za obdobje 12 mesca/mescev, skupaj 41977.29 EUR
+    dodatki znesejo 74.40% plače bruto, 42.66% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 15329.96 EUR
+        dezurstvo: 1835.01 EUR
+        dodatek_mentorstvo_c030bruto: 654.83 EUR
+        dodatek_neenakomerno_razporejen_delovni_cas_c190bruto: 88.52 EUR
+
+JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA - 2012: 22748.91 EUR
+    plača bruto 30619.67 EUR, za obdobje 12 mesca/mescev, skupaj 53368.58 EUR
+    dodatki znesejo 74.30% plače bruto, 42.63% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 22748.91 EUR
+
+JAVNI ZAVOD KOROŠKO VIŠJE IN VISOKOŠOLSKO SREDIŠČE - DIREKTOR JAVNEGA ZAVODA - 2012: 4394.53 EUR
+    plača bruto 5944.92 EUR, za obdobje 12 mesca/mescev, skupaj 10339.45 EUR
+    dodatki znesejo 73.92% plače bruto, 42.50% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 4145.74 EUR
+        dodatek_mag_dr_c040bruto: 248.79 EUR
+
+BOLNIŠNICA SEŽANA - POMOČNIK DIREKTORJA - 2011: 15893.81 EUR
+    plača bruto 21666.77 EUR, za obdobje 11 mesca/mescev, skupaj 37560.58 EUR
+    dodatki znesejo 73.36% plače bruto, 42.32% celotnega zneska
+    dodatki:
+        dodatno_delo: 15556.03 EUR
+        dodatek_izmensko_delo_c080bruto: 116.41 EUR
+        dodatek_delo_v_nedeljo_c110bruto: 114.28 EUR
+        dodatek_dela_prost_dan_c111bruto: 107.09 EUR
+
+ZDRAVSTVENI DOM RAVNE NA KOROŠKEM - DIREKTOR ZDRAVSTVENEGA DOMA - 2010: 25131.95 EUR
+    plača bruto 34774.57 EUR, za obdobje 12 mesca/mescev, skupaj 59906.52 EUR
+    dodatki znesejo 72.27% plače bruto, 41.95% celotnega zneska
+    dodatki:
+        dodatno_delo: 24413.43 EUR
+        dodatek_mag_dr_c040bruto: 718.01 EUR
+        dodatek_poracun_c900bruto: 0.51 EUR
+
+OBALNE LEKARNE KOPER FARMACIE COSTIERE CAPODISTRIA - DIREKTOR LEKARNE - 2010: 20184.5 EUR
+    plača bruto 27954.88 EUR, za obdobje 12 mesca/mescev, skupaj 48139.38 EUR
+    dodatki znesejo 72.20% plače bruto, 41.93% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 18665.15 EUR
+        dodatek_mag_dr_c040bruto: 401.46 EUR
+        dodatek_dvojezicnost_c051bruto: 1117.89 EUR
+
+JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA - 2010: 22020.31 EUR
+    plača bruto 30606.44 EUR, za obdobje 12 mesca/mescev, skupaj 52626.75 EUR
+    dodatki znesejo 71.95% plače bruto, 41.84% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 22020.07 EUR
+        dodatek_poracun_c900bruto: 0.24 EUR
+
+LEKARNA BREŽICE - DIREKTOR LEKARNE - 2011: 20770.84 EUR
+    plača bruto 29759.97 EUR, za obdobje 12 mesca/mescev, skupaj 50530.81 EUR
+    dodatki znesejo 69.79% plače bruto, 41.11% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 20319.48 EUR
+        dodatno_delo: 451.36 EUR
+
+LEKARNA SEVNICA - DIREKTOR LEKARNE - 2013: 12196.87 EUR
+    plača bruto 17650.9 EUR, za obdobje 8 mesca/mescev, skupaj 29847.77 EUR
+    dodatki znesejo 69.10% plače bruto, 40.86% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 10682.9 EUR
+        dezurstvo: 1448.44 EUR
+        dodatek_neenakomerno_razporejen_delovni_cas_c190bruto: 65.53 EUR
+
+JAVNI ZAVOD LEKARNA LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA - 2011: 5148.72 EUR
+    plača bruto 7485.76 EUR, za obdobje 3 mesca/mescev, skupaj 12634.48 EUR
+    dodatki znesejo 68.78% plače bruto, 40.75% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 4784.1 EUR
+        dodatno_delo: 169.51 EUR
+        dodatek_mag_dr_c040bruto: 167.38 EUR
+        dodatek_poracun_c900bruto: 27.73 EUR
+
+ONKOLOŠKI INŠTITUT LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA - 2011: 26711.35 EUR
+    plača bruto 38941.44 EUR, za obdobje 12 mesca/mescev, skupaj 65652.79 EUR
+    dodatki znesejo 68.59% plače bruto, 40.69% celotnega zneska
+    dodatki:
+        dodatno_delo: 16944.64 EUR
+        dezurstvo: 7330.79 EUR
+        dodatek_mentorstvo_c030bruto: 1349.0 EUR
+        dodatek_mag_dr_c040bruto: 1086.92 EUR
+
+ANDRAGOŠKI ZAVOD LJUDSKA UNIVERZA VELENJE - DIREKTOR LJUDSKE UNIVERZE - 2010: 12596.39 EUR
+    plača bruto 18520.35 EUR, za obdobje 8 mesca/mescev, skupaj 31116.74 EUR
+    dodatki znesejo 68.01% plače bruto, 40.48% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 12281.39 EUR
+        dodatek_mag_dr_c040bruto: 315.0 EUR
+
+BOLNIŠNICA SEŽANA - POMOČNIK DIREKTORJA - 2014: 20075.85 EUR
+    plača bruto 29528.25 EUR, za obdobje 12 mesca/mescev, skupaj 49604.1 EUR
+    dodatki znesejo 67.99% plače bruto, 40.47% celotnega zneska
+    dodatki:
+        dodatno_delo: 19549.07 EUR
+        dodatek_izmensko_delo_c080bruto: 116.17 EUR
+        dodatek_dela_prost_dan_c111bruto: 410.61 EUR
+
+KNJIŽNICA LITIJA - DIREKTOR KNJIŽNICE - 2010: 3103.32 EUR
+    plača bruto 4692.41 EUR, za obdobje 4 mesca/mescev, skupaj 7795.73 EUR
+    dodatki znesejo 66.13% plače bruto, 39.81% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 3103.32 EUR
+
+JAVNI ZAVOD ŠPORT LJUBLJANA - DIREKTOR JAVNEGA ZAVODA S PODROČJA ŠPORTA - 2011: 19534.49 EUR
+    plača bruto 29624.76 EUR, za obdobje 12 mesca/mescev, skupaj 49159.25 EUR
+    dodatki znesejo 65.94% plače bruto, 39.74% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 19524.18 EUR
+        dodatek_delo_ponoci_c100bruto: 10.31 EUR
+
+LEKARNA SEVNICA - DIREKTOR LEKARNE - 2011: 11222.17 EUR
+    plača bruto 17069.35 EUR, za obdobje 8 mesca/mescev, skupaj 28291.52 EUR
+    dodatki znesejo 65.74% plače bruto, 39.67% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 10042.79 EUR
+        dezurstvo: 749.23 EUR
+        dodatek_mentorstvo_c030bruto: 378.55 EUR
+        dodatek_neenakomerno_razporejen_delovni_cas_c190bruto: 51.6 EUR
+
+RADIOTELEVIZIJA SLOVENIJA JAVNI ZAVOD, LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA - 2010: 17220.63 EUR
+    plača bruto 26193.97 EUR, za obdobje 8 mesca/mescev, skupaj 43414.6 EUR
+    dodatki znesejo 65.74% plače bruto, 39.67% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 17044.22 EUR
+        dodatek_poracun_c900bruto: 176.41 EUR
+
+OBALNE LEKARNE KOPER FARMACIE COSTIERE CAPODISTRIA - NAMESTNIK DIREKTORJA/ČLANA UPRAVE - 2010: 18961.55 EUR
+    plača bruto 28934.39 EUR, za obdobje 11 mesca/mescev, skupaj 47895.94 EUR
+    dodatki znesejo 65.53% plače bruto, 39.59% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 17355.11 EUR
+        dodatek_mag_dr_c040bruto: 449.34 EUR
+        dodatek_dvojezicnost_c051bruto: 1157.1 EUR
+
+CENTER ZA ZDRAVLJENJE BOLEZNI OTROK - DIREKTOR BOLNIŠNICE - 2014: 18941.84 EUR
+    plača bruto 29646.76 EUR, za obdobje 12 mesca/mescev, skupaj 48588.6 EUR
+    dodatki znesejo 63.89% plače bruto, 38.98% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 2384.2 EUR
+        dodatno_delo: 5361.65 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 11195.99 EUR
+
+RADIOTELEVIZIJA SLOVENIJA JAVNI ZAVOD, LJUBLJANA - DIREKTOR JAVNEGA ZAVODA - 2010: 19345.19 EUR
+    plača bruto 30389.8 EUR, za obdobje 9 mesca/mescev, skupaj 49734.99 EUR
+    dodatki znesejo 63.66% plače bruto, 38.90% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 18907.7 EUR
+        dodatek_poracun_c900bruto: 437.49 EUR
+
+OKROŽNO SODIŠČE V KOPRU - VIŠJI SODNIK - 2011: 24798.33 EUR
+    plača bruto 39281.12 EUR, za obdobje 11 mesca/mescev, skupaj 64079.45 EUR
+    dodatki znesejo 63.13% plače bruto, 38.70% celotnega zneska
+    dodatki:
+        polozajni_dodatek: 3142.5 EUR
+        dezurstvo: 7249.16 EUR
+        dodatek_mentorstvo_c030bruto: 640.42 EUR
+        dodatek_dvojezicnost_c052bruto: 2356.86 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 11401.39 EUR
+        dodatek_ogled_kd_c300bruto: 8.0 EUR
+
+RADIOTELEVIZIJA SLOVENIJA JAVNI ZAVOD, LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA - 2010: 17457.03 EUR
+    plača bruto 27732.58 EUR, za obdobje 8 mesca/mescev, skupaj 45189.61 EUR
+    dodatki znesejo 62.95% plače bruto, 38.63% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 17044.22 EUR
+        dodatek_poracun_c900bruto: 412.81 EUR
+
+ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA - DIREKTOR ZDRAVSTVENEGA DOMA - 2014: 18864.84 EUR
+    plača bruto 29991.52 EUR, za obdobje 12 mesca/mescev, skupaj 48856.36 EUR
+    dodatki znesejo 62.90% plače bruto, 38.61% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 14.6 EUR
+        dodatno_delo: 15832.8 EUR
+        dodatek_mentorstvo_c030bruto: 2535.32 EUR
+        dodatek_mag_dr_c040bruto: 482.12 EUR
+
+ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA - DIREKTOR ZDRAVSTVENEGA DOMA - 2013: 17272.64 EUR
+    plača bruto 27472.73 EUR, za obdobje 12 mesca/mescev, skupaj 44745.37 EUR
+    dodatki znesejo 62.87% plače bruto, 38.60% celotnega zneska
+    dodatki:
+        dodatno_delo: 14860.96 EUR
+        dodatek_mentorstvo_c030bruto: 1100.93 EUR
+        dodatek_mag_dr_c040bruto: 381.43 EUR
+        dodatek_poracun_c900bruto: 929.32 EUR
+
+LEKARNA MOZIRJE - DIREKTOR LEKARNE - 2010: 14297.29 EUR
+    plača bruto 22842.68 EUR, za obdobje 10 mesca/mescev, skupaj 37139.97 EUR
+    dodatki znesejo 62.59% plače bruto, 38.50% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 13568.44 EUR
+        dodatno_delo: 472.0 EUR
+        dodatek_delo_v_nedeljo_c110bruto: 196.96 EUR
+        dodatek_dela_prost_dan_c111bruto: 59.24 EUR
+        dodatek_poracun_c900bruto: 0.65 EUR
+
+ONKOLOŠKI INŠTITUT LJUBLJANA - POMOČNIK DIREKTORJA - 2011: 22259.06 EUR
+    plača bruto 35577.81 EUR, za obdobje 12 mesca/mescev, skupaj 57836.87 EUR
+    dodatki znesejo 62.56% plače bruto, 38.49% celotnega zneska
+    dodatki:
+        polozajni_dodatek: 930.14 EUR
+        dodatno_delo: 21328.92 EUR
+
+LEKARNA MOZIRJE - DIREKTOR LEKARNE - 2011: 15638.96 EUR
+    plača bruto 25160.45 EUR, za obdobje 12 mesca/mescev, skupaj 40799.41 EUR
+    dodatki znesejo 62.16% plače bruto, 38.33% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 14782.64 EUR
+        dodatno_delo: 543.61 EUR
+        dodatek_delo_v_nedeljo_c110bruto: 223.37 EUR
+        dodatek_dela_prost_dan_c111bruto: 89.34 EUR
+
+JZ LEKARNA KRŠKO - DIREKTOR LEKARNE - 2010: 15847.15 EUR
+    plača bruto 25533.77 EUR, za obdobje 12 mesca/mescev, skupaj 41380.92 EUR
+    dodatki znesejo 62.06% plače bruto, 38.30% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 15846.75 EUR
+        dodatek_poracun_c900bruto: 0.4 EUR
+
+DIJAŠKI IN ŠTUDENTSKI DOM NOVO MESTO - RAVNATELJ DIJAŠKEGA DOMA/DIJAŠKEGA DOMA - ORGANIZACIJSKE ENOTE - 2014: 14079.5 EUR
+    plača bruto 22816.64 EUR, za obdobje 12 mesca/mescev, skupaj 36896.14 EUR
+    dodatki znesejo 61.71% plače bruto, 38.16% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 13618.51 EUR
+        dodatno_delo: 221.11 EUR
+        dodatek_delo_v_nedeljo_c110bruto: 193.45 EUR
+        dodatek_dela_prost_dan_c111bruto: 46.43 EUR
+
+GORIŠKA LEKARNA NOVA GORICA - DIREKTOR LEKARNE - 2012: 18329.75 EUR
+    plača bruto 29752.37 EUR, za obdobje 12 mesca/mescev, skupaj 48082.12 EUR
+    dodatki znesejo 61.61% plače bruto, 38.12% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 17760.0 EUR
+        dodatek_mag_dr_c040bruto: 445.23 EUR
+        dodatek_dela_prost_dan_c111bruto: 124.52 EUR
+
+LEKARNA VELENJE - DIREKTOR LEKARNE - 2011: 16100.69 EUR
+    plača bruto 26545.25 EUR, za obdobje 12 mesca/mescev, skupaj 42645.94 EUR
+    dodatki znesejo 60.65% plače bruto, 37.75% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 15662.93 EUR
+        dodatno_delo: 437.76 EUR
+
+LEKARNA SEVNICA - DIREKTOR LEKARNE - 2010: 16056.62 EUR
+    plača bruto 26477.29 EUR, za obdobje 12 mesca/mescev, skupaj 42533.91 EUR
+    dodatki znesejo 60.64% plače bruto, 37.75% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 12561.09 EUR
+        dodatno_delo: 2735.22 EUR
+        dodatek_mentorstvo_c030bruto: 677.32 EUR
+        dodatek_neenakomerno_razporejen_delovni_cas_c190bruto: 81.84 EUR
+        dodatek_poracun_c900bruto: 1.15 EUR
+
+LJUDSKA UNIVERZA KRANJ, CENTER ZA IZOBRAŽEVANJE IN KULTURO - DIREKTOR LJUDSKE UNIVERZE - 2010: 16095.6 EUR
+    plača bruto 26552.69 EUR, za obdobje 11 mesca/mescev, skupaj 42648.29 EUR
+    dodatki znesejo 60.62% plače bruto, 37.74% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 12198.97 EUR
+        dodatek_mentorstvo_c030bruto: 3896.63 EUR
+
+OKROŽNO SODIŠČE V KOPRU - OKROŽNI KAZENSKI SODNIK SVETNIK - 2010: 18656.78 EUR
+    plača bruto 30834.96 EUR, za obdobje 10 mesca/mescev, skupaj 49491.74 EUR
+    dodatki znesejo 60.51% plače bruto, 37.70% celotnega zneska
+    dodatki:
+        polozajni_dodatek: 2466.78 EUR
+        dezurstvo: 5374.9 EUR
+        dodatek_mentorstvo_c030bruto: 870.9 EUR
+        dodatek_dvojezicnost_c052bruto: 1850.1 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8094.1 EUR
+
+OKROŽNO SODIŠČE V KOPRU - VIŠJI SODNIK - 2012: 24374.21 EUR
+    plača bruto 40310.99 EUR, za obdobje 12 mesca/mescev, skupaj 64685.2 EUR
+    dodatki znesejo 60.47% plače bruto, 37.68% celotnega zneska
+    dodatki:
+        polozajni_dodatek: 3224.86 EUR
+        dezurstvo: 6745.11 EUR
+        dodatek_mentorstvo_c030bruto: 731.88 EUR
+        dodatek_dvojezicnost_c052bruto: 2418.65 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 11253.71 EUR
+
+GORIŠKA LEKARNA NOVA GORICA - DIREKTOR LEKARNE - 2011: 18239.52 EUR
+    plača bruto 30555.5 EUR, za obdobje 12 mesca/mescev, skupaj 48795.02 EUR
+    dodatki znesejo 59.69% plače bruto, 37.38% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 17760.0 EUR
+        dodatek_mag_dr_c040bruto: 477.77 EUR
+        dodatek_poracun_c900bruto: 1.75 EUR
+
+ZAVOD ZA ZDRAVSTVENO VARSTVO NOVA GORICA - DIREKTOR ZAVODA ZA ZDRAVSTVENO VARSTVO - 2012: 6090.94 EUR
+    plača bruto 10238.29 EUR, za obdobje 5 mesca/mescev, skupaj 16329.23 EUR
+    dodatki znesejo 59.49% plače bruto, 37.30% celotnega zneska
+    dodatki:
+        dodatno_delo: 75.11 EUR
+        dodatek_mentorstvo_c030bruto: 617.87 EUR
+        dodatek_mag_dr_c040bruto: 395.24 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5002.72 EUR
+
+UNIVERZA NA PRIMORSKEM UNIVERSITA DEL LITORALE - DIREKTOR JAVNEGA RAZISKOVALNEGA ZAVODA / JAVNEGA INFRASTRUKTURNEGA ZAVODA - 2010: 21059.62 EUR
+    plača bruto 35460.3 EUR, za obdobje 12 mesca/mescev, skupaj 56519.92 EUR
+    dodatki znesejo 59.39% plače bruto, 37.26% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 18502.4 EUR
+        dodatek_mentorstvo_c030bruto: 1493.72 EUR
+        dodatek_dvojezicnost_c050bruto: 1063.5 EUR
+
+DOLENJSKE LEKARNE NOVO MESTO P.O. - DIREKTOR LEKARNE - 2014: 16421.78 EUR
+    plača bruto 27769.31 EUR, za obdobje 12 mesca/mescev, skupaj 44191.09 EUR
+    dodatki znesejo 59.14% plače bruto, 37.16% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 16080.0 EUR
+        dezurstvo: 121.23 EUR
+        dodatek_mag_dr_c040bruto: 220.55 EUR
+
+GORIŠKA LEKARNA NOVA GORICA - DIREKTOR LEKARNE - 2010: 16595.76 EUR
+    plača bruto 28147.35 EUR, za obdobje 12 mesca/mescev, skupaj 44743.11 EUR
+    dodatki znesejo 58.96% plače bruto, 37.09% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 16190.0 EUR
+        dodatek_mag_dr_c040bruto: 403.55 EUR
+        dodatek_poracun_c900bruto: 2.21 EUR
+
+OKROŽNO SODIŠČE V SLOVENJ GRADCU - VIŠJI SODNIK - 2014: 543.97 EUR
+    plača bruto 922.94 EUR, za obdobje 1 mesca/mescev, skupaj 1466.91 EUR
+    dodatki znesejo 58.94% plače bruto, 37.08% celotnega zneska
+    dodatki:
+        dezurstvo: 125.44 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 418.53 EUR
+
+BOLNIŠNICA SEŽANA - POMOČNIK DIREKTORJA - 2013: 14976.36 EUR
+    plača bruto 25436.65 EUR, za obdobje 12 mesca/mescev, skupaj 40413.01 EUR
+    dodatki znesejo 58.88% plače bruto, 37.06% celotnega zneska
+    dodatki:
+        dodatno_delo: 14881.27 EUR
+        dodatek_izmensko_delo_c080bruto: 47.46 EUR
+        dodatek_dela_prost_dan_c111bruto: 47.63 EUR
+
+JAVNI ZAVOD KRAŠKE LEKARNE ILIRSKA BISTRICA - DIREKTOR LEKARNE - 2010: 20744.66 EUR
+    plača bruto 35314.25 EUR, za obdobje 12 mesca/mescev, skupaj 56058.91 EUR
+    dodatki znesejo 58.74% plače bruto, 37.01% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 20744.2 EUR
+        dodatek_poracun_c900bruto: 0.46 EUR
+
+ZDRAVSTVENI DOM DR. JULIJA POLCA KAMNIK - DIREKTOR ZDRAVSTVENEGA DOMA - 2010: 4281.75 EUR
+    plača bruto 7307.54 EUR, za obdobje 3 mesca/mescev, skupaj 11589.29 EUR
+    dodatki znesejo 58.59% plače bruto, 36.95% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 4050.24 EUR
+        dodatek_mag_dr_c040bruto: 96.95 EUR
+        dodatek_izmensko_delo_c080bruto: 133.55 EUR
+        dodatek_poracun_c900bruto: 1.01 EUR
+
+JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA - 2012: 16429.15 EUR
+    plača bruto 28043 EUR, za obdobje 12 mesca/mescev, skupaj 44472.15 EUR
+    dodatki znesejo 58.59% plače bruto, 36.94% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 16429.15 EUR
+
+JZ LEKARNA KRŠKO - DIREKTOR LEKARNE - 2014: 13761.31 EUR
+    plača bruto 23536.91 EUR, za obdobje 12 mesca/mescev, skupaj 37298.22 EUR
+    dodatki znesejo 58.47% plače bruto, 36.90% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 13511.91 EUR
+        dodatek_mentorstvo_c030bruto: 249.4 EUR
+
+DOLENJSKE LEKARNE NOVO MESTO P.O. - DIREKTOR LEKARNE - 2013: 15666.12 EUR
+    plača bruto 26927.47 EUR, za obdobje 12 mesca/mescev, skupaj 42593.59 EUR
+    dodatki znesejo 58.18% plače bruto, 36.78% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 15240.0 EUR
+        dezurstvo: 124.52 EUR
+        dodatek_mag_dr_c040bruto: 301.6 EUR
+
+DOLENJSKE LEKARNE NOVO MESTO P.O. - DIREKTOR LEKARNE - 2012: 16629.65 EUR
+    plača bruto 28588.94 EUR, za obdobje 12 mesca/mescev, skupaj 45218.59 EUR
+    dodatki znesejo 58.17% plače bruto, 36.78% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 16200.0 EUR
+        dodatek_mag_dr_c040bruto: 427.79 EUR
+        dodatek_neenakomerno_razporejen_delovni_cas_c190bruto: 1.86 EUR
+
+ZASAVSKE LEKARNE TRBOVLJE - DIREKTOR LEKARNE - 2010: 14408.39 EUR
+    plača bruto 24800.83 EUR, za obdobje 12 mesca/mescev, skupaj 39209.22 EUR
+    dodatki znesejo 58.10% plače bruto, 36.75% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 13852.8 EUR
+        dodatek_mag_dr_c040bruto: 551.95 EUR
+        dodatek_poracun_c900bruto: 3.64 EUR
+
+DOLENJSKE LEKARNE NOVO MESTO P.O. - POMOČNIK DIREKTORJA - 2014: 13320.0 EUR
+    plača bruto 23028.9 EUR, za obdobje 12 mesca/mescev, skupaj 36348.9 EUR
+    dodatki znesejo 57.84% plače bruto, 36.64% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 13320.0 EUR
+
+CENTER ZA ZDRAVLJENJE BOLEZNI OTROK - DIREKTOR BOLNIŠNICE - 2010: 20107.9 EUR
+    plača bruto 34818.57 EUR, za obdobje 12 mesca/mescev, skupaj 54926.47 EUR
+    dodatki znesejo 57.75% plače bruto, 36.61% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 3759.15 EUR
+        dodatno_delo: 4209.18 EUR
+        dodatek_izmensko_delo_c080bruto: 36.38 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 12101.19 EUR
+        dodatek_poracun_c900bruto: 2.0 EUR
+
+ENERGETSKA AGENCIJA ZA PODRAVJE - ZAVOD ZA TRAJNOSTNO RABO ENERGIJE - DIREKTOR JAVNEGA SKLADA, JAVNEGA ZAVODA, AGENCIJE - 2014: 13189.27 EUR
+    plača bruto 22870.5 EUR, za obdobje 12 mesca/mescev, skupaj 36059.77 EUR
+    dodatki znesejo 57.67% plače bruto, 36.58% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 12391.5 EUR
+        dodatek_mentorstvo_c030bruto: 214.36 EUR
+        dodatek_mag_dr_c040bruto: 583.41 EUR
+
+LEKARNA VELENJE - DIREKTOR LEKARNE - 2010: 14699.77 EUR
+    plača bruto 25496.01 EUR, za obdobje 12 mesca/mescev, skupaj 40195.78 EUR
+    dodatki znesejo 57.66% plače bruto, 36.57% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 14273.39 EUR
+        dodatno_delo: 425.95 EUR
+        dodatek_poracun_c900bruto: 0.43 EUR
+
+ZDRAVSTVENI DOM AJDOVŠČINA - POMOČNIK DIREKTORJA - 2010: 175.32 EUR
+    plača bruto 304.27 EUR, za obdobje 3 mesca/mescev, skupaj 479.59 EUR
+    dodatki znesejo 57.62% plače bruto, 36.56% celotnega zneska
+    dodatki:
+        dodatno_delo: 175.32 EUR
+
+LEKARNA BREŽICE - DIREKTOR LEKARNE - 2013: 15458.8 EUR
+    plača bruto 27061.13 EUR, za obdobje 12 mesca/mescev, skupaj 42519.93 EUR
+    dodatki znesejo 57.13% plače bruto, 36.36% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 15201.4 EUR
+        dodatno_delo: 257.4 EUR
+
+OSNOVNA ŠOLA DR. JANEZA MENCINGERJA BOHINJSKA BISTRICA - RAVNATELJ OSNOVNE ŠOLE - 2010: 2661.79 EUR
+    plača bruto 4668.23 EUR, za obdobje 2 mesca/mescev, skupaj 7330.02 EUR
+    dodatki znesejo 57.02% plače bruto, 36.31% celotnega zneska
+    dodatki:
+        delovna_uspesnost: 2661.12 EUR
+        dodatek_poracun_c900bruto: 0.67 EUR
+
