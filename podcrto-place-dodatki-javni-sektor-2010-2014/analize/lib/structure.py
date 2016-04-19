@@ -31,4 +31,12 @@ def sifra_dm(entry):
 
 def leto(entry):
     assert type(entry) is list
-    return entry[71]
+    return int(entry[71])
+
+def organ(entry):
+    assert type(entry) is list
+    return entry[68]
+
+def ime_organa(entry):
+    assert type(entry) is list
+    return entry[0]
