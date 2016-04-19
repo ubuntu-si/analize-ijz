@@ -26,6 +26,13 @@ def dodatki_absolutno_zaposleni(parser_output):
                 format(structure.leto(entry), entry[3], entry[0], entry[1], \
                     entry[4], structure.dodatki_sum(entry), structure.total_income(entry))
 
+            print "      dodatki:"
+            dodatek_index = 0
+            for dodatek in structure.dodatki(entry):
+                if dodatek > 0:
+                    print "        {}: {} EUR".format(header_cells[dodatek_index + 5], dodatek)
+                dodatek_index = dodatek_index + 1
+
         total_placa = sum(map(lambda x: float(x[4]), entries))
         total_dodatki = sum(map(lambda x: structure.dodatki_sum(x), entries))
         print "    Skupaj: Plača bruto {} EUR, dodatki {} EUR, skupaj {} EUR". \
