@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 
-import sys
-
 from lib import parser, structure
 
 def dodatki_relativno(parser_output):
