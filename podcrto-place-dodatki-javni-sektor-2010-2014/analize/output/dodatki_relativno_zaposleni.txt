@@ -1,0 +1,2201 @@
+Top 100 lestvica po izplačilu dodatkov relativno plači bruto, po zaposlenem
+
+Zaposleni #4435147015587528224 - 5046.57 EUR dodatkov, 90.96% celotnega zneska
+    2010 (2 mesecev) - UNIVERZA V MARIBORU ŠTUDENTSKI DOMOVI - DIREKTOR ŠDL: plača bruto 501.54 EUR, dodatki 5046.57 EUR, skupaj 5548.11 EUR
+      dodatki:
+        delovna_uspesnost: 5029.81 EUR
+        dodatek_mag_dr_c040bruto: 16.76 EUR
+    Skupaj: Plača bruto 501.54 EUR, dodatki 5046.57 EUR, skupaj 5548.11 EUR
+
+Zaposleni #16767561610487371119 - 5517.34 EUR dodatkov, 70.72% celotnega zneska
+    2010 (2 mesecev) - RADIOTELEVIZIJA SLOVENIJA JAVNI ZAVOD, LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 2283.89 EUR, dodatki 5517.34 EUR, skupaj 7801.23 EUR
+      dodatki:
+        delovna_uspesnost: 5253.56 EUR
+        dodatek_mag_dr_c040bruto: 39.27 EUR
+        dodatek_poracun_c900bruto: 224.51 EUR
+    Skupaj: Plača bruto 2283.89 EUR, dodatki 5517.34 EUR, skupaj 7801.23 EUR
+
+Zaposleni #18057600452400092114 - 52082.23 EUR dodatkov, 59.27% celotnega zneska
+    2010 (12 mesecev) - ZDRAVSTVENI DOM RADLJE OB DRAVI - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 27003.67 EUR, dodatki 39971.7 EUR, skupaj 66975.37 EUR
+      dodatki:
+        dodatno_delo: 39389.41 EUR
+        dodatek_mag_dr_c040bruto: 580.43 EUR
+        dodatek_poracun_c900bruto: 1.86 EUR
+    2011 (3 mesecev) - ZDRAVSTVENI DOM RADLJE OB DRAVI - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 8786.04 EUR, dodatki 12110.53 EUR, skupaj 20896.57 EUR
+      dodatki:
+        dodatno_delo: 11921.62 EUR
+        dodatek_mag_dr_c040bruto: 188.91 EUR
+    Skupaj: Plača bruto 35789.71 EUR, dodatki 52082.23 EUR, skupaj 87871.94 EUR
+
+Zaposleni #949643982368590311 - 190875.35 EUR dodatkov, 56.60% celotnega zneska
+    2010 (11 mesecev) - ZDRAVSTVENI DOM METLIKA - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 30527.11 EUR, dodatki 48606.65 EUR, skupaj 79133.76 EUR
+      dodatki:
+        dodatno_delo: 47960.47 EUR
+        dodatek_izmensko_delo_c080bruto: 646.18 EUR
+    2011 (12 mesecev) - ZDRAVSTVENI DOM METLIKA - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 32333.64 EUR, dodatki 44317.79 EUR, skupaj 76651.43 EUR
+      dodatki:
+        dodatno_delo: 43675.62 EUR
+        dodatek_izmensko_delo_c080bruto: 642.17 EUR
+    2012 (12 mesecev) - ZDRAVSTVENI DOM METLIKA - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 29065.39 EUR, dodatki 35270.14 EUR, skupaj 64335.53 EUR
+      dodatki:
+        dodatno_delo: 34862.86 EUR
+        dodatek_izmensko_delo_c080bruto: 407.28 EUR
+    2013 (12 mesecev) - ZDRAVSTVENI DOM METLIKA - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 25078.47 EUR, dodatki 31880.04 EUR, skupaj 56958.51 EUR
+      dodatki:
+        dodatno_delo: 31559.59 EUR
+        dodatek_izmensko_delo_c080bruto: 320.45 EUR
+    2014 (12 mesecev) - ZDRAVSTVENI DOM METLIKA - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 29338.7 EUR, dodatki 30800.73 EUR, skupaj 60139.43 EUR
+      dodatki:
+        dodatno_delo: 30502.0 EUR
+        dodatek_izmensko_delo_c080bruto: 298.73 EUR
+    Skupaj: Plača bruto 146343.31 EUR, dodatki 190875.35 EUR, skupaj 337218.66 EUR
+
+Zaposleni #9795981464693291641 - 12934.96 EUR dodatkov, 56.29% celotnega zneska
+    2010 (12 mesecev) - SPLOŠNA BOLNIŠNICA TRBOVLJE - STROKOVNI DIREKTOR/STROKOVNI VODJA: plača bruto 7554.12 EUR, dodatki 9855.38 EUR, skupaj 17409.5 EUR
+      dodatki:
+        delovna_uspesnost: 1346.42 EUR
+        dodatno_delo: 8365.38 EUR
+        dodatek_mag_dr_c040bruto: 143.51 EUR
+        dodatek_poracun_c900bruto: 0.07 EUR
+    2011 (4 mesecev) - SPLOŠNA BOLNIŠNICA TRBOVLJE - STROKOVNI DIREKTOR/STROKOVNI VODJA: plača bruto 2489.44 EUR, dodatki 3079.58 EUR, skupaj 5569.02 EUR
+      dodatki:
+        dodatno_delo: 3032.56 EUR
+        dodatek_mag_dr_c040bruto: 47.02 EUR
+    Skupaj: Plača bruto 10043.56 EUR, dodatki 12934.96 EUR, skupaj 22978.52 EUR
+
+Zaposleni #8533902910542061028 - 28989.75 EUR dodatkov, 45.83% celotnega zneska
+    2010 (12 mesecev) - ZDRAVSTVENI DOM DRAVOGRAD - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 34266.99 EUR, dodatki 28989.75 EUR, skupaj 63256.74 EUR
+      dodatki:
+        dodatno_delo: 27998.35 EUR
+        dodatek_mentorstvo_c030bruto: 498.69 EUR
+        dodatek_mag_dr_c040bruto: 492.05 EUR
+        dodatek_poracun_c900bruto: 0.66 EUR
+    Skupaj: Plača bruto 34266.99 EUR, dodatki 28989.75 EUR, skupaj 63256.74 EUR
+
+Zaposleni #14411690702368958172 - 20283.07 EUR dodatkov, 42.05% celotnega zneska
+    2010 (12 mesecev) - OBALNE LEKARNE KOPER FARMACIE COSTIERE CAPODISTRIA - DIREKTOR LEKARNE: plača bruto 27954.88 EUR, dodatki 20184.5 EUR, skupaj 48139.38 EUR
+      dodatki:
+        delovna_uspesnost: 18665.15 EUR
+        dodatek_mag_dr_c040bruto: 401.46 EUR
+        dodatek_dvojezicnost_c051bruto: 1117.89 EUR
+    2011 (0 mesecev) - OBALNE LEKARNE KOPER FARMACIE COSTIERE CAPODISTRIA - DIREKTOR LEKARNE: plača bruto 0 EUR, dodatki 98.57 EUR, skupaj 98.57 EUR
+      dodatki:
+        delovna_uspesnost: 98.57 EUR
+    Skupaj: Plača bruto 27954.88 EUR, dodatki 20283.07 EUR, skupaj 48237.95 EUR
+
+Zaposleni #6824219697145776136 - 100823.9 EUR dodatkov, 41.75% celotnega zneska
+    2010 (12 mesecev) - ZDRAVSTVENI DOM BREŽICE - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 30320.7 EUR, dodatki 31580.21 EUR, skupaj 61900.91 EUR
+      dodatki:
+        delovna_uspesnost: 2163.89 EUR
+        dodatno_delo: 28870.09 EUR
+        dodatek_mentorstvo_c030bruto: 545.67 EUR
+        dodatek_poracun_c900bruto: 0.56 EUR
+    2011 (12 mesecev) - ZDRAVSTVENI DOM BREŽICE - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 33066.78 EUR, dodatki 30743.36 EUR, skupaj 63810.14 EUR
+      dodatki:
+        delovna_uspesnost: 1234.42 EUR
+        dodatno_delo: 28913.75 EUR
+        dodatek_mentorstvo_c030bruto: 595.19 EUR
+    2012 (12 mesecev) - ZDRAVSTVENI DOM BREŽICE - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 28583.29 EUR, dodatki 35242.89 EUR, skupaj 63826.18 EUR
+      dodatki:
+        dodatno_delo: 35069.37 EUR
+        dodatek_mentorstvo_c030bruto: 173.52 EUR
+    2013 (12 mesecev) - ZDRAVSTVENI DOM BREŽICE - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 29518.96 EUR, dodatki 840.08 EUR, skupaj 30359.04 EUR
+      dodatki:
+        delovna_uspesnost: 166.0 EUR
+        dodatek_mentorstvo_c030bruto: 674.08 EUR
+    2014 (12 mesecev) - ZDRAVSTVENI DOM BREŽICE - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 19206.89 EUR, dodatki 2417.36 EUR, skupaj 21624.25 EUR
+      dodatki:
+        delovna_uspesnost: 150.0 EUR
+        dodatek_mentorstvo_c030bruto: 2267.36 EUR
+    Skupaj: Plača bruto 140696.62 EUR, dodatki 100823.9 EUR, skupaj 241520.52 EUR
+
+Zaposleni #9047514736739032622 - 12596.39 EUR dodatkov, 40.48% celotnega zneska
+    2010 (8 mesecev) - ANDRAGOŠKI ZAVOD LJUDSKA UNIVERZA VELENJE - DIREKTOR LJUDSKE UNIVERZE: plača bruto 18520.35 EUR, dodatki 12596.39 EUR, skupaj 31116.74 EUR
+      dodatki:
+        delovna_uspesnost: 12281.39 EUR
+        dodatek_mag_dr_c040bruto: 315.0 EUR
+    Skupaj: Plača bruto 18520.35 EUR, dodatki 12596.39 EUR, skupaj 31116.74 EUR
+
+Zaposleni #2233328071544703034 - 94713.89 EUR dodatkov, 40.05% celotnega zneska
+    2010 (12 mesecev) - DOLENJSKE LEKARNE NOVO MESTO P.O. - DIREKTOR LEKARNE: plača bruto 30105.38 EUR, dodatki 31095.75 EUR, skupaj 61201.13 EUR
+      dodatki:
+        delovna_uspesnost: 18848.78 EUR
+        dodatno_delo: 11809.78 EUR
+        dodatek_mag_dr_c040bruto: 432.56 EUR
+        dodatek_neenakomerno_razporejen_delovni_cas_c190bruto: 3.7 EUR
+        dodatek_poracun_c900bruto: 0.93 EUR
+    2011 (12 mesecev) - DOLENJSKE LEKARNE NOVO MESTO P.O. - DIREKTOR LEKARNE: plača bruto 28397.62 EUR, dodatki 14900.59 EUR, skupaj 43298.21 EUR
+      dodatki:
+        delovna_uspesnost: 14492.46 EUR
+        dodatek_mag_dr_c040bruto: 408.13 EUR
+    2012 (12 mesecev) - DOLENJSKE LEKARNE NOVO MESTO P.O. - DIREKTOR LEKARNE: plača bruto 28588.94 EUR, dodatki 16629.65 EUR, skupaj 45218.59 EUR
+      dodatki:
+        delovna_uspesnost: 16200.0 EUR
+        dodatek_mag_dr_c040bruto: 427.79 EUR
+        dodatek_neenakomerno_razporejen_delovni_cas_c190bruto: 1.86 EUR
+    2013 (12 mesecev) - DOLENJSKE LEKARNE NOVO MESTO P.O. - DIREKTOR LEKARNE: plača bruto 26927.47 EUR, dodatki 15666.12 EUR, skupaj 42593.59 EUR
+      dodatki:
+        delovna_uspesnost: 15240.0 EUR
+        dezurstvo: 124.52 EUR
+        dodatek_mag_dr_c040bruto: 301.6 EUR
+    2014 (12 mesecev) - DOLENJSKE LEKARNE NOVO MESTO P.O. - DIREKTOR LEKARNE: plača bruto 27769.31 EUR, dodatki 16421.78 EUR, skupaj 44191.09 EUR
+      dodatki:
+        delovna_uspesnost: 16080.0 EUR
+        dezurstvo: 121.23 EUR
+        dodatek_mag_dr_c040bruto: 220.55 EUR
+    Skupaj: Plača bruto 141788.72 EUR, dodatki 94713.89 EUR, skupaj 236502.61 EUR
+
+Zaposleni #8331100512311049224 - 17220.63 EUR dodatkov, 39.67% celotnega zneska
+    2010 (8 mesecev) - RADIOTELEVIZIJA SLOVENIJA JAVNI ZAVOD, LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA: plača bruto 26193.97 EUR, dodatki 17220.63 EUR, skupaj 43414.6 EUR
+      dodatki:
+        delovna_uspesnost: 17044.22 EUR
+        dodatek_poracun_c900bruto: 176.41 EUR
+    Skupaj: Plača bruto 26193.97 EUR, dodatki 17220.63 EUR, skupaj 43414.6 EUR
+
+Zaposleni #5739555672433951310 - 49742.51 EUR dodatkov, 39.38% celotnega zneska
+    2010 (12 mesecev) - LEKARNA SEVNICA - DIREKTOR LEKARNE: plača bruto 26477.29 EUR, dodatki 16056.62 EUR, skupaj 42533.91 EUR
+      dodatki:
+        delovna_uspesnost: 12561.09 EUR
+        dodatno_delo: 2735.22 EUR
+        dodatek_mentorstvo_c030bruto: 677.32 EUR
+        dodatek_neenakomerno_razporejen_delovni_cas_c190bruto: 81.84 EUR
+        dodatek_poracun_c900bruto: 1.15 EUR
+    2011 (8 mesecev) - LEKARNA SEVNICA - DIREKTOR LEKARNE: plača bruto 17069.35 EUR, dodatki 11222.17 EUR, skupaj 28291.52 EUR
+      dodatki:
+        delovna_uspesnost: 10042.79 EUR
+        dezurstvo: 749.23 EUR
+        dodatek_mentorstvo_c030bruto: 378.55 EUR
+        dodatek_neenakomerno_razporejen_delovni_cas_c190bruto: 51.6 EUR
+    2012 (12 mesecev) - LEKARNA SEVNICA - DIREKTOR LEKARNE: plača bruto 24068.97 EUR, dodatki 17908.32 EUR, skupaj 41977.29 EUR
+      dodatki:
+        delovna_uspesnost: 15329.96 EUR
+        dezurstvo: 1835.01 EUR
+        dodatek_mentorstvo_c030bruto: 654.83 EUR
+        dodatek_neenakomerno_razporejen_delovni_cas_c190bruto: 88.52 EUR
+    2013 (4 mesecev) - LEKARNA SEVNICA - DIREKTOR LEKARNE: plača bruto 8954.4 EUR, dodatki 4555.4 EUR, skupaj 13509.8 EUR
+      dodatki:
+        delovna_uspesnost: 3850.42 EUR
+        dezurstvo: 676.21 EUR
+        dodatek_neenakomerno_razporejen_delovni_cas_c190bruto: 28.77 EUR
+    Skupaj: Plača bruto 76570.01 EUR, dodatki 49742.51 EUR, skupaj 126312.52 EUR
+
+Zaposleni #3442213763433756543 - 19345.19 EUR dodatkov, 38.90% celotnega zneska
+    2010 (9 mesecev) - RADIOTELEVIZIJA SLOVENIJA JAVNI ZAVOD, LJUBLJANA - DIREKTOR JAVNEGA ZAVODA: plača bruto 30389.8 EUR, dodatki 19345.19 EUR, skupaj 49734.99 EUR
+      dodatki:
+        delovna_uspesnost: 18907.7 EUR
+        dodatek_poracun_c900bruto: 437.49 EUR
+    Skupaj: Plača bruto 30389.8 EUR, dodatki 19345.19 EUR, skupaj 49734.99 EUR
+
+Zaposleni #15254664496816539024 - 77541.86 EUR dodatkov, 38.83% celotnega zneska
+    2010 (10 mesecev) - LEKARNA MOZIRJE - DIREKTOR LEKARNE: plača bruto 22842.68 EUR, dodatki 14297.29 EUR, skupaj 37139.97 EUR
+      dodatki:
+        delovna_uspesnost: 13568.44 EUR
+        dodatno_delo: 472.0 EUR
+        dodatek_delo_v_nedeljo_c110bruto: 196.96 EUR
+        dodatek_dela_prost_dan_c111bruto: 59.24 EUR
+        dodatek_poracun_c900bruto: 0.65 EUR
+    2011 (12 mesecev) - LEKARNA MOZIRJE - DIREKTOR LEKARNE: plača bruto 25160.45 EUR, dodatki 15638.96 EUR, skupaj 40799.41 EUR
+      dodatki:
+        delovna_uspesnost: 14782.64 EUR
+        dodatno_delo: 543.61 EUR
+        dodatek_delo_v_nedeljo_c110bruto: 223.37 EUR
+        dodatek_dela_prost_dan_c111bruto: 89.34 EUR
+    2012 (12 mesecev) - LEKARNA MOZIRJE - DIREKTOR LEKARNE: plača bruto 24989.76 EUR, dodatki 13336.55 EUR, skupaj 38326.31 EUR
+      dodatki:
+        delovna_uspesnost: 12311.98 EUR
+        dodatno_delo: 697.59 EUR
+        dodatek_delo_v_nedeljo_c110bruto: 237.64 EUR
+        dodatek_dela_prost_dan_c111bruto: 89.34 EUR
+    2013 (12 mesecev) - LEKARNA MOZIRJE - DIREKTOR LEKARNE: plača bruto 24271.62 EUR, dodatki 13399.53 EUR, skupaj 37671.15 EUR
+      dodatki:
+        delovna_uspesnost: 13249.85 EUR
+        dodatno_delo: 126.62 EUR
+        dodatek_delo_v_nedeljo_c110bruto: 23.06 EUR
+    2014 (12 mesecev) - LEKARNA MOZIRJE - DIREKTOR LEKARNE: plača bruto 24900.89 EUR, dodatki 20869.53 EUR, skupaj 45770.42 EUR
+      dodatki:
+        delovna_uspesnost: 20869.53 EUR
+    Skupaj: Plača bruto 122165.4 EUR, dodatki 77541.86 EUR, skupaj 199707.26 EUR
+
+Zaposleni #4438995171818212147 - 94614.88 EUR dodatkov, 38.73% celotnega zneska
+    2010 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 30606.44 EUR, dodatki 22020.31 EUR, skupaj 52626.75 EUR
+      dodatki:
+        delovna_uspesnost: 22020.07 EUR
+        dodatek_poracun_c900bruto: 0.24 EUR
+    2011 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 30830.5 EUR, dodatki 23531.5 EUR, skupaj 54362.0 EUR
+      dodatki:
+        delovna_uspesnost: 23531.5 EUR
+    2012 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 30619.67 EUR, dodatki 22748.91 EUR, skupaj 53368.58 EUR
+      dodatki:
+        delovna_uspesnost: 22748.91 EUR
+    2013 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 28474.83 EUR, dodatki 14096.07 EUR, skupaj 42570.9 EUR
+      dodatki:
+        delovna_uspesnost: 14096.07 EUR
+    2014 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 29166.58 EUR, dodatki 12218.09 EUR, skupaj 41384.67 EUR
+      dodatki:
+        delovna_uspesnost: 12218.09 EUR
+    Skupaj: Plača bruto 149698.02 EUR, dodatki 94614.88 EUR, skupaj 244312.9 EUR
+
+Zaposleni #4498659999360332378 - 113115.84 EUR dodatkov, 38.72% celotnega zneska
+    2010 (11 mesecev) - ONKOLOŠKI INŠTITUT LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA: plača bruto 34130.84 EUR, dodatki 38485.73 EUR, skupaj 72616.57 EUR
+      dodatki:
+        delovna_uspesnost: 5909.43 EUR
+        dodatno_delo: 19028.51 EUR
+        dezurstvo: 11196.49 EUR
+        dodatek_mentorstvo_c030bruto: 1397.88 EUR
+        dodatek_mag_dr_c040bruto: 952.44 EUR
+        dodatek_poracun_c900bruto: 0.98 EUR
+    2011 (12 mesecev) - ONKOLOŠKI INŠTITUT LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA: plača bruto 38941.44 EUR, dodatki 26711.35 EUR, skupaj 65652.79 EUR
+      dodatki:
+        dodatno_delo: 16944.64 EUR
+        dezurstvo: 7330.79 EUR
+        dodatek_mentorstvo_c030bruto: 1349.0 EUR
+        dodatek_mag_dr_c040bruto: 1086.92 EUR
+    2012 (12 mesecev) - ONKOLOŠKI INŠTITUT LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA: plača bruto 34798.79 EUR, dodatki 16260.17 EUR, skupaj 51058.96 EUR
+      dodatki:
+        dodatno_delo: 12504.02 EUR
+        dezurstvo: 1722.58 EUR
+        dodatek_mentorstvo_c030bruto: 1021.96 EUR
+        dodatek_mag_dr_c040bruto: 1011.61 EUR
+    2013 (12 mesecev) - ONKOLOŠKI INŠTITUT LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA: plača bruto 35249.47 EUR, dodatki 15609.38 EUR, skupaj 50858.85 EUR
+      dodatki:
+        dodatno_delo: 13684.23 EUR
+        dodatek_mentorstvo_c030bruto: 1147.66 EUR
+        dodatek_mag_dr_c040bruto: 777.49 EUR
+    2014 (12 mesecev) - ONKOLOŠKI INŠTITUT LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA: plača bruto 35875.18 EUR, dodatki 16049.21 EUR, skupaj 51924.39 EUR
+      dodatki:
+        dodatno_delo: 14948.93 EUR
+        dodatek_mentorstvo_c030bruto: 561.16 EUR
+        dodatek_mag_dr_c040bruto: 539.12 EUR
+    Skupaj: Plača bruto 178995.72 EUR, dodatki 113115.84 EUR, skupaj 292111.56 EUR
+
+Zaposleni #11584327078560780823 - 17457.03 EUR dodatkov, 38.63% celotnega zneska
+    2010 (8 mesecev) - RADIOTELEVIZIJA SLOVENIJA JAVNI ZAVOD, LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA: plača bruto 27732.58 EUR, dodatki 17457.03 EUR, skupaj 45189.61 EUR
+      dodatki:
+        delovna_uspesnost: 17044.22 EUR
+        dodatek_poracun_c900bruto: 412.81 EUR
+    Skupaj: Plača bruto 27732.58 EUR, dodatki 17457.03 EUR, skupaj 45189.61 EUR
+
+Zaposleni #6775130617494026972 - 26905.43 EUR dodatkov, 36.95% celotnega zneska
+    2010 (3 mesecev) - LEKARNA SEVNICA - DIREKTOR LEKARNE: plača bruto 211.56 EUR, dodatki 72.11 EUR, skupaj 283.67 EUR
+      dodatki:
+        dodatno_delo: 41.07 EUR
+        dodatek_poracun_c900bruto: 31.04 EUR
+    2011 (12 mesecev) - LEKARNA SEVNICA - DIREKTOR LEKARNE: plača bruto 871.9 EUR, dodatki 226.4 EUR, skupaj 1098.3 EUR
+      dodatki:
+        dodatno_delo: 30.92 EUR
+        dezurstvo: 92.87 EUR
+        dodatek_poracun_c900bruto: 102.61 EUR
+    2012 (5 mesecev) - LEKARNA SEVNICA - DIREKTOR LEKARNE: plača bruto 331.09 EUR, dodatki 128.96 EUR, skupaj 460.05 EUR
+      dodatki:
+        dodatno_delo: 41.7 EUR
+        dezurstvo: 42.75 EUR
+        dodatek_poracun_c900bruto: 44.51 EUR
+    2013 (8 mesecev) - LEKARNA SEVNICA - DIREKTOR LEKARNE: plača bruto 17650.9 EUR, dodatki 12196.87 EUR, skupaj 29847.77 EUR
+      dodatki:
+        delovna_uspesnost: 10682.9 EUR
+        dezurstvo: 1448.44 EUR
+        dodatek_neenakomerno_razporejen_delovni_cas_c190bruto: 65.53 EUR
+    2014 (12 mesecev) - LEKARNA SEVNICA - DIREKTOR LEKARNE: plača bruto 26845.77 EUR, dodatki 14281.09 EUR, skupaj 41126.86 EUR
+      dodatki:
+        delovna_uspesnost: 13148.04 EUR
+        dezurstvo: 1051.61 EUR
+        dodatek_izmensko_delo_c080bruto: 6.56 EUR
+        dodatek_neenakomerno_razporejen_delovni_cas_c190bruto: 74.88 EUR
+    Skupaj: Plača bruto 45911.22 EUR, dodatki 26905.43 EUR, skupaj 72816.65 EUR
+
+Zaposleni #15712712387395268420 - 4281.75 EUR dodatkov, 36.95% celotnega zneska
+    2010 (3 mesecev) - ZDRAVSTVENI DOM DR. JULIJA POLCA KAMNIK - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 7307.54 EUR, dodatki 4281.75 EUR, skupaj 11589.29 EUR
+      dodatki:
+        delovna_uspesnost: 4050.24 EUR
+        dodatek_mag_dr_c040bruto: 96.95 EUR
+        dodatek_izmensko_delo_c080bruto: 133.55 EUR
+        dodatek_poracun_c900bruto: 1.01 EUR
+    Skupaj: Plača bruto 7307.54 EUR, dodatki 4281.75 EUR, skupaj 11589.29 EUR
+
+Zaposleni #12323874006442856987 - 76147.87 EUR dodatkov, 36.77% celotnega zneska
+    2010 (11 mesecev) - ONKOLOŠKI INŠTITUT LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 31165.4 EUR, dodatki 26923.11 EUR, skupaj 58088.51 EUR
+      dodatki:
+        polozajni_dodatek: 1342.48 EUR
+        delovna_uspesnost: 4991.61 EUR
+        dodatno_delo: 20588.12 EUR
+        dodatek_poracun_c900bruto: 0.9 EUR
+    2011 (12 mesecev) - ONKOLOŠKI INŠTITUT LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 35577.81 EUR, dodatki 22259.06 EUR, skupaj 57836.87 EUR
+      dodatki:
+        polozajni_dodatek: 930.14 EUR
+        dodatno_delo: 21328.92 EUR
+    2012 (12 mesecev) - ONKOLOŠKI INŠTITUT LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 33732.36 EUR, dodatki 25283.38 EUR, skupaj 59015.74 EUR
+      dodatki:
+        polozajni_dodatek: 897.06 EUR
+        dodatno_delo: 24386.32 EUR
+    2013 (12 mesecev) - ONKOLOŠKI INŠTITUT LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 16615.58 EUR, dodatki 1682.32 EUR, skupaj 18297.9 EUR
+      dodatki:
+        polozajni_dodatek: 77.47 EUR
+        dodatno_delo: 1604.85 EUR
+    2014 (12 mesecev) - ONKOLOŠKI INŠTITUT LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 13850.2 EUR, dodatki 0.0 EUR, skupaj 13850.2 EUR
+      dodatki:
+    Skupaj: Plača bruto 130941.35 EUR, dodatki 76147.87 EUR, skupaj 207089.22 EUR
+
+Zaposleni #10519642259736663063 - 84761.28 EUR dodatkov, 36.66% celotnega zneska
+    2010 (12 mesecev) - ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 28999.95 EUR, dodatki 15564.11 EUR, skupaj 44564.06 EUR
+      dodatki:
+        delovna_uspesnost: 1660.54 EUR
+        dodatno_delo: 12667.76 EUR
+        dodatek_mentorstvo_c030bruto: 844.5 EUR
+        dodatek_mag_dr_c040bruto: 390.65 EUR
+        dodatek_poracun_c900bruto: 0.66 EUR
+    2011 (12 mesecev) - ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 30811.8 EUR, dodatki 16865.25 EUR, skupaj 47677.05 EUR
+      dodatki:
+        dodatno_delo: 15494.0 EUR
+        dodatek_mentorstvo_c030bruto: 929.04 EUR
+        dodatek_mag_dr_c040bruto: 409.69 EUR
+        dodatek_izmensko_delo_c080bruto: 32.52 EUR
+    2012 (12 mesecev) - ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 29190.15 EUR, dodatki 16194.44 EUR, skupaj 45384.59 EUR
+      dodatki:
+        dodatno_delo: 14840.48 EUR
+        dodatek_mentorstvo_c030bruto: 962.69 EUR
+        dodatek_mag_dr_c040bruto: 391.27 EUR
+    2013 (12 mesecev) - ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 27472.73 EUR, dodatki 17272.64 EUR, skupaj 44745.37 EUR
+      dodatki:
+        dodatno_delo: 14860.96 EUR
+        dodatek_mentorstvo_c030bruto: 1100.93 EUR
+        dodatek_mag_dr_c040bruto: 381.43 EUR
+        dodatek_poracun_c900bruto: 929.32 EUR
+    2014 (12 mesecev) - ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 29991.52 EUR, dodatki 18864.84 EUR, skupaj 48856.36 EUR
+      dodatki:
+        delovna_uspesnost: 14.6 EUR
+        dodatno_delo: 15832.8 EUR
+        dodatek_mentorstvo_c030bruto: 2535.32 EUR
+        dodatek_mag_dr_c040bruto: 482.12 EUR
+    Skupaj: Plača bruto 146466.15 EUR, dodatki 84761.28 EUR, skupaj 231227.43 EUR
+
+Zaposleni #9575975306727080274 - 72129.85 EUR dodatkov, 36.34% celotnega zneska
+    2010 (12 mesecev) - BOLNIŠNICA SEŽANA - POMOČNIK DIREKTORJA: plača bruto 26196.05 EUR, dodatki 8219.27 EUR, skupaj 34415.32 EUR
+      dodatki:
+        dodatno_delo: 7998.98 EUR
+        dodatek_izmensko_delo_c080bruto: 7.75 EUR
+        dodatek_dela_prost_dan_c111bruto: 212.54 EUR
+    2011 (11 mesecev) - BOLNIŠNICA SEŽANA - POMOČNIK DIREKTORJA: plača bruto 21666.77 EUR, dodatki 15893.81 EUR, skupaj 37560.58 EUR
+      dodatki:
+        dodatno_delo: 15556.03 EUR
+        dodatek_izmensko_delo_c080bruto: 116.41 EUR
+        dodatek_delo_v_nedeljo_c110bruto: 114.28 EUR
+        dodatek_dela_prost_dan_c111bruto: 107.09 EUR
+    2012 (12 mesecev) - BOLNIŠNICA SEŽANA - POMOČNIK DIREKTORJA: plača bruto 23544.03 EUR, dodatki 12964.56 EUR, skupaj 36508.59 EUR
+      dodatki:
+        dodatno_delo: 12647.34 EUR
+        dodatek_izmensko_delo_c080bruto: 102.64 EUR
+        dodatek_dela_prost_dan_c111bruto: 214.58 EUR
+    2013 (12 mesecev) - BOLNIŠNICA SEŽANA - POMOČNIK DIREKTORJA: plača bruto 25436.65 EUR, dodatki 14976.36 EUR, skupaj 40413.01 EUR
+      dodatki:
+        dodatno_delo: 14881.27 EUR
+        dodatek_izmensko_delo_c080bruto: 47.46 EUR
+        dodatek_dela_prost_dan_c111bruto: 47.63 EUR
+    2014 (12 mesecev) - BOLNIŠNICA SEŽANA - POMOČNIK DIREKTORJA: plača bruto 29528.25 EUR, dodatki 20075.85 EUR, skupaj 49604.1 EUR
+      dodatki:
+        dodatno_delo: 19549.07 EUR
+        dodatek_izmensko_delo_c080bruto: 116.17 EUR
+        dodatek_dela_prost_dan_c111bruto: 410.61 EUR
+    Skupaj: Plača bruto 126371.75 EUR, dodatki 72129.85 EUR, skupaj 198501.6 EUR
+
+Zaposleni #9624957360405840045 - 2661.79 EUR dodatkov, 36.31% celotnega zneska
+    2010 (2 mesecev) - OSNOVNA ŠOLA DR. JANEZA MENCINGERJA BOHINJSKA BISTRICA - RAVNATELJ OSNOVNE ŠOLE: plača bruto 4668.23 EUR, dodatki 2661.79 EUR, skupaj 7330.02 EUR
+      dodatki:
+        delovna_uspesnost: 2661.12 EUR
+        dodatek_poracun_c900bruto: 0.67 EUR
+    Skupaj: Plača bruto 4668.23 EUR, dodatki 2661.79 EUR, skupaj 7330.02 EUR
+
+Zaposleni #1149979584187800777 - 81007.49 EUR dodatkov, 35.99% celotnega zneska
+    2010 (12 mesecev) - LEKARNA BREŽICE - DIREKTOR LEKARNE: plača bruto 30282.17 EUR, dodatki 12992.06 EUR, skupaj 43274.23 EUR
+      dodatki:
+        delovna_uspesnost: 12802.31 EUR
+        dodatno_delo: 189.42 EUR
+        dodatek_poracun_c900bruto: 0.33 EUR
+    2011 (12 mesecev) - LEKARNA BREŽICE - DIREKTOR LEKARNE: plača bruto 29759.97 EUR, dodatki 20770.84 EUR, skupaj 50530.81 EUR
+      dodatki:
+        delovna_uspesnost: 20319.48 EUR
+        dodatno_delo: 451.36 EUR
+    2012 (12 mesecev) - LEKARNA BREŽICE - DIREKTOR LEKARNE: plača bruto 29601.99 EUR, dodatki 16779.41 EUR, skupaj 46381.4 EUR
+      dodatki:
+        delovna_uspesnost: 16416.15 EUR
+        dodatno_delo: 363.26 EUR
+    2013 (12 mesecev) - LEKARNA BREŽICE - DIREKTOR LEKARNE: plača bruto 27061.13 EUR, dodatki 15458.8 EUR, skupaj 42519.93 EUR
+      dodatki:
+        delovna_uspesnost: 15201.4 EUR
+        dodatno_delo: 257.4 EUR
+    2014 (12 mesecev) - LEKARNA BREŽICE - DIREKTOR LEKARNE: plača bruto 27389.94 EUR, dodatki 15006.38 EUR, skupaj 42396.32 EUR
+      dodatki:
+        delovna_uspesnost: 14748.33 EUR
+        dodatno_delo: 258.05 EUR
+    Skupaj: Plača bruto 144095.2 EUR, dodatki 81007.49 EUR, skupaj 225102.69 EUR
+
+Zaposleni #1688503511871022588 - 44402.32 EUR dodatkov, 35.17% celotnega zneska
+    2010 (12 mesecev) - ZDRAVSTVENI DOM SLOVENJ GRADEC - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 34662.34 EUR, dodatki 39801.06 EUR, skupaj 74463.4 EUR
+      dodatki:
+        dodatno_delo: 39801.06 EUR
+    2011 (12 mesecev) - ZDRAVSTVENI DOM SLOVENJ GRADEC - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 36094.68 EUR, dodatki 4601.26 EUR, skupaj 40695.94 EUR
+      dodatki:
+        dodatno_delo: 4601.26 EUR
+    2012 (4 mesecev) - ZDRAVSTVENI DOM SLOVENJ GRADEC - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 11094.73 EUR, dodatki 0.0 EUR, skupaj 11094.73 EUR
+      dodatki:
+    Skupaj: Plača bruto 81851.75 EUR, dodatki 44402.32 EUR, skupaj 126254.07 EUR
+
+Zaposleni #13025865757763247824 - 40776.42 EUR dodatkov, 34.79% celotnega zneska
+    2010 (12 mesecev) - JAVNI ZAVOD KRAŠKE LEKARNE ILIRSKA BISTRICA - DIREKTOR LEKARNE: plača bruto 35314.25 EUR, dodatki 20744.66 EUR, skupaj 56058.91 EUR
+      dodatki:
+        delovna_uspesnost: 20744.2 EUR
+        dodatek_poracun_c900bruto: 0.46 EUR
+    2011 (12 mesecev) - JAVNI ZAVOD KRAŠKE LEKARNE ILIRSKA BISTRICA - DIREKTOR LEKARNE: plača bruto 31385.23 EUR, dodatki 15478.58 EUR, skupaj 46863.81 EUR
+      dodatki:
+        delovna_uspesnost: 15478.58 EUR
+    2012 (4 mesecev) - JAVNI ZAVOD KRAŠKE LEKARNE ILIRSKA BISTRICA - DIREKTOR LEKARNE: plača bruto 9735.78 EUR, dodatki 4553.18 EUR, skupaj 14288.96 EUR
+      dodatki:
+        delovna_uspesnost: 4553.18 EUR
+    Skupaj: Plača bruto 76435.26 EUR, dodatki 40776.42 EUR, skupaj 117211.68 EUR
+
+Zaposleni #583610441220047307 - 66471.87 EUR dodatkov, 34.66% celotnega zneska
+    2010 (12 mesecev) - DOLENJSKE LEKARNE NOVO MESTO P.O. - POMOČNIK DIREKTORJA: plača bruto 27194.66 EUR, dodatki 15492.69 EUR, skupaj 42687.35 EUR
+      dodatki:
+        delovna_uspesnost: 15492.29 EUR
+        dodatek_poracun_c900bruto: 0.4 EUR
+    2011 (12 mesecev) - DOLENJSKE LEKARNE NOVO MESTO P.O. - POMOČNIK DIREKTORJA: plača bruto 26347.38 EUR, dodatki 11811.18 EUR, skupaj 38158.56 EUR
+      dodatki:
+        delovna_uspesnost: 11811.18 EUR
+    2012 (12 mesecev) - DOLENJSKE LEKARNE NOVO MESTO P.O. - POMOČNIK DIREKTORJA: plača bruto 24730.66 EUR, dodatki 13320.0 EUR, skupaj 38050.66 EUR
+      dodatki:
+        delovna_uspesnost: 13320.0 EUR
+    2013 (12 mesecev) - DOLENJSKE LEKARNE NOVO MESTO P.O. - POMOČNIK DIREKTORJA: plača bruto 24036.32 EUR, dodatki 12528.0 EUR, skupaj 36564.32 EUR
+      dodatki:
+        delovna_uspesnost: 12528.0 EUR
+    2014 (12 mesecev) - DOLENJSKE LEKARNE NOVO MESTO P.O. - POMOČNIK DIREKTORJA: plača bruto 23028.9 EUR, dodatki 13320.0 EUR, skupaj 36348.9 EUR
+      dodatki:
+        delovna_uspesnost: 13320.0 EUR
+    Skupaj: Plača bruto 125337.92 EUR, dodatki 66471.87 EUR, skupaj 191809.79 EUR
+
+Zaposleni #7538640670022990052 - 107582.16 EUR dodatkov, 34.50% celotnega zneska
+    2010 (10 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 30834.96 EUR, dodatki 18656.78 EUR, skupaj 49491.74 EUR
+      dodatki:
+        polozajni_dodatek: 2466.78 EUR
+        dezurstvo: 5374.9 EUR
+        dodatek_mentorstvo_c030bruto: 870.9 EUR
+        dodatek_dvojezicnost_c052bruto: 1850.1 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8094.1 EUR
+    2010 (3 mesecev) - OKROŽNO SODIŠČE V KOPRU - VIŠJI SODNIK: plača bruto 8498.23 EUR, dodatki 4371.93 EUR, skupaj 12870.16 EUR
+      dodatki:
+        polozajni_dodatek: 679.85 EUR
+        dezurstvo: 1160.32 EUR
+        dodatek_mentorstvo_c030bruto: 363.94 EUR
+        dodatek_dvojezicnost_c052bruto: 509.89 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 1657.93 EUR
+    2011 (11 mesecev) - OKROŽNO SODIŠČE V KOPRU - VIŠJI SODNIK: plača bruto 39281.12 EUR, dodatki 24798.33 EUR, skupaj 64079.45 EUR
+      dodatki:
+        polozajni_dodatek: 3142.5 EUR
+        dezurstvo: 7249.16 EUR
+        dodatek_mentorstvo_c030bruto: 640.42 EUR
+        dodatek_dvojezicnost_c052bruto: 2356.86 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 11401.39 EUR
+        dodatek_ogled_kd_c300bruto: 8.0 EUR
+    2012 (12 mesecev) - OKROŽNO SODIŠČE V KOPRU - VIŠJI SODNIK: plača bruto 40310.99 EUR, dodatki 24374.21 EUR, skupaj 64685.2 EUR
+      dodatki:
+        polozajni_dodatek: 3224.86 EUR
+        dezurstvo: 6745.11 EUR
+        dodatek_mentorstvo_c030bruto: 731.88 EUR
+        dodatek_dvojezicnost_c052bruto: 2418.65 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 11253.71 EUR
+    2013 (11 mesecev) - OKROŽNO SODIŠČE V KOPRU - VIŠJI SODNIK: plača bruto 44327.35 EUR, dodatki 22165.19 EUR, skupaj 66492.54 EUR
+      dodatki:
+        polozajni_dodatek: 1634.06 EUR
+        dezurstvo: 6789.73 EUR
+        dodatek_dvojezicnost_c052bruto: 2659.66 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 11081.74 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V KOPRU - VIŠJI SODNIK: plača bruto 40979.17 EUR, dodatki 13215.72 EUR, skupaj 54194.89 EUR
+      dodatki:
+        dezurstvo: 2678.94 EUR
+        dodatek_dvojezicnost_c052bruto: 2458.76 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8078.02 EUR
+    Skupaj: Plača bruto 204231.82 EUR, dodatki 107582.16 EUR, skupaj 311813.98 EUR
+
+Zaposleni #12745563964740519437 - 51759.08 EUR dodatkov, 34.46% celotnega zneska
+    2011 (3 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA: plača bruto 7485.76 EUR, dodatki 5148.72 EUR, skupaj 12634.48 EUR
+      dodatki:
+        delovna_uspesnost: 4784.1 EUR
+        dodatno_delo: 169.51 EUR
+        dodatek_mag_dr_c040bruto: 167.38 EUR
+        dodatek_poracun_c900bruto: 27.73 EUR
+    2012 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA: plača bruto 30048.4 EUR, dodatki 15792.76 EUR, skupaj 45841.16 EUR
+      dodatki:
+        delovna_uspesnost: 14946.81 EUR
+        dodatno_delo: 145.16 EUR
+        dodatek_mag_dr_c040bruto: 700.79 EUR
+    2013 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA: plača bruto 30273.62 EUR, dodatki 15444.31 EUR, skupaj 45717.93 EUR
+      dodatki:
+        delovna_uspesnost: 14924.82 EUR
+        dodatek_mag_dr_c040bruto: 519.49 EUR
+    2014 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA: plača bruto 30646.87 EUR, dodatki 15373.29 EUR, skupaj 46020.16 EUR
+      dodatki:
+        delovna_uspesnost: 14994.52 EUR
+        dodatek_mag_dr_c040bruto: 378.77 EUR
+    Skupaj: Plača bruto 98454.65 EUR, dodatki 51759.08 EUR, skupaj 150213.73 EUR
+
+Zaposleni #16896719702639992708 - 48640.84 EUR dodatkov, 34.41% celotnega zneska
+    2010 (12 mesecev) - UNIVERZA NA PRIMORSKEM UNIVERSITA DEL LITORALE - DIREKTOR JAVNEGA RAZISKOVALNEGA ZAVODA / JAVNEGA INFRASTRUKTURNEGA ZAVODA: plača bruto 35460.3 EUR, dodatki 21059.62 EUR, skupaj 56519.92 EUR
+      dodatki:
+        delovna_uspesnost: 18502.4 EUR
+        dodatek_mentorstvo_c030bruto: 1493.72 EUR
+        dodatek_dvojezicnost_c050bruto: 1063.5 EUR
+    2011 (8 mesecev) - UNIVERZA NA PRIMORSKEM UNIVERSITA DEL LITORALE - DEKAN / DIREKTOR ČLANICE UNIVERZE OZ. DRUGE ČLANICE UNIVERZE: plača bruto 20357.83 EUR, dodatki 1904.49 EUR, skupaj 22262.32 EUR
+      dodatki:
+        dodatek_mentorstvo_c030bruto: 1293.75 EUR
+        dodatek_dvojezicnost_c050bruto: 610.74 EUR
+    2011 (5 mesecev) - UNIVERZA NA PRIMORSKEM UNIVERSITA DEL LITORALE - DIREKTOR JAVNEGA RAZISKOVALNEGA ZAVODA / JAVNEGA INFRASTRUKTURNEGA ZAVODA: plača bruto 15656.82 EUR, dodatki 23932.2 EUR, skupaj 39589.02 EUR
+      dodatki:
+        delovna_uspesnost: 22605.43 EUR
+        dodatek_mentorstvo_c030bruto: 870.88 EUR
+        dodatek_dvojezicnost_c050bruto: 475.17 EUR
+    2012 (8 mesecev) - UNIVERZA NA PRIMORSKEM UNIVERSITA DEL LITORALE - DEKAN / DIREKTOR ČLANICE UNIVERZE OZ. DRUGE ČLANICE UNIVERZE: plača bruto 21224.49 EUR, dodatki 1744.53 EUR, skupaj 22969.02 EUR
+      dodatki:
+        dodatek_mentorstvo_c030bruto: 1289.3 EUR
+        dodatek_dvojezicnost_c050bruto: 455.23 EUR
+    Skupaj: Plača bruto 92699.44 EUR, dodatki 48640.84 EUR, skupaj 141340.28 EUR
+
+Zaposleni #15649499732793970930 - 64554.04 EUR dodatkov, 34.39% celotnega zneska
+    2010 (12 mesecev) - LEKARNA VELENJE - DIREKTOR LEKARNE: plača bruto 25496.01 EUR, dodatki 14699.77 EUR, skupaj 40195.78 EUR
+      dodatki:
+        delovna_uspesnost: 14273.39 EUR
+        dodatno_delo: 425.95 EUR
+        dodatek_poracun_c900bruto: 0.43 EUR
+    2011 (12 mesecev) - LEKARNA VELENJE - DIREKTOR LEKARNE: plača bruto 26545.25 EUR, dodatki 16100.69 EUR, skupaj 42645.94 EUR
+      dodatki:
+        delovna_uspesnost: 15662.93 EUR
+        dodatno_delo: 437.76 EUR
+    2012 (12 mesecev) - LEKARNA VELENJE - DIREKTOR LEKARNE: plača bruto 23044.37 EUR, dodatki 12072.97 EUR, skupaj 35117.34 EUR
+      dodatki:
+        delovna_uspesnost: 11908.43 EUR
+        dodatek_mag_dr_c040bruto: 164.54 EUR
+    2013 (12 mesecev) - LEKARNA VELENJE - DIREKTOR LEKARNE: plača bruto 24631.01 EUR, dodatki 12419.63 EUR, skupaj 37050.64 EUR
+      dodatki:
+        delovna_uspesnost: 10525.85 EUR
+        dodatno_delo: 1357.17 EUR
+        dodatek_mag_dr_c040bruto: 441.89 EUR
+        dodatek_delo_v_nedeljo_c110bruto: 94.72 EUR
+    2014 (12 mesecev) - LEKARNA VELENJE - DIREKTOR LEKARNE: plača bruto 23444.41 EUR, dodatki 9260.98 EUR, skupaj 32705.39 EUR
+      dodatki:
+        delovna_uspesnost: 8554.34 EUR
+        dodatno_delo: 390.62 EUR
+        dodatek_mag_dr_c040bruto: 297.08 EUR
+        dodatek_delo_v_nedeljo_c110bruto: 18.94 EUR
+    Skupaj: Plača bruto 123161.05 EUR, dodatki 64554.04 EUR, skupaj 187715.09 EUR
+
+Zaposleni #15057542560942979086 - 65612.76 EUR dodatkov, 34.05% celotnega zneska
+    2010 (12 mesecev) - LEKARNA SLOVENSKA BISTRICA - DIREKTOR LEKARNE: plača bruto 28242.12 EUR, dodatki 14697.74 EUR, skupaj 42939.86 EUR
+      dodatki:
+        delovna_uspesnost: 14202.48 EUR
+        dodatno_delo: 40.8 EUR
+        dodatek_mag_dr_c040bruto: 453.96 EUR
+        dodatek_poracun_c900bruto: 0.5 EUR
+    2011 (12 mesecev) - LEKARNA SLOVENSKA BISTRICA - DIREKTOR LEKARNE: plača bruto 25413.67 EUR, dodatki 14477.91 EUR, skupaj 39891.58 EUR
+      dodatki:
+        delovna_uspesnost: 14065.68 EUR
+        dodatek_mag_dr_c040bruto: 411.48 EUR
+        dodatek_poracun_c900bruto: 0.75 EUR
+    2012 (12 mesecev) - LEKARNA SLOVENSKA BISTRICA - DIREKTOR LEKARNE: plača bruto 26125.62 EUR, dodatki 12349.65 EUR, skupaj 38475.27 EUR
+      dodatki:
+        delovna_uspesnost: 11908.17 EUR
+        dodatek_mag_dr_c040bruto: 441.48 EUR
+    2013 (12 mesecev) - LEKARNA SLOVENSKA BISTRICA - DIREKTOR LEKARNE: plača bruto 23724.24 EUR, dodatki 11999.84 EUR, skupaj 35724.08 EUR
+      dodatki:
+        delovna_uspesnost: 11704.95 EUR
+        dodatek_mag_dr_c040bruto: 294.89 EUR
+    2014 (12 mesecev) - LEKARNA SLOVENSKA BISTRICA - DIREKTOR LEKARNE: plača bruto 23595.93 EUR, dodatki 12087.62 EUR, skupaj 35683.55 EUR
+      dodatki:
+        delovna_uspesnost: 11878.39 EUR
+        dodatek_mag_dr_c040bruto: 209.23 EUR
+        dodatek_izmensko_delo_c080bruto: 8.74 EUR
+    Skupaj: Plača bruto 127101.58 EUR, dodatki 65612.76 EUR, skupaj 192714.34 EUR
+
+Zaposleni #1671495993662472352 - 65587.01 EUR dodatkov, 33.81% celotnega zneska
+    2010 (12 mesecev) - LEKARNA KOČEVJE - DIREKTOR LEKARNE: plača bruto 26525.12 EUR, dodatki 14574.8 EUR, skupaj 41099.92 EUR
+      dodatki:
+        delovna_uspesnost: 14128.44 EUR
+        dodatno_delo: 446.16 EUR
+        dodatek_poracun_c900bruto: 0.2 EUR
+    2011 (12 mesecev) - LEKARNA KOČEVJE - DIREKTOR LEKARNE: plača bruto 26726.64 EUR, dodatki 13725.56 EUR, skupaj 40452.2 EUR
+      dodatki:
+        delovna_uspesnost: 12874.49 EUR
+        dezurstvo: 851.07 EUR
+    2012 (12 mesecev) - LEKARNA KOČEVJE - DIREKTOR LEKARNE: plača bruto 25276.21 EUR, dodatki 13500.66 EUR, skupaj 38776.87 EUR
+      dodatki:
+        delovna_uspesnost: 13500.66 EUR
+    2013 (12 mesecev) - LEKARNA KOČEVJE - DIREKTOR LEKARNE: plača bruto 24098.74 EUR, dodatki 12098.68 EUR, skupaj 36197.42 EUR
+      dodatki:
+        delovna_uspesnost: 12098.68 EUR
+    2014 (12 mesecev) - LEKARNA KOČEVJE - DIREKTOR LEKARNE: plača bruto 25780.74 EUR, dodatki 11687.31 EUR, skupaj 37468.05 EUR
+      dodatki:
+        delovna_uspesnost: 11687.31 EUR
+    Skupaj: Plača bruto 128407.45 EUR, dodatki 65587.01 EUR, skupaj 193994.46 EUR
+
+Zaposleni #6473903147299926144 - 61257.34 EUR dodatkov, 33.34% celotnega zneska
+    2010 (12 mesecev) - JZ LEKARNA KRŠKO - DIREKTOR LEKARNE: plača bruto 25533.77 EUR, dodatki 15847.15 EUR, skupaj 41380.92 EUR
+      dodatki:
+        delovna_uspesnost: 15846.75 EUR
+        dodatek_poracun_c900bruto: 0.4 EUR
+    2011 (12 mesecev) - JZ LEKARNA KRŠKO - DIREKTOR LEKARNE: plača bruto 25949.85 EUR, dodatki 11134.15 EUR, skupaj 37084.0 EUR
+      dodatki:
+        delovna_uspesnost: 11067.97 EUR
+        dodatek_mentorstvo_c030bruto: 66.18 EUR
+    2012 (12 mesecev) - JZ LEKARNA KRŠKO - DIREKTOR LEKARNE: plača bruto 23927.79 EUR, dodatki 8037.04 EUR, skupaj 31964.83 EUR
+      dodatki:
+        delovna_uspesnost: 7936.77 EUR
+        dodatek_mentorstvo_c030bruto: 100.27 EUR
+    2013 (12 mesecev) - JZ LEKARNA KRŠKO - DIREKTOR LEKARNE: plača bruto 23523.3 EUR, dodatki 12477.69 EUR, skupaj 36000.99 EUR
+      dodatki:
+        delovna_uspesnost: 12425.41 EUR
+        dodatek_mentorstvo_c030bruto: 52.28 EUR
+    2014 (12 mesecev) - JZ LEKARNA KRŠKO - DIREKTOR LEKARNE: plača bruto 23536.91 EUR, dodatki 13761.31 EUR, skupaj 37298.22 EUR
+      dodatki:
+        delovna_uspesnost: 13511.91 EUR
+        dodatek_mentorstvo_c030bruto: 249.4 EUR
+    Skupaj: Plača bruto 122471.62 EUR, dodatki 61257.34 EUR, skupaj 183728.96 EUR
+
+Zaposleni #14618645646892833670 - 65116.21 EUR dodatkov, 33.10% celotnega zneska
+    2010 (12 mesecev) - ŽALSKE LEKARNE ŽALEC - DIREKTOR LEKARNE: plača bruto 27294.67 EUR, dodatki 12167.53 EUR, skupaj 39462.2 EUR
+      dodatki:
+        delovna_uspesnost: 12167.53 EUR
+    2011 (12 mesecev) - ŽALSKE LEKARNE ŽALEC - DIREKTOR LEKARNE: plača bruto 27166.84 EUR, dodatki 13401.14 EUR, skupaj 40567.98 EUR
+      dodatki:
+        delovna_uspesnost: 13401.14 EUR
+    2012 (12 mesecev) - ŽALSKE LEKARNE ŽALEC - DIREKTOR LEKARNE: plača bruto 25905.56 EUR, dodatki 13915.04 EUR, skupaj 39820.6 EUR
+      dodatki:
+        delovna_uspesnost: 13915.04 EUR
+    2013 (12 mesecev) - ŽALSKE LEKARNE ŽALEC - DIREKTOR LEKARNE: plača bruto 25655 EUR, dodatki 13264.75 EUR, skupaj 38919.75 EUR
+      dodatki:
+        delovna_uspesnost: 13264.75 EUR
+    2014 (12 mesecev) - ŽALSKE LEKARNE ŽALEC - DIREKTOR LEKARNE: plača bruto 25612.04 EUR, dodatki 12367.75 EUR, skupaj 37979.79 EUR
+      dodatki:
+        delovna_uspesnost: 12367.75 EUR
+    Skupaj: Plača bruto 131634.11 EUR, dodatki 65116.21 EUR, skupaj 196750.32 EUR
+
+Zaposleni #260327575539642662 - 65749.23 EUR dodatkov, 32.73% celotnega zneska
+    2010 (11 mesecev) - OBALNE LEKARNE KOPER FARMACIE COSTIERE CAPODISTRIA - NAMESTNIK DIREKTORJA/ČLANA UPRAVE: plača bruto 28934.39 EUR, dodatki 18961.55 EUR, skupaj 47895.94 EUR
+      dodatki:
+        delovna_uspesnost: 17355.11 EUR
+        dodatek_mag_dr_c040bruto: 449.34 EUR
+        dodatek_dvojezicnost_c051bruto: 1157.1 EUR
+    2011 (12 mesecev) - OBALNE LEKARNE KOPER FARMACIE COSTIERE CAPODISTRIA - NAMESTNIK DIREKTORJA/ČLANA UPRAVE: plača bruto 26543.53 EUR, dodatki 12729.26 EUR, skupaj 39272.79 EUR
+      dodatki:
+        delovna_uspesnost: 11254.89 EUR
+        dodatek_mag_dr_c040bruto: 412.63 EUR
+        dodatek_dvojezicnost_c051bruto: 1061.74 EUR
+    2012 (11 mesecev) - OBALNE LEKARNE KOPER FARMACIE COSTIERE CAPODISTRIA - NAMESTNIK DIREKTORJA/ČLANA UPRAVE: plača bruto 26203.51 EUR, dodatki 11299.72 EUR, skupaj 37503.23 EUR
+      dodatki:
+        delovna_uspesnost: 9827.86 EUR
+        dodatek_mag_dr_c040bruto: 423.73 EUR
+        dodatek_dvojezicnost_c051bruto: 1048.13 EUR
+    2013 (12 mesecev) - OBALNE LEKARNE KOPER FARMACIE COSTIERE CAPODISTRIA - NAMESTNIK DIREKTORJA/ČLANA UPRAVE: plača bruto 26342.45 EUR, dodatki 11715.05 EUR, skupaj 38057.5 EUR
+      dodatki:
+        delovna_uspesnost: 10343.19 EUR
+        dodatek_mag_dr_c040bruto: 318.15 EUR
+        dodatek_dvojezicnost_c051bruto: 1053.71 EUR
+    2014 (12 mesecev) - OBALNE LEKARNE KOPER FARMACIE COSTIERE CAPODISTRIA - NAMESTNIK DIREKTORJA/ČLANA UPRAVE: plača bruto 27093.32 EUR, dodatki 11043.65 EUR, skupaj 38136.97 EUR
+      dodatki:
+        delovna_uspesnost: 9422.28 EUR
+        dodatek_mag_dr_c040bruto: 215.96 EUR
+        dodatek_dvojezicnost_c051bruto: 1008.16 EUR
+        dodatek_poracun_c900bruto: 397.25 EUR
+    Skupaj: Plača bruto 135117.2 EUR, dodatki 65749.23 EUR, skupaj 200866.43 EUR
+
+Zaposleni #5411382511658374632 - 2124.65 EUR dodatkov, 32.21% celotnega zneska
+    2010 (3 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI KAZENSKI SODNIK: plača bruto 4472.43 EUR, dodatki 2124.65 EUR, skupaj 6597.08 EUR
+      dodatki:
+        dezurstvo: 583.15 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 1541.5 EUR
+    Skupaj: Plača bruto 4472.43 EUR, dodatki 2124.65 EUR, skupaj 6597.08 EUR
+
+Zaposleni #8229246307718608914 - 47526.9 EUR dodatkov, 31.94% celotnega zneska
+    2010 (11 mesecev) - ZDRAVSTVENI DOM CELJE - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 27394.43 EUR, dodatki 13726.39 EUR, skupaj 41120.82 EUR
+      dodatki:
+        delovna_uspesnost: 13182.6 EUR
+        dodatek_mag_dr_c040bruto: 543.79 EUR
+    2011 (12 mesecev) - ZDRAVSTVENI DOM CELJE - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 33221.68 EUR, dodatki 15216.58 EUR, skupaj 48438.26 EUR
+      dodatki:
+        delovna_uspesnost: 13539.12 EUR
+        dodatno_delo: 1017.37 EUR
+        dodatek_mag_dr_c040bruto: 660.09 EUR
+    2012 (12 mesecev) - ZDRAVSTVENI DOM CELJE - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 30324.81 EUR, dodatki 13975.96 EUR, skupaj 44300.77 EUR
+      dodatki:
+        delovna_uspesnost: 13346.87 EUR
+        dodatek_mag_dr_c040bruto: 629.09 EUR
+    2013 (5 mesecev) - ZDRAVSTVENI DOM CELJE - DIREKTOR ZDRAVSTVENEGA DOMA: plača bruto 10344.18 EUR, dodatki 4607.97 EUR, skupaj 14952.15 EUR
+      dodatki:
+        delovna_uspesnost: 4371.13 EUR
+        dodatek_mentorstvo_c030bruto: 15.56 EUR
+        dodatek_mag_dr_c040bruto: 221.28 EUR
+    Skupaj: Plača bruto 101285.1 EUR, dodatki 47526.9 EUR, skupaj 148812.0 EUR
+
+Zaposleni #15316364069203647863 - 85026.94 EUR dodatkov, 31.79% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V KOPRU - PODPREDSEDNIK OKROŽNEGA SODIŠČA II: plača bruto 35060.63 EUR, dodatki 17399.21 EUR, skupaj 52459.84 EUR
+      dodatki:
+        dezurstvo: 5354.01 EUR
+        dodatek_dvojezicnost_c052bruto: 2099.34 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 9945.86 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V KOPRU - PODPREDSEDNIK OKROŽNEGA SODIŠČA II: plača bruto 39098.73 EUR, dodatki 17901.39 EUR, skupaj 57000.12 EUR
+      dodatki:
+        dezurstvo: 5498.59 EUR
+        dodatek_dvojezicnost_c052bruto: 2345.95 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10056.85 EUR
+    2012 (12 mesecev) - OKROŽNO SODIŠČE V KOPRU - PODPREDSEDNIK OKROŽNEGA SODIŠČA II: plača bruto 37901.8 EUR, dodatki 18002.15 EUR, skupaj 55903.95 EUR
+      dodatki:
+        dezurstvo: 4297.12 EUR
+        dodatek_dvojezicnost_c052bruto: 2274.12 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 11430.91 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V KOPRU - PODPREDSEDNIK OKROŽNEGA SODIŠČA II: plača bruto 36403.67 EUR, dodatki 19183.72 EUR, skupaj 55587.39 EUR
+      dodatki:
+        dezurstvo: 6159.45 EUR
+        dodatek_dvojezicnost_c052bruto: 2184.22 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10840.05 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI SODNIK SVETNIK: plača bruto 32980.7 EUR, dodatki 12316.22 EUR, skupaj 45296.92 EUR
+      dodatki:
+        dezurstvo: 3050.69 EUR
+        dodatek_dvojezicnost_c052bruto: 1978.86 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7286.67 EUR
+    2014 (1 mesecev) - OKROŽNO SODIŠČE V KOPRU - PODPREDSEDNIK OKROŽNEGA SODIŠČA II: plača bruto 958.17 EUR, dodatki 224.25 EUR, skupaj 1182.42 EUR
+      dodatki:
+        dodatek_dvojezicnost_c052bruto: 57.49 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 166.76 EUR
+    Skupaj: Plača bruto 182403.7 EUR, dodatki 85026.94 EUR, skupaj 267430.64 EUR
+
+Zaposleni #8544288485794693751 - 74849.09 EUR dodatkov, 31.50% celotnega zneska
+    2010 (12 mesecev) - CENTER ZA ZDRAVLJENJE BOLEZNI OTROK - DIREKTOR BOLNIŠNICE: plača bruto 34818.57 EUR, dodatki 20107.9 EUR, skupaj 54926.47 EUR
+      dodatki:
+        delovna_uspesnost: 3759.15 EUR
+        dodatno_delo: 4209.18 EUR
+        dodatek_izmensko_delo_c080bruto: 36.38 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 12101.19 EUR
+        dodatek_poracun_c900bruto: 2.0 EUR
+    2011 (12 mesecev) - CENTER ZA ZDRAVLJENJE BOLEZNI OTROK - DIREKTOR BOLNIŠNICE: plača bruto 33844.46 EUR, dodatki 8672.17 EUR, skupaj 42516.63 EUR
+      dodatki:
+        dodatno_delo: 214.15 EUR
+        dodatek_izmensko_delo_c080bruto: 46.1 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8411.92 EUR
+    2012 (12 mesecev) - CENTER ZA ZDRAVLJENJE BOLEZNI OTROK - DIREKTOR BOLNIŠNICE: plača bruto 33515.67 EUR, dodatki 18015.04 EUR, skupaj 51530.71 EUR
+      dodatki:
+        dodatno_delo: 5747.69 EUR
+        dodatek_izmensko_delo_c080bruto: 25.44 EUR
+        dodatek_delo_v_nedeljo_c110bruto: 117.57 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 12124.34 EUR
+    2013 (12 mesecev) - CENTER ZA ZDRAVLJENJE BOLEZNI OTROK - DIREKTOR BOLNIŠNICE: plača bruto 30910.43 EUR, dodatki 9112.14 EUR, skupaj 40022.57 EUR
+      dodatki:
+        dodatno_delo: 792.33 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8349.28 EUR
+    2014 (12 mesecev) - CENTER ZA ZDRAVLJENJE BOLEZNI OTROK - DIREKTOR BOLNIŠNICE: plača bruto 29646.76 EUR, dodatki 18941.84 EUR, skupaj 48588.6 EUR
+      dodatki:
+        delovna_uspesnost: 2384.2 EUR
+        dodatno_delo: 5361.65 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 11195.99 EUR
+    Skupaj: Plača bruto 162735.89 EUR, dodatki 74849.09 EUR, skupaj 237584.98 EUR
+
+Zaposleni #14923455319809700081 - 79555.61 EUR dodatkov, 31.13% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - OKROŽNI SODNIK SVETNIK: plača bruto 37534.25 EUR, dodatki 16729.27 EUR, skupaj 54263.52 EUR
+      dodatki:
+        dodatno_delo: 1141.66 EUR
+        dezurstvo: 2677.38 EUR
+        dodatek_mentorstvo_c030bruto: 1173.32 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 11736.91 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - OKROŽNI SODNIK SVETNIK: plača bruto 36171.43 EUR, dodatki 18281.67 EUR, skupaj 54453.1 EUR
+      dodatki:
+        polozajni_dodatek: 964.0 EUR
+        dezurstvo: 4619.53 EUR
+        dodatek_mentorstvo_c030bruto: 2030.04 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10630.04 EUR
+        dodatek_ogled_kd_c300bruto: 38.06 EUR
+    2012 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - OKROŽNI SODNIK SVETNIK: plača bruto 33863.21 EUR, dodatki 16306.88 EUR, skupaj 50170.09 EUR
+      dodatki:
+        polozajni_dodatek: 1693.16 EUR
+        dezurstvo: 3253.75 EUR
+        dodatek_mentorstvo_c030bruto: 845.85 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10514.12 EUR
+    2013 (1 mesecev) - OKROŽNO SODIŠČE NA PTUJU - OKROŽNI SODNIK SVETNIK: plača bruto 1530.79 EUR, dodatki 90.81 EUR, skupaj 1621.6 EUR
+      dodatki:
+        polozajni_dodatek: 76.54 EUR
+        dezurstvo: 2.78 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 11.49 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - VIŠJI SODNIK: plača bruto 32191.56 EUR, dodatki 14675.69 EUR, skupaj 46867.25 EUR
+      dodatki:
+        polozajni_dodatek: 1609.58 EUR
+        dezurstvo: 3245.87 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 9820.24 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - VIŠJI SODNIK: plača bruto 34738.85 EUR, dodatki 13471.29 EUR, skupaj 48210.14 EUR
+      dodatki:
+        polozajni_dodatek: 1736.92 EUR
+        dezurstvo: 3295.81 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8438.56 EUR
+    Skupaj: Plača bruto 176030.09 EUR, dodatki 79555.61 EUR, skupaj 255585.7 EUR
+
+Zaposleni #9458915386315603624 - 67847.2 EUR dodatkov, 31.11% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI SODNIK: plača bruto 30489.9 EUR, dodatki 14561.18 EUR, skupaj 45051.08 EUR
+      dodatki:
+        polozajni_dodatek: 1219.61 EUR
+        dezurstvo: 3494.38 EUR
+        dodatek_mentorstvo_c030bruto: 46.41 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 9792.09 EUR
+        dodatek_ogled_kd_c300bruto: 8.69 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI SODNIK: plača bruto 29014.62 EUR, dodatki 14858.17 EUR, skupaj 43872.79 EUR
+      dodatki:
+        polozajni_dodatek: 1160.57 EUR
+        dodatno_delo: 237.18 EUR
+        dezurstvo: 3298.4 EUR
+        dodatek_mentorstvo_c030bruto: 127.02 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 9972.04 EUR
+        dodatek_ogled_kd_c300bruto: 62.96 EUR
+    2012 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI SODNIK: plača bruto 30453.44 EUR, dodatki 13163.33 EUR, skupaj 43616.77 EUR
+      dodatki:
+        polozajni_dodatek: 1218.13 EUR
+        dezurstvo: 2648.43 EUR
+        dodatek_mentorstvo_c030bruto: 127.0 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 9169.77 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI SODNIK: plača bruto 30314.81 EUR, dodatki 13673.6 EUR, skupaj 43988.41 EUR
+      dodatki:
+        polozajni_dodatek: 1212.6 EUR
+        dodatno_delo: 197.11 EUR
+        dezurstvo: 2786.65 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 9477.24 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI SODNIK: plača bruto 29996.57 EUR, dodatki 11590.92 EUR, skupaj 41587.49 EUR
+      dodatki:
+        polozajni_dodatek: 1199.86 EUR
+        dezurstvo: 1344.76 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 9046.3 EUR
+    Skupaj: Plača bruto 150269.34 EUR, dodatki 67847.2 EUR, skupaj 218116.54 EUR
+
+Zaposleni #5853615466258354308 - 60640.47 EUR dodatkov, 31.10% celotnega zneska
+    2010 (12 mesecev) - LEKARNA ORMOŽ - DIREKTOR LEKARNE: plača bruto 29130.72 EUR, dodatki 14720.8 EUR, skupaj 43851.52 EUR
+      dodatki:
+        delovna_uspesnost: 14720.43 EUR
+        dodatek_poracun_c900bruto: 0.37 EUR
+    2011 (12 mesecev) - LEKARNA ORMOŽ - DIREKTOR LEKARNE: plača bruto 27210.26 EUR, dodatki 13668.34 EUR, skupaj 40878.6 EUR
+      dodatki:
+        delovna_uspesnost: 13668.34 EUR
+    2012 (12 mesecev) - LEKARNA ORMOŽ - DIREKTOR LEKARNE: plača bruto 27124.4 EUR, dodatki 12464.9 EUR, skupaj 39589.3 EUR
+      dodatki:
+        delovna_uspesnost: 12464.9 EUR
+    2013 (12 mesecev) - LEKARNA ORMOŽ - DIREKTOR LEKARNE: plača bruto 26031.29 EUR, dodatki 11660.36 EUR, skupaj 37691.65 EUR
+      dodatki:
+        delovna_uspesnost: 11660.36 EUR
+    2014 (12 mesecev) - LEKARNA ORMOŽ - DIREKTOR LEKARNE: plača bruto 24874.17 EUR, dodatki 8126.07 EUR, skupaj 33000.24 EUR
+      dodatki:
+        delovna_uspesnost: 8126.07 EUR
+    Skupaj: Plača bruto 134370.84 EUR, dodatki 60640.47 EUR, skupaj 195011.31 EUR
+
+Zaposleni #11727586400751063302 - 65732.76 EUR dodatkov, 31.04% celotnega zneska
+    2010 (12 mesecev) - GORIŠKA LEKARNA NOVA GORICA - DIREKTOR LEKARNE: plača bruto 28147.35 EUR, dodatki 16595.76 EUR, skupaj 44743.11 EUR
+      dodatki:
+        delovna_uspesnost: 16190.0 EUR
+        dodatek_mag_dr_c040bruto: 403.55 EUR
+        dodatek_poracun_c900bruto: 2.21 EUR
+    2011 (12 mesecev) - GORIŠKA LEKARNA NOVA GORICA - DIREKTOR LEKARNE: plača bruto 30555.5 EUR, dodatki 18239.52 EUR, skupaj 48795.02 EUR
+      dodatki:
+        delovna_uspesnost: 17760.0 EUR
+        dodatek_mag_dr_c040bruto: 477.77 EUR
+        dodatek_poracun_c900bruto: 1.75 EUR
+    2012 (12 mesecev) - GORIŠKA LEKARNA NOVA GORICA - DIREKTOR LEKARNE: plača bruto 29752.37 EUR, dodatki 18329.75 EUR, skupaj 48082.12 EUR
+      dodatki:
+        delovna_uspesnost: 17760.0 EUR
+        dodatek_mag_dr_c040bruto: 445.23 EUR
+        dodatek_dela_prost_dan_c111bruto: 124.52 EUR
+    2013 (12 mesecev) - GORIŠKA LEKARNA NOVA GORICA - DIREKTOR LEKARNE: plača bruto 28310.99 EUR, dodatki 6759.57 EUR, skupaj 35070.56 EUR
+      dodatki:
+        delovna_uspesnost: 6438.61 EUR
+        dodatek_mag_dr_c040bruto: 320.96 EUR
+    2014 (12 mesecev) - GORIŠKA LEKARNA NOVA GORICA - DIREKTOR LEKARNE: plača bruto 29257.54 EUR, dodatki 5808.16 EUR, skupaj 35065.7 EUR
+      dodatki:
+        delovna_uspesnost: 5575.79 EUR
+        dodatek_mag_dr_c040bruto: 232.37 EUR
+    Skupaj: Plača bruto 146023.75 EUR, dodatki 65732.76 EUR, skupaj 211756.51 EUR
+
+Zaposleni #13076090176854991786 - 53915.47 EUR dodatkov, 30.92% celotnega zneska
+    2010 (0 mesecev) - OBALNE LEKARNE KOPER FARMACIE COSTIERE CAPODISTRIA - DIREKTOR LEKARNE: plača bruto 0 EUR, dodatki 48.11 EUR, skupaj 48.11 EUR
+      dodatki:
+        delovna_uspesnost: 48.11 EUR
+    2011 (12 mesecev) - OBALNE LEKARNE KOPER FARMACIE COSTIERE CAPODISTRIA - DIREKTOR LEKARNE: plača bruto 31897.14 EUR, dodatki 15447.31 EUR, skupaj 47344.45 EUR
+      dodatki:
+        delovna_uspesnost: 13458.18 EUR
+        dodatek_mag_dr_c040bruto: 713.24 EUR
+        dodatek_dvojezicnost_c051bruto: 1275.89 EUR
+    2012 (12 mesecev) - OBALNE LEKARNE KOPER FARMACIE COSTIERE CAPODISTRIA - DIREKTOR LEKARNE: plača bruto 31765.15 EUR, dodatki 14086.71 EUR, skupaj 45851.86 EUR
+      dodatki:
+        delovna_uspesnost: 12075.01 EUR
+        dodatek_mag_dr_c040bruto: 741.09 EUR
+        dodatek_dvojezicnost_c051bruto: 1270.61 EUR
+    2013 (12 mesecev) - OBALNE LEKARNE KOPER FARMACIE COSTIERE CAPODISTRIA - DIREKTOR LEKARNE: plača bruto 28389.04 EUR, dodatki 12790.71 EUR, skupaj 41179.75 EUR
+      dodatki:
+        delovna_uspesnost: 11163.06 EUR
+        dodatek_mag_dr_c040bruto: 492.07 EUR
+        dodatek_dvojezicnost_c051bruto: 1135.58 EUR
+    2014 (12 mesecev) - OBALNE LEKARNE KOPER FARMACIE COSTIERE CAPODISTRIA - DIREKTOR LEKARNE: plača bruto 28385.49 EUR, dodatki 11542.63 EUR, skupaj 39928.12 EUR
+      dodatki:
+        delovna_uspesnost: 9930.31 EUR
+        dodatek_mag_dr_c040bruto: 319.34 EUR
+        dodatek_dvojezicnost_c051bruto: 1033.48 EUR
+        dodatek_poracun_c900bruto: 259.5 EUR
+    Skupaj: Plača bruto 120436.82 EUR, dodatki 53915.47 EUR, skupaj 174352.29 EUR
+
+Zaposleni #6107794247588945502 - 50239.68 EUR dodatkov, 30.92% celotnega zneska
+    2010 (11 mesecev) - JAVNI ZDRAVSTVENI ZAVOD MARIBORSKE LEKARNE MARIBOR - DIREKTOR LEKARNE: plača bruto 29153 EUR, dodatki 13771.44 EUR, skupaj 42924.44 EUR
+      dodatki:
+        delovna_uspesnost: 13771.44 EUR
+    2011 (12 mesecev) - JAVNI ZDRAVSTVENI ZAVOD MARIBORSKE LEKARNE MARIBOR - DIREKTOR LEKARNE: plača bruto 34091.34 EUR, dodatki 13939.25 EUR, skupaj 48030.59 EUR
+      dodatki:
+        delovna_uspesnost: 13939.25 EUR
+    2012 (12 mesecev) - JAVNI ZDRAVSTVENI ZAVOD MARIBORSKE LEKARNE MARIBOR - DIREKTOR LEKARNE: plača bruto 30350.52 EUR, dodatki 13809.28 EUR, skupaj 44159.8 EUR
+      dodatki:
+        delovna_uspesnost: 13809.28 EUR
+    2013 (6 mesecev) - JAVNI ZDRAVSTVENI ZAVOD MARIBORSKE LEKARNE MARIBOR - DIREKTOR LEKARNE: plača bruto 15341.84 EUR, dodatki 7691.61 EUR, skupaj 23033.45 EUR
+      dodatki:
+        delovna_uspesnost: 7691.61 EUR
+    2013 (2 mesecev) - JAVNI ZDRAVSTVENI ZAVOD MARIBORSKE LEKARNE MARIBOR - STROKOVNI DIREKTOR/STROKOVNI VODJA: plača bruto 3312.33 EUR, dodatki 1028.1 EUR, skupaj 4340.43 EUR
+      dodatki:
+        delovna_uspesnost: 1028.1 EUR
+    Skupaj: Plača bruto 112249.03 EUR, dodatki 50239.68 EUR, skupaj 162488.71 EUR
+
+Zaposleni #36988992386542052 - 85527.34 EUR dodatkov, 30.88% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - VIŠJI SODNIK: plača bruto 41728.99 EUR, dodatki 20411.55 EUR, skupaj 62140.54 EUR
+      dodatki:
+        dodatno_delo: 976.5 EUR
+        dezurstvo: 4458.77 EUR
+        dodatek_mentorstvo_c030bruto: 1633.01 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 13343.27 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - VIŠJI SODNIK: plača bruto 40309.28 EUR, dodatki 18911.79 EUR, skupaj 59221.07 EUR
+      dodatki:
+        dezurstvo: 5090.61 EUR
+        dodatek_mentorstvo_c030bruto: 1829.7 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 11986.91 EUR
+        dodatek_ogled_kd_c300bruto: 4.57 EUR
+    2012 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - VIŠJI SODNIK: plača bruto 37034.82 EUR, dodatki 16226.58 EUR, skupaj 53261.4 EUR
+      dodatki:
+        dezurstvo: 4122.34 EUR
+        dodatek_mentorstvo_c030bruto: 731.88 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 11372.36 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - VIŠJI SODNIK: plača bruto 36104.55 EUR, dodatki 16386.43 EUR, skupaj 52490.98 EUR
+      dodatki:
+        dezurstvo: 4973.35 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 11413.08 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - VIŠJI SODNIK: plača bruto 36296.37 EUR, dodatki 13590.99 EUR, skupaj 49887.36 EUR
+      dodatki:
+        dezurstvo: 4752.35 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8838.64 EUR
+    Skupaj: Plača bruto 191474.01 EUR, dodatki 85527.34 EUR, skupaj 277001.35 EUR
+
+Zaposleni #13112424904414319517 - 77979.79 EUR dodatkov, 30.79% celotnega zneska
+    2010 (11 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 35606.31 EUR, dodatki 13872.99 EUR, skupaj 49479.3 EUR
+      dodatki:
+        dezurstvo: 2823.88 EUR
+        dodatek_mentorstvo_c030bruto: 217.58 EUR
+        dodatek_dvojezicnost_c052bruto: 2136.37 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8695.16 EUR
+    2011 (11 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 34024.13 EUR, dodatki 17259.4 EUR, skupaj 51283.53 EUR
+      dodatki:
+        dezurstvo: 4556.33 EUR
+        dodatek_mentorstvo_c030bruto: 395.85 EUR
+        dodatek_dvojezicnost_c052bruto: 2041.47 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10265.75 EUR
+    2012 (5 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 17035.49 EUR, dodatki 8204.53 EUR, skupaj 25240.02 EUR
+      dodatki:
+        dezurstvo: 2069.3 EUR
+        dodatek_mentorstvo_c030bruto: 109.96 EUR
+        dodatek_dvojezicnost_c052bruto: 1022.15 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5003.12 EUR
+    2012 (7 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI SODNIK SVETNIK: plača bruto 19105.47 EUR, dodatki 10198.87 EUR, skupaj 29304.34 EUR
+      dodatki:
+        dezurstvo: 3092.07 EUR
+        dodatek_dvojezicnost_c052bruto: 1146.32 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5960.48 EUR
+    2013 (2 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI SODNIK SVETNIK: plača bruto 3551.2 EUR, dodatki 1395.86 EUR, skupaj 4947.06 EUR
+      dodatki:
+        dezurstvo: 145.51 EUR
+        dodatek_dvojezicnost_c052bruto: 213.07 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 1037.28 EUR
+    2013 (10 mesecev) - OKROŽNO SODIŠČE V KOPRU - VIŠJI SODNIK: plača bruto 28565 EUR, dodatki 12580.3 EUR, skupaj 41145.3 EUR
+      dodatki:
+        dezurstvo: 2207.91 EUR
+        dodatek_dvojezicnost_c052bruto: 1713.91 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8658.48 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V KOPRU - VIŠJI SODNIK: plača bruto 37406.29 EUR, dodatki 14467.84 EUR, skupaj 51874.13 EUR
+      dodatki:
+        dezurstvo: 4527.79 EUR
+        dodatek_dvojezicnost_c052bruto: 2244.37 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7695.68 EUR
+    Skupaj: Plača bruto 175293.89 EUR, dodatki 77979.79 EUR, skupaj 253273.68 EUR
+
+Zaposleni #15417756392506039642 - 12234.34 EUR dodatkov, 30.77% celotnega zneska
+    2010 (9 mesecev) - OKROŽNO DRŽAVNO TOŽILSTVO V MARIBORU - VODJA OKROŽNEGA DRŽAVNEGA TOŽILSTVA II: plača bruto 27521.43 EUR, dodatki 12234.34 EUR, skupaj 39755.77 EUR
+      dodatki:
+        dezurstvo: 8992.15 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 3218.04 EUR
+        dodatek_ogled_kd_c300bruto: 24.15 EUR
+    Skupaj: Plača bruto 27521.43 EUR, dodatki 12234.34 EUR, skupaj 39755.77 EUR
+
+Zaposleni #410991688491560785 - 19780.67 EUR dodatkov, 30.72% celotnega zneska
+    2013 (6 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - NAMESTNIK DIREKTORJA/ČLAN UPRAVE: plača bruto 14540.28 EUR, dodatki 5409.35 EUR, skupaj 19949.63 EUR
+      dodatki:
+        delovna_uspesnost: 5409.35 EUR
+    2014 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - NAMESTNIK DIREKTORJA/ČLAN UPRAVE: plača bruto 30065.65 EUR, dodatki 14371.32 EUR, skupaj 44436.97 EUR
+      dodatki:
+        delovna_uspesnost: 14363.56 EUR
+        dodatek_poracun_c900bruto: 7.76 EUR
+    Skupaj: Plača bruto 44605.93 EUR, dodatki 19780.67 EUR, skupaj 64386.6 EUR
+
+Zaposleni #14416263518912010063 - 65052.83 EUR dodatkov, 30.67% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - OKROŽNI KAZENSKI SODNIK: plača bruto 28385.79 EUR, dodatki 12498.88 EUR, skupaj 40884.67 EUR
+      dodatki:
+        polozajni_dodatek: 1419.29 EUR
+        dezurstvo: 3585.9 EUR
+        dodatek_mentorstvo_c030bruto: 663.1 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 6784.51 EUR
+        dodatek_ogled_kd_c300bruto: 46.08 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - OKROŽNI KAZENSKI SODNIK: plača bruto 29665.89 EUR, dodatki 13592.5 EUR, skupaj 43258.39 EUR
+      dodatki:
+        polozajni_dodatek: 1483.29 EUR
+        dezurstvo: 3140.55 EUR
+        dodatek_mentorstvo_c030bruto: 935.9 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7972.31 EUR
+        dodatek_ogled_kd_c300bruto: 60.45 EUR
+    2012 (5 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - OKROŽNI KAZENSKI SODNIK: plača bruto 12534.8 EUR, dodatki 6396.26 EUR, skupaj 18931.06 EUR
+      dodatki:
+        polozajni_dodatek: 626.73 EUR
+        dezurstvo: 1608.7 EUR
+        dodatek_mentorstvo_c030bruto: 668.5 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 3486.61 EUR
+        dodatek_ogled_kd_c300bruto: 5.72 EUR
+    2012 (7 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - OKROŽNI SODNIK: plača bruto 16547.06 EUR, dodatki 7727.43 EUR, skupaj 24274.49 EUR
+      dodatki:
+        polozajni_dodatek: 827.35 EUR
+        dezurstvo: 1936.79 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 4963.29 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - OKROŽNI SODNIK: plača bruto 29081.61 EUR, dodatki 12701.47 EUR, skupaj 41783.08 EUR
+      dodatki:
+        polozajni_dodatek: 1454.07 EUR
+        dezurstvo: 3052.31 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8195.09 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - OKROŽNI SODNIK: plača bruto 30841.27 EUR, dodatki 12136.29 EUR, skupaj 42977.56 EUR
+      dodatki:
+        polozajni_dodatek: 1542.06 EUR
+        dezurstvo: 2887.82 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7706.41 EUR
+    Skupaj: Plača bruto 147056.42 EUR, dodatki 65052.83 EUR, skupaj 212109.25 EUR
+
+Zaposleni #7079216211220309977 - 10184.42 EUR dodatkov, 30.61% celotnega zneska
+    2014 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 23087.49 EUR, dodatki 10184.42 EUR, skupaj 33271.91 EUR
+      dodatki:
+        delovna_uspesnost: 10184.42 EUR
+    Skupaj: Plača bruto 23087.49 EUR, dodatki 10184.42 EUR, skupaj 33271.91 EUR
+
+Zaposleni #9256452505069331657 - 81841.88 EUR dodatkov, 30.37% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - VIŠJI SODNIK: plača bruto 39068.98 EUR, dodatki 17167.16 EUR, skupaj 56236.14 EUR
+      dodatki:
+        dezurstvo: 2619.99 EUR
+        dodatek_mentorstvo_c030bruto: 1452.22 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 13094.95 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - VIŠJI SODNIK: plača bruto 38302.93 EUR, dodatki 18404.11 EUR, skupaj 56707.04 EUR
+      dodatki:
+        dezurstvo: 4532.59 EUR
+        dodatek_mentorstvo_c030bruto: 1097.82 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 12764.55 EUR
+        dodatek_ogled_kd_c300bruto: 9.15 EUR
+    2012 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - VIŠJI SODNIK: plača bruto 39143.45 EUR, dodatki 16346.14 EUR, skupaj 55489.59 EUR
+      dodatki:
+        dezurstvo: 4257.49 EUR
+        dodatek_mentorstvo_c030bruto: 914.85 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 11173.8 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - VIŠJI SODNIK: plača bruto 34736.94 EUR, dodatki 16764.52 EUR, skupaj 51501.46 EUR
+      dodatki:
+        dezurstvo: 4869.91 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 11894.61 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - VIŠJI SODNIK: plača bruto 36391.78 EUR, dodatki 13159.95 EUR, skupaj 49551.73 EUR
+      dodatki:
+        dezurstvo: 4070.15 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 9089.8 EUR
+    Skupaj: Plača bruto 187644.08 EUR, dodatki 81841.88 EUR, skupaj 269485.96 EUR
+
+Zaposleni #12927272299406991873 - 63500.16 EUR dodatkov, 30.37% celotnega zneska
+    2010 (11 mesecev) - KOROŠKA LEKARNA - DIREKTOR LEKARNE: plača bruto 30402.05 EUR, dodatki 15262.47 EUR, skupaj 45664.52 EUR
+      dodatki:
+        delovna_uspesnost: 12235.33 EUR
+        dodatno_delo: 2586.33 EUR
+        dodatek_mag_dr_c040bruto: 394.01 EUR
+        dodatek_neenakomerno_razporejen_delovni_cas_c190bruto: 46.8 EUR
+    2011 (12 mesecev) - KOROŠKA LEKARNA - DIREKTOR LEKARNE: plača bruto 28657.53 EUR, dodatki 10764.31 EUR, skupaj 39421.84 EUR
+      dodatki:
+        delovna_uspesnost: 9650.2 EUR
+        dezurstvo: 638.48 EUR
+        dodatek_mag_dr_c040bruto: 411.2 EUR
+        dodatek_neenakomerno_razporejen_delovni_cas_c190bruto: 64.43 EUR
+    2012 (12 mesecev) - KOROŠKA LEKARNA - DIREKTOR LEKARNE: plača bruto 29250.83 EUR, dodatki 12884.5 EUR, skupaj 42135.33 EUR
+      dodatki:
+        delovna_uspesnost: 8294.41 EUR
+        dodatno_delo: 3950.91 EUR
+        dezurstvo: 176.88 EUR
+        dodatek_mag_dr_c040bruto: 437.92 EUR
+        dodatek_neenakomerno_razporejen_delovni_cas_c190bruto: 24.38 EUR
+    2013 (12 mesecev) - KOROŠKA LEKARNA - DIREKTOR LEKARNE: plača bruto 28782.06 EUR, dodatki 12156.86 EUR, skupaj 40938.92 EUR
+      dodatki:
+        delovna_uspesnost: 7589.69 EUR
+        dodatno_delo: 4163.95 EUR
+        dezurstvo: 77.14 EUR
+        dodatek_mag_dr_c040bruto: 326.08 EUR
+    2014 (12 mesecev) - KOROŠKA LEKARNA - DIREKTOR LEKARNE: plača bruto 28510.63 EUR, dodatki 12432.02 EUR, skupaj 40942.65 EUR
+      dodatki:
+        delovna_uspesnost: 7666.25 EUR
+        dodatno_delo: 4522.35 EUR
+        dezurstvo: 16.97 EUR
+        dodatek_mag_dr_c040bruto: 226.45 EUR
+    Skupaj: Plača bruto 145603.1 EUR, dodatki 63500.16 EUR, skupaj 209103.26 EUR
+
+Zaposleni #11713012476115570617 - 61131.62 EUR dodatkov, 30.28% celotnega zneska
+    2010 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 28788.45 EUR, dodatki 7864.89 EUR, skupaj 36653.34 EUR
+      dodatki:
+        delovna_uspesnost: 7864.51 EUR
+        dodatek_poracun_c900bruto: 0.38 EUR
+    2011 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 29583.88 EUR, dodatki 12273.98 EUR, skupaj 41857.86 EUR
+      dodatki:
+        delovna_uspesnost: 12273.98 EUR
+    2012 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 28043 EUR, dodatki 16429.15 EUR, skupaj 44472.15 EUR
+      dodatki:
+        delovna_uspesnost: 16429.15 EUR
+    2013 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 27431.03 EUR, dodatki 13280.2 EUR, skupaj 40711.23 EUR
+      dodatki:
+        delovna_uspesnost: 13280.2 EUR
+    2014 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 26923.19 EUR, dodatki 11283.4 EUR, skupaj 38206.59 EUR
+      dodatki:
+        delovna_uspesnost: 11283.4 EUR
+    Skupaj: Plača bruto 140769.55 EUR, dodatki 61131.62 EUR, skupaj 201901.17 EUR
+
+Zaposleni #1360851836545789881 - 64533.22 EUR dodatkov, 30.27% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - OKROŽNI KAZENSKI SODNIK: plača bruto 30391.99 EUR, dodatki 12996.05 EUR, skupaj 43388.04 EUR
+      dodatki:
+        polozajni_dodatek: 1519.6 EUR
+        dezurstvo: 2759.97 EUR
+        dodatek_mentorstvo_c030bruto: 1433.5 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7250.39 EUR
+        dodatek_ogled_kd_c300bruto: 32.59 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - OKROŽNI KAZENSKI SODNIK: plača bruto 30634.33 EUR, dodatki 14121.87 EUR, skupaj 44756.2 EUR
+      dodatki:
+        polozajni_dodatek: 1531.72 EUR
+        dezurstvo: 2749.41 EUR
+        dodatek_mentorstvo_c030bruto: 1229.1 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8566.36 EUR
+        dodatek_ogled_kd_c300bruto: 45.28 EUR
+    2012 (5 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - OKROŽNI KAZENSKI SODNIK: plača bruto 12958.74 EUR, dodatki 6413.98 EUR, skupaj 19372.72 EUR
+      dodatki:
+        polozajni_dodatek: 647.94 EUR
+        dezurstvo: 1424.27 EUR
+        dodatek_mentorstvo_c030bruto: 578.4 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 3758.71 EUR
+        dodatek_ogled_kd_c300bruto: 4.66 EUR
+    2012 (7 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - OKROŽNI SODNIK: plača bruto 16821.69 EUR, dodatki 7691.63 EUR, skupaj 24513.32 EUR
+      dodatki:
+        polozajni_dodatek: 841.08 EUR
+        dezurstvo: 1736.37 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5114.18 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - OKROŽNI SODNIK: plača bruto 28547.34 EUR, dodatki 11477.54 EUR, skupaj 40024.88 EUR
+      dodatki:
+        polozajni_dodatek: 1427.34 EUR
+        dezurstvo: 2488.07 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7562.13 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - OKROŽNI SODNIK: plača bruto 29284.82 EUR, dodatki 11832.15 EUR, skupaj 41116.97 EUR
+      dodatki:
+        polozajni_dodatek: 1464.22 EUR
+        dezurstvo: 2467.52 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7900.41 EUR
+    Skupaj: Plača bruto 148638.91 EUR, dodatki 64533.22 EUR, skupaj 213172.13 EUR
+
+Zaposleni #8220638545983367624 - 77884.93 EUR dodatkov, 30.02% celotnega zneska
+    2010 (6 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - OKROŽNI KAZENSKI SODNIK: plača bruto 13629.87 EUR, dodatki 6907.41 EUR, skupaj 20537.28 EUR
+      dodatki:
+        polozajni_dodatek: 545.17 EUR
+        dezurstvo: 3262.27 EUR
+        dodatek_mentorstvo_c030bruto: 137.84 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 2962.13 EUR
+    2010 (7 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 20907.69 EUR, dodatki 8437.06 EUR, skupaj 29344.75 EUR
+      dodatki:
+        polozajni_dodatek: 836.32 EUR
+        dezurstvo: 3375.39 EUR
+        dodatek_mentorstvo_c030bruto: 8.13 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 4217.22 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 35374.23 EUR, dodatki 16483.6 EUR, skupaj 51857.83 EUR
+      dodatki:
+        polozajni_dodatek: 1414.97 EUR
+        dezurstvo: 7297.83 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7765.3 EUR
+        dodatek_ogled_kd_c300bruto: 5.5 EUR
+    2012 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 37995.59 EUR, dodatki 17373.45 EUR, skupaj 55369.04 EUR
+      dodatki:
+        polozajni_dodatek: 1519.82 EUR
+        dezurstvo: 7493.97 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8359.66 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 32414.87 EUR, dodatki 15467.77 EUR, skupaj 47882.64 EUR
+      dodatki:
+        polozajni_dodatek: 1296.6 EUR
+        dezurstvo: 6294.52 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7876.65 EUR
+    2014 (1 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 3258.25 EUR, dodatki 1462.72 EUR, skupaj 4720.97 EUR
+      dodatki:
+        polozajni_dodatek: 130.33 EUR
+        dezurstvo: 629.56 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 702.83 EUR
+    2014 (11 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - OKROŽNI SODNIK SVETNIK: plača bruto 37935.94 EUR, dodatki 11752.92 EUR, skupaj 49688.86 EUR
+      dodatki:
+        polozajni_dodatek: 1517.43 EUR
+        dezurstvo: 4357.13 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5878.36 EUR
+    Skupaj: Plača bruto 181516.44 EUR, dodatki 77884.93 EUR, skupaj 259401.37 EUR
+
+Zaposleni #4087680540146887899 - 4564.05 EUR dodatkov, 30.01% celotnega zneska
+    2010 (4 mesecev) - SPLOŠNA BOLNIŠNICA CELJE - POMOČNIK DIREKTORJA: plača bruto 10642.31 EUR, dodatki 4564.05 EUR, skupaj 15206.36 EUR
+      dodatki:
+        delovna_uspesnost: 4344.42 EUR
+        dodatek_mag_dr_c040bruto: 219.63 EUR
+    Skupaj: Plača bruto 10642.31 EUR, dodatki 4564.05 EUR, skupaj 15206.36 EUR
+
+Zaposleni #15354449407420366564 - 26173.34 EUR dodatkov, 29.76% celotnega zneska
+    2013 (9 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - DIREKTOR LEKARNE: plača bruto 25588.37 EUR, dodatki 11596.69 EUR, skupaj 37185.06 EUR
+      dodatki:
+        delovna_uspesnost: 11030.41 EUR
+        dodatek_mag_dr_c040bruto: 566.28 EUR
+    2013 (1 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 2782.25 EUR, dodatki 118.94 EUR, skupaj 2901.19 EUR
+      dodatki:
+        dodatek_mag_dr_c040bruto: 118.94 EUR
+    2014 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - DIREKTOR LEKARNE: plača bruto 33395.85 EUR, dodatki 14457.71 EUR, skupaj 47853.56 EUR
+      dodatki:
+        delovna_uspesnost: 13852.29 EUR
+        dodatek_mag_dr_c040bruto: 605.42 EUR
+    Skupaj: Plača bruto 61766.47 EUR, dodatki 26173.34 EUR, skupaj 87939.81 EUR
+
+Zaposleni #16234832358433261895 - 41240.84 EUR dodatkov, 29.60% celotnega zneska
+    2010 (12 mesecev) - ZAVOD ZA ZDRAVSTVENO VARSTVO KRANJ - DIREKTOR ZAVODA ZA ZDRAVSTVENO VARSTVO: plača bruto 34295.53 EUR, dodatki 18337.44 EUR, skupaj 52632.97 EUR
+      dodatki:
+        delovna_uspesnost: 7184.45 EUR
+        dodatno_delo: 6552.46 EUR
+        dodatek_mag_dr_c040bruto: 1076.44 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 3523.63 EUR
+        dodatek_poracun_c900bruto: 0.46 EUR
+    2011 (12 mesecev) - ZAVOD ZA ZDRAVSTVENO VARSTVO KRANJ - DIREKTOR ZAVODA ZA ZDRAVSTVENO VARSTVO: plača bruto 35064.66 EUR, dodatki 12083.47 EUR, skupaj 47148.13 EUR
+      dodatki:
+        delovna_uspesnost: 776.8 EUR
+        dodatno_delo: 6804.09 EUR
+        dodatek_mag_dr_c040bruto: 1100.91 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 3401.67 EUR
+    2012 (12 mesecev) - ZAVOD ZA ZDRAVSTVENO VARSTVO KRANJ - DIREKTOR ZAVODA ZA ZDRAVSTVENO VARSTVO: plača bruto 20433.28 EUR, dodatki 8110.86 EUR, skupaj 28544.14 EUR
+      dodatki:
+        delovna_uspesnost: 753.85 EUR
+        dodatno_delo: 5279.08 EUR
+        dodatek_mag_dr_c040bruto: 649.46 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 1428.47 EUR
+    2013 (12 mesecev) - ZAVOD ZA ZDRAVSTVENO VARSTVO KRANJ - DIREKTOR ZAVODA ZA ZDRAVSTVENO VARSTVO: plača bruto 8311.88 EUR, dodatki 2709.07 EUR, skupaj 11020.95 EUR
+      dodatki:
+        delovna_uspesnost: 48.35 EUR
+        dodatno_delo: 2461.97 EUR
+        dodatek_mag_dr_c040bruto: 198.75 EUR
+    Skupaj: Plača bruto 98105.35 EUR, dodatki 41240.84 EUR, skupaj 139346.19 EUR
+
+Zaposleni #6514024883093817446 - 48777.75 EUR dodatkov, 29.58% celotnega zneska
+    2010 (12 mesecev) - LEKARNA RIBNICA - DIREKTOR LEKARNE: plača bruto 24407.91 EUR, dodatki 12316.97 EUR, skupaj 36724.88 EUR
+      dodatki:
+        delovna_uspesnost: 12316.67 EUR
+        dodatek_poracun_c900bruto: 0.3 EUR
+    2011 (12 mesecev) - LEKARNA RIBNICA - DIREKTOR LEKARNE: plača bruto 24529.95 EUR, dodatki 11164.29 EUR, skupaj 35694.24 EUR
+      dodatki:
+        delovna_uspesnost: 11164.29 EUR
+    2012 (12 mesecev) - LEKARNA RIBNICA - DIREKTOR LEKARNE: plača bruto 20230.2 EUR, dodatki 8953.03 EUR, skupaj 29183.23 EUR
+      dodatki:
+        delovna_uspesnost: 8953.03 EUR
+    2013 (12 mesecev) - LEKARNA RIBNICA - DIREKTOR LEKARNE: plača bruto 23195.91 EUR, dodatki 9363.19 EUR, skupaj 32559.1 EUR
+      dodatki:
+        delovna_uspesnost: 9363.19 EUR
+    2014 (12 mesecev) - LEKARNA RIBNICA - DIREKTOR LEKARNE: plača bruto 23778.2 EUR, dodatki 6980.27 EUR, skupaj 30758.47 EUR
+      dodatki:
+        delovna_uspesnost: 6343.25 EUR
+        dodatek_mentorstvo_c030bruto: 637.02 EUR
+    Skupaj: Plača bruto 116142.17 EUR, dodatki 48777.75 EUR, skupaj 164919.92 EUR
+
+Zaposleni #18147860660111910770 - 47796.73 EUR dodatkov, 29.51% celotnega zneska
+    2010 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - DIREKTOR LEKARNE: plača bruto 37615.51 EUR, dodatki 16313.1 EUR, skupaj 53928.61 EUR
+      dodatki:
+        delovna_uspesnost: 15565.26 EUR
+        dodatek_mag_dr_c040bruto: 747.09 EUR
+        dodatek_poracun_c900bruto: 0.75 EUR
+    2011 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - DIREKTOR LEKARNE: plača bruto 33607.68 EUR, dodatki 14314.33 EUR, skupaj 47922.01 EUR
+      dodatki:
+        delovna_uspesnost: 13776.63 EUR
+        dodatek_mag_dr_c040bruto: 549.31 EUR
+    2012 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - DIREKTOR LEKARNE: plača bruto 34198.02 EUR, dodatki 13663.66 EUR, skupaj 47861.68 EUR
+      dodatki:
+        delovna_uspesnost: 13679.2 EUR
+    2013 (3 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - DIREKTOR LEKARNE: plača bruto 8764.12 EUR, dodatki 3505.64 EUR, skupaj 12269.76 EUR
+      dodatki:
+        delovna_uspesnost: 3505.64 EUR
+    2013 (0 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 0 EUR, dodatki 0.0 EUR, skupaj 0.0 EUR
+      dodatki:
+    Skupaj: Plača bruto 114185.33 EUR, dodatki 47796.73 EUR, skupaj 161982.06 EUR
+
+Zaposleni #14289376517135558871 - 67395.4 EUR dodatkov, 29.51% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI SODNIK: plača bruto 31903.87 EUR, dodatki 14921.25 EUR, skupaj 46825.12 EUR
+      dodatki:
+        dezurstvo: 3224.67 EUR
+        dodatek_mentorstvo_c030bruto: 336.11 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 11360.47 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI SODNIK: plača bruto 33752.77 EUR, dodatki 13480.32 EUR, skupaj 47233.09 EUR
+      dodatki:
+        dezurstvo: 2249.28 EUR
+        dodatek_mentorstvo_c030bruto: 387.23 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10840.99 EUR
+        dodatek_ogled_kd_c300bruto: 2.82 EUR
+    2012 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI SODNIK: plača bruto 33052.81 EUR, dodatki 13563.47 EUR, skupaj 46616.28 EUR
+      dodatki:
+        dezurstvo: 3044.84 EUR
+        dodatek_mentorstvo_c030bruto: 78.95 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10437.18 EUR
+        dodatek_ogled_kd_c300bruto: 2.5 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI SODNIK: plača bruto 30694.7 EUR, dodatki 13546.99 EUR, skupaj 44241.69 EUR
+      dodatki:
+        dezurstvo: 2955.18 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10591.81 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI SODNIK: plača bruto 31602.23 EUR, dodatki 11883.37 EUR, skupaj 43485.6 EUR
+      dodatki:
+        dodatno_delo: 24.58 EUR
+        dezurstvo: 2930.21 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8928.58 EUR
+    Skupaj: Plača bruto 161006.38 EUR, dodatki 67395.4 EUR, skupaj 228401.78 EUR
+
+Zaposleni #3024672126644706695 - 41843.62 EUR dodatkov, 29.40% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI SODNIK: plača bruto 32249.26 EUR, dodatki 14170.87 EUR, skupaj 46420.13 EUR
+      dodatki:
+        dodatno_delo: 65.07 EUR
+        dezurstvo: 2749.0 EUR
+        dodatek_mentorstvo_c030bruto: 547.76 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10809.04 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI SODNIK: plača bruto 31386 EUR, dodatki 12554.21 EUR, skupaj 43940.21 EUR
+      dodatki:
+        dezurstvo: 2566.84 EUR
+        dodatek_mentorstvo_c030bruto: 334.63 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 9652.74 EUR
+    2012 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI SODNIK: plača bruto 30859.08 EUR, dodatki 13017.87 EUR, skupaj 43876.95 EUR
+      dodatki:
+        dezurstvo: 2256.82 EUR
+        dodatek_mentorstvo_c030bruto: 30.08 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10730.97 EUR
+    2013 (3 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI SODNIK: plača bruto 5990.6 EUR, dodatki 2100.67 EUR, skupaj 8091.27 EUR
+      dodatki:
+        dezurstvo: 197.98 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 1902.69 EUR
+    Skupaj: Plača bruto 100484.94 EUR, dodatki 41843.62 EUR, skupaj 142328.56 EUR
+
+Zaposleni #2933029809670495806 - 22847.0 EUR dodatkov, 29.15% celotnega zneska
+    2013 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 27968.15 EUR, dodatki 11298.77 EUR, skupaj 39266.92 EUR
+      dodatki:
+        delovna_uspesnost: 11261.45 EUR
+        dodatek_poracun_c900bruto: 37.32 EUR
+    2014 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - POMOČNIK DIREKTORJA: plača bruto 27560 EUR, dodatki 11548.23 EUR, skupaj 39108.23 EUR
+      dodatki:
+        delovna_uspesnost: 11548.23 EUR
+    Skupaj: Plača bruto 55528.15 EUR, dodatki 22847.0 EUR, skupaj 78375.15 EUR
+
+Zaposleni #14406491860359161855 - 64792.64 EUR dodatkov, 28.90% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - VIŠJI SODNIK: plača bruto 36324.27 EUR, dodatki 16526.9 EUR, skupaj 52851.17 EUR
+      dodatki:
+        polozajni_dodatek: 1816.22 EUR
+        dezurstvo: 7579.91 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7130.77 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - VIŠJI SODNIK: plača bruto 36188.33 EUR, dodatki 15107.63 EUR, skupaj 51295.96 EUR
+      dodatki:
+        polozajni_dodatek: 1809.44 EUR
+        dezurstvo: 5801.21 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7496.98 EUR
+    2012 (11 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - VIŠJI SODNIK: plača bruto 27849.61 EUR, dodatki 11519.49 EUR, skupaj 39369.1 EUR
+      dodatki:
+        polozajni_dodatek: 1392.48 EUR
+        dezurstvo: 4026.11 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 6100.9 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - VIŠJI SODNIK: plača bruto 35400.18 EUR, dodatki 14233.98 EUR, skupaj 49634.16 EUR
+      dodatki:
+        polozajni_dodatek: 1769.98 EUR
+        dezurstvo: 5463.68 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7000.32 EUR
+    2014 (9 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - VIŠJI SODNIK: plača bruto 23649.16 EUR, dodatki 7404.64 EUR, skupaj 31053.8 EUR
+      dodatki:
+        polozajni_dodatek: 1182.45 EUR
+        dezurstvo: 2375.96 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 3846.23 EUR
+    Skupaj: Plača bruto 159411.55 EUR, dodatki 64792.64 EUR, skupaj 224204.19 EUR
+
+Zaposleni #17280141962246274758 - 24212.49 EUR dodatkov, 28.84% celotnega zneska
+    2010 (11 mesecev) - SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA - POMOČNIK DIREKTORJA: plača bruto 29540.29 EUR, dodatki 24114.44 EUR, skupaj 53654.73 EUR
+      dodatki:
+        delovna_uspesnost: 5464.26 EUR
+        dodatno_delo: 18592.37 EUR
+        dodatek_ionizirajoce_sevanje_c060bruto: 47.0 EUR
+        dodatek_izmensko_delo_c080bruto: 10.21 EUR
+        dodatek_poracun_c900bruto: 0.6 EUR
+    2011 (10 mesecev) - SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA - POMOČNIK DIREKTORJA: plača bruto 30213.17 EUR, dodatki 98.05 EUR, skupaj 30311.22 EUR
+      dodatki:
+        dodatek_ionizirajoce_sevanje_c060bruto: 45.0 EUR
+        dodatek_izmensko_delo_c080bruto: 53.05 EUR
+    Skupaj: Plača bruto 59753.46 EUR, dodatki 24212.49 EUR, skupaj 83965.95 EUR
+
+Zaposleni #1650075243037384027 - 29012.76 EUR dodatkov, 28.73% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V LJUBLJANI - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 37315.7 EUR, dodatki 13975.65 EUR, skupaj 51291.35 EUR
+      dodatki:
+        polozajni_dodatek: 2985.28 EUR
+        dezurstvo: 6809.04 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 4171.49 EUR
+        dodatek_ogled_kd_c300bruto: 9.84 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V LJUBLJANI - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 34654.21 EUR, dodatki 15037.11 EUR, skupaj 49691.32 EUR
+      dodatki:
+        polozajni_dodatek: 2772.35 EUR
+        dezurstvo: 8537.69 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 3717.72 EUR
+        dodatek_ogled_kd_c300bruto: 9.35 EUR
+    Skupaj: Plača bruto 71969.91 EUR, dodatki 29012.76 EUR, skupaj 100982.67 EUR
+
+Zaposleni #8615169147542659789 - 82614.8 EUR dodatkov, 28.60% celotnega zneska
+    2010 (11 mesecev) - AGENCIJA ZA TRG VREDNOSTNIH PAPIRJEV - DIREKTOR AGENCIJE: plača bruto 37731.86 EUR, dodatki 11466.67 EUR, skupaj 49198.53 EUR
+      dodatki:
+        delovna_uspesnost: 10453.86 EUR
+        dodatek_mag_dr_c040bruto: 1012.59 EUR
+        dodatek_poracun_c900bruto: 0.22 EUR
+    2011 (12 mesecev) - AGENCIJA ZA TRG VREDNOSTNIH PAPIRJEV - DIREKTOR AGENCIJE: plača bruto 45228.69 EUR, dodatki 16744.98 EUR, skupaj 61973.67 EUR
+      dodatki:
+        delovna_uspesnost: 15531.13 EUR
+        dodatek_mag_dr_c040bruto: 1213.85 EUR
+    2012 (12 mesecev) - AGENCIJA ZA TRG VREDNOSTNIH PAPIRJEV - DIREKTOR AGENCIJE: plača bruto 44065.89 EUR, dodatki 16530.35 EUR, skupaj 60596.24 EUR
+      dodatki:
+        delovna_uspesnost: 15296.29 EUR
+        dodatek_mag_dr_c040bruto: 1234.06 EUR
+    2013 (12 mesecev) - AGENCIJA ZA TRG VREDNOSTNIH PAPIRJEV - DIREKTOR AGENCIJE: plača bruto 40729.96 EUR, dodatki 18284.43 EUR, skupaj 59014.39 EUR
+      dodatki:
+        delovna_uspesnost: 17425.08 EUR
+        dodatek_mag_dr_c040bruto: 859.35 EUR
+    2014 (12 mesecev) - AGENCIJA ZA TRG VREDNOSTNIH PAPIRJEV - DIREKTOR AGENCIJE: plača bruto 38459.64 EUR, dodatki 19588.37 EUR, skupaj 58048.01 EUR
+      dodatki:
+        delovna_uspesnost: 19010.88 EUR
+        dodatek_mag_dr_c040bruto: 577.49 EUR
+    Skupaj: Plača bruto 206216.04 EUR, dodatki 82614.8 EUR, skupaj 288830.84 EUR
+
+Zaposleni #13377904191379539634 - 72284.57 EUR dodatkov, 28.41% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 38319.17 EUR, dodatki 16307.25 EUR, skupaj 54626.42 EUR
+      dodatki:
+        dezurstvo: 5063.17 EUR
+        dodatek_mentorstvo_c030bruto: 1571.34 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 9612.8 EUR
+        dodatek_ogled_kd_c300bruto: 59.94 EUR
+    2010 (0 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - PODPREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 0 EUR, dodatki 0.0 EUR, skupaj 0.0 EUR
+      dodatki:
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 38166.73 EUR, dodatki 15136.23 EUR, skupaj 53302.96 EUR
+      dodatki:
+        dezurstvo: 3524.28 EUR
+        dodatek_mentorstvo_c030bruto: 1407.44 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10133.03 EUR
+        dodatek_ogled_kd_c300bruto: 71.48 EUR
+    2012 (5 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 15093.4 EUR, dodatki 7310.48 EUR, skupaj 22403.88 EUR
+      dodatki:
+        dezurstvo: 2230.6 EUR
+        dodatek_mentorstvo_c030bruto: 351.86 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 4720.87 EUR
+        dodatek_ogled_kd_c300bruto: 7.15 EUR
+    2012 (7 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - PODPREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 20594.95 EUR, dodatki 8135.04 EUR, skupaj 28729.99 EUR
+      dodatki:
+        dezurstvo: 2761.72 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5373.32 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - PODPREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 34945.13 EUR, dodatki 13942.41 EUR, skupaj 48887.54 EUR
+      dodatki:
+        dezurstvo: 4031.39 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 9911.02 EUR
+    2014 (2 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - OKROŽNI SODNIK SVETNIK: plača bruto 4131.99 EUR, dodatki 944.45 EUR, skupaj 5076.44 EUR
+      dodatki:
+        dezurstvo: 222.05 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 722.4 EUR
+    2014 (11 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - PODPREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 30874.09 EUR, dodatki 10508.71 EUR, skupaj 41382.8 EUR
+      dodatki:
+        dezurstvo: 2655.01 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7853.7 EUR
+    Skupaj: Plača bruto 182125.46 EUR, dodatki 72284.57 EUR, skupaj 254410.03 EUR
+
+Zaposleni #10365712061751555988 - 3976.42 EUR dodatkov, 28.37% celotnega zneska
+    2010 (5 mesecev) - KNJIŽNICA ROGAŠKA SLATINA - DIREKTOR KNJIŽNICE: plača bruto 10037.42 EUR, dodatki 3976.42 EUR, skupaj 14013.84 EUR
+      dodatki:
+        delovna_uspesnost: 3976.42 EUR
+    Skupaj: Plača bruto 10037.42 EUR, dodatki 3976.42 EUR, skupaj 14013.84 EUR
+
+Zaposleni #3771982365325516031 - 44806.41 EUR dodatkov, 28.19% celotnega zneska
+    2010 (11 mesecev) - DIJAŠKI IN ŠTUDENTSKI DOM NOVO MESTO - RAVNATELJ DIJAŠKEGA DOMA/DIJAŠKEGA DOMA - ORGANIZACIJSKE ENOTE: plača bruto 24408.7 EUR, dodatki 4362.1 EUR, skupaj 28770.8 EUR
+      dodatki:
+        delovna_uspesnost: 4362.1 EUR
+    2011 (10 mesecev) - DIJAŠKI IN ŠTUDENTSKI DOM NOVO MESTO - RAVNATELJ DIJAŠKEGA DOMA/DIJAŠKEGA DOMA - ORGANIZACIJSKE ENOTE: plača bruto 21493.67 EUR, dodatki 6110.0 EUR, skupaj 27603.67 EUR
+      dodatki:
+        delovna_uspesnost: 6110.0 EUR
+    2012 (12 mesecev) - DIJAŠKI IN ŠTUDENTSKI DOM NOVO MESTO - RAVNATELJ DIJAŠKEGA DOMA/DIJAŠKEGA DOMA - ORGANIZACIJSKE ENOTE: plača bruto 22827.8 EUR, dodatki 10304.81 EUR, skupaj 33132.61 EUR
+      dodatki:
+        delovna_uspesnost: 10304.81 EUR
+    2013 (12 mesecev) - DIJAŠKI IN ŠTUDENTSKI DOM NOVO MESTO - RAVNATELJ DIJAŠKEGA DOMA/DIJAŠKEGA DOMA - ORGANIZACIJSKE ENOTE: plača bruto 22588.62 EUR, dodatki 9950.0 EUR, skupaj 32538.62 EUR
+      dodatki:
+        delovna_uspesnost: 9950.0 EUR
+    2014 (12 mesecev) - DIJAŠKI IN ŠTUDENTSKI DOM NOVO MESTO - RAVNATELJ DIJAŠKEGA DOMA/DIJAŠKEGA DOMA - ORGANIZACIJSKE ENOTE: plača bruto 22816.64 EUR, dodatki 14079.5 EUR, skupaj 36896.14 EUR
+      dodatki:
+        delovna_uspesnost: 13618.51 EUR
+        dodatno_delo: 221.11 EUR
+        dodatek_delo_v_nedeljo_c110bruto: 193.45 EUR
+        dodatek_dela_prost_dan_c111bruto: 46.43 EUR
+    Skupaj: Plača bruto 114135.43 EUR, dodatki 44806.41 EUR, skupaj 158941.84 EUR
+
+Zaposleni #2397332537279971561 - 9582.61 EUR dodatkov, 27.75% celotnega zneska
+    2010 (12 mesecev) - POMURSKE LEKARNE MURSKA SOBOTA - POMOČNIK DIREKTORJA: plača bruto 24947.07 EUR, dodatki 9582.61 EUR, skupaj 34529.68 EUR
+      dodatki:
+        delovna_uspesnost: 9582.61 EUR
+    Skupaj: Plača bruto 24947.07 EUR, dodatki 9582.61 EUR, skupaj 34529.68 EUR
+
+Zaposleni #5475186649196540414 - 63822.81 EUR dodatkov, 27.73% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - OKROŽNI KAZENSKI SODNIK: plača bruto 31416.31 EUR, dodatki 11441.03 EUR, skupaj 42857.34 EUR
+      dodatki:
+        dezurstvo: 6065.28 EUR
+        dodatek_mentorstvo_c030bruto: 17.17 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5358.58 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - OKROŽNI KAZENSKI SODNIK: plača bruto 35872.77 EUR, dodatki 11822.05 EUR, skupaj 47694.82 EUR
+      dodatki:
+        dezurstvo: 4896.78 EUR
+        dodatek_mentorstvo_c030bruto: 8.13 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 6917.14 EUR
+    2012 (1 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - OKROŽNI KAZENSKI SODNIK: plača bruto 1125.61 EUR, dodatki 264.32 EUR, skupaj 1389.93 EUR
+      dodatki:
+        dodatek_stalna_pripravljenost_c130bruto: 264.32 EUR
+    2012 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - PREDSEDNIK OKRAJNEGA SODIŠČA IV: plača bruto 33540.24 EUR, dodatki 13668.04 EUR, skupaj 47208.28 EUR
+      dodatki:
+        dezurstvo: 6577.32 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7090.72 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - PREDSEDNIK OKRAJNEGA SODIŠČA IV: plača bruto 31614.53 EUR, dodatki 12891.2 EUR, skupaj 44505.73 EUR
+      dodatki:
+        dezurstvo: 5730.2 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7161.0 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - PREDSEDNIK OKRAJNEGA SODIŠČA IV: plača bruto 32725.98 EUR, dodatki 13736.17 EUR, skupaj 46462.15 EUR
+      dodatki:
+        dezurstvo: 6556.84 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7179.33 EUR
+    Skupaj: Plača bruto 166295.44 EUR, dodatki 63822.81 EUR, skupaj 230118.25 EUR
+
+Zaposleni #6455068201232099113 - 71812.19 EUR dodatkov, 27.62% celotnega zneska
+    2010 (11 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - PREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 39189.17 EUR, dodatki 15460.23 EUR, skupaj 54649.4 EUR
+      dodatki:
+        dezurstvo: 7542.49 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7906.44 EUR
+        dodatek_ogled_kd_c300bruto: 11.3 EUR
+    2011 (11 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - PREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 39153.01 EUR, dodatki 14936.77 EUR, skupaj 54089.78 EUR
+      dodatki:
+        dezurstvo: 6524.68 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8412.09 EUR
+    2012 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - PREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 36215.48 EUR, dodatki 13610.38 EUR, skupaj 49825.86 EUR
+      dodatki:
+        dezurstvo: 5115.33 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8495.05 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - PREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 37157.97 EUR, dodatki 13410.94 EUR, skupaj 50568.91 EUR
+      dodatki:
+        dezurstvo: 5112.99 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8297.95 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - PREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 36477.49 EUR, dodatki 14393.87 EUR, skupaj 50871.36 EUR
+      dodatki:
+        dezurstvo: 6156.86 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8237.01 EUR
+    Skupaj: Plača bruto 188193.12 EUR, dodatki 71812.19 EUR, skupaj 260005.31 EUR
+
+Zaposleni #5663560069602448830 - 1144.31 EUR dodatkov, 27.45% celotnega zneska
+    2011 (1 mesecev) - SPLOŠNA BOLNIŠNICA JESENICE - POMOČNIK DIREKTORJA: plača bruto 3024.87 EUR, dodatki 1144.31 EUR, skupaj 4169.18 EUR
+      dodatki:
+        dodatno_delo: 1144.31 EUR
+    Skupaj: Plača bruto 3024.87 EUR, dodatki 1144.31 EUR, skupaj 4169.18 EUR
+
+Zaposleni #8809566283099404809 - 70777.12 EUR dodatkov, 27.35% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - PREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 39113.03 EUR, dodatki 14979.74 EUR, skupaj 54092.77 EUR
+      dodatki:
+        dezurstvo: 3164.21 EUR
+        dodatek_mentorstvo_c030bruto: 1995.77 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 9800.27 EUR
+        dodatek_ogled_kd_c300bruto: 19.49 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - PREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 38893.69 EUR, dodatki 14896.15 EUR, skupaj 53789.84 EUR
+      dodatki:
+        dezurstvo: 2816.08 EUR
+        dodatek_mentorstvo_c030bruto: 1372.28 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10668.33 EUR
+        dodatek_ogled_kd_c300bruto: 39.46 EUR
+    2012 (12 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - PREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 39188.43 EUR, dodatki 15175.12 EUR, skupaj 54363.55 EUR
+      dodatki:
+        dezurstvo: 3675.67 EUR
+        dodatek_mentorstvo_c030bruto: 914.85 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10566.3 EUR
+        dodatek_ogled_kd_c300bruto: 18.3 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - PREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 33757.74 EUR, dodatki 13739.29 EUR, skupaj 47497.03 EUR
+      dodatki:
+        dezurstvo: 2808.11 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10931.18 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V MURSKI SOBOTI - PREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 37093.88 EUR, dodatki 11986.82 EUR, skupaj 49080.7 EUR
+      dodatki:
+        dezurstvo: 2269.85 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 9716.97 EUR
+    Skupaj: Plača bruto 188046.77 EUR, dodatki 70777.12 EUR, skupaj 258823.89 EUR
+
+Zaposleni #3725762861378321928 - 1838.15 EUR dodatkov, 27.11% celotnega zneska
+    2010 (4 mesecev) - UNIVERZITETNI KLINIČNI CENTER MARIBOR - STROKOVNI DIREKTOR/STROKOVNI VODJA: plača bruto 4943.01 EUR, dodatki 1838.15 EUR, skupaj 6781.16 EUR
+      dodatki:
+        delovna_uspesnost: 230.5 EUR
+        dodatno_delo: 585.06 EUR
+        dodatek_mentorstvo_c030bruto: 490.28 EUR
+        dodatek_mag_dr_c040bruto: 48.08 EUR
+        dodatek_ionizirajoce_sevanje_c060bruto: 143.0 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 365.57 EUR
+    Skupaj: Plača bruto 4943.01 EUR, dodatki 1838.15 EUR, skupaj 6781.16 EUR
+
+Zaposleni #9676463387321099912 - 56285.46 EUR dodatkov, 27.10% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - OKROŽNI SODNIK: plača bruto 33346.61 EUR, dodatki 12665.07 EUR, skupaj 46011.68 EUR
+      dodatki:
+        dezurstvo: 6338.72 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 6326.35 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - OKROŽNI SODNIK: plača bruto 29915.57 EUR, dodatki 10137.86 EUR, skupaj 40053.43 EUR
+      dodatki:
+        dezurstvo: 3892.98 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 6244.88 EUR
+    2012 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - OKROŽNI SODNIK: plača bruto 30846.53 EUR, dodatki 12901.04 EUR, skupaj 43747.57 EUR
+      dodatki:
+        dezurstvo: 6344.52 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 6556.52 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - OKROŽNI SODNIK: plača bruto 29390.96 EUR, dodatki 10726.58 EUR, skupaj 40117.54 EUR
+      dodatki:
+        dezurstvo: 4435.42 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 6291.16 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - OKROŽNI SODNIK: plača bruto 27932.36 EUR, dodatki 9854.91 EUR, skupaj 37787.27 EUR
+      dodatki:
+        dezurstvo: 4294.79 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5560.12 EUR
+    Skupaj: Plača bruto 151432.03 EUR, dodatki 56285.46 EUR, skupaj 207717.49 EUR
+
+Zaposleni #16194859806556343525 - 28031.63 EUR dodatkov, 27.08% celotnega zneska
+    2012 (9 mesecev) - JAVNI ZAVOD KRAŠKE LEKARNE ILIRSKA BISTRICA - DIREKTOR LEKARNE: plača bruto 19966.51 EUR, dodatki 7369.71 EUR, skupaj 27336.22 EUR
+      dodatki:
+        delovna_uspesnost: 7369.71 EUR
+    2013 (12 mesecev) - JAVNI ZAVOD KRAŠKE LEKARNE ILIRSKA BISTRICA - DIREKTOR LEKARNE: plača bruto 27961.93 EUR, dodatki 10613.58 EUR, skupaj 38575.51 EUR
+      dodatki:
+        delovna_uspesnost: 10613.58 EUR
+    2014 (12 mesecev) - JAVNI ZAVOD KRAŠKE LEKARNE ILIRSKA BISTRICA - DIREKTOR LEKARNE: plača bruto 27539.73 EUR, dodatki 10048.34 EUR, skupaj 37588.07 EUR
+      dodatki:
+        delovna_uspesnost: 10048.34 EUR
+    Skupaj: Plača bruto 75468.17 EUR, dodatki 28031.63 EUR, skupaj 103499.8 EUR
+
+Zaposleni #7326831737739459101 - 53459.24 EUR dodatkov, 27.00% celotnega zneska
+    2010 (11 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI KAZENSKI SODNIK: plača bruto 27932.02 EUR, dodatki 10067.45 EUR, skupaj 37999.47 EUR
+      dodatki:
+        dezurstvo: 2849.84 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7217.61 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI KAZENSKI SODNIK: plača bruto 29000.25 EUR, dodatki 9821.73 EUR, skupaj 38821.98 EUR
+      dodatki:
+        dezurstvo: 2560.39 EUR
+        dodatek_mentorstvo_c030bruto: 133.7 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7127.64 EUR
+    2012 (5 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI KAZENSKI SODNIK: plača bruto 12938.06 EUR, dodatki 5735.53 EUR, skupaj 18673.59 EUR
+      dodatki:
+        dezurstvo: 1266.72 EUR
+        dodatek_mentorstvo_c030bruto: 668.5 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 3800.31 EUR
+    2012 (7 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI SODNIK: plača bruto 16510.75 EUR, dodatki 7157.62 EUR, skupaj 23668.37 EUR
+      dodatki:
+        dezurstvo: 1817.02 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5340.6 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI SODNIK: plača bruto 28094.96 EUR, dodatki 10248.57 EUR, skupaj 38343.53 EUR
+      dodatki:
+        polozajni_dodatek: 798.78 EUR
+        dezurstvo: 2179.46 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7270.33 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI SODNIK: plača bruto 30084.31 EUR, dodatki 10428.34 EUR, skupaj 40512.65 EUR
+      dodatki:
+        polozajni_dodatek: 1965.65 EUR
+        dezurstvo: 1931.16 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 6531.53 EUR
+    Skupaj: Plača bruto 144560.35 EUR, dodatki 53459.24 EUR, skupaj 198019.59 EUR
+
+Zaposleni #11885962922488460993 - 50004.28 EUR dodatkov, 26.93% celotnega zneska
+    2010 (12 mesecev) - LEKARNE PTUJ - DIREKTOR LEKARNE: plača bruto 27388.52 EUR, dodatki 13594.53 EUR, skupaj 40983.05 EUR
+      dodatki:
+        delovna_uspesnost: 12567.67 EUR
+        dodatno_delo: 601.57 EUR
+        dodatek_mentorstvo_c030bruto: 22.04 EUR
+        dodatek_mag_dr_c040bruto: 402.9 EUR
+        dodatek_poracun_c900bruto: 0.35 EUR
+    2011 (12 mesecev) - LEKARNE PTUJ - DIREKTOR LEKARNE: plača bruto 27149.59 EUR, dodatki 9435.86 EUR, skupaj 36585.45 EUR
+      dodatki:
+        delovna_uspesnost: 8999.86 EUR
+        dodatek_mentorstvo_c030bruto: 14.89 EUR
+        dodatek_mag_dr_c040bruto: 421.11 EUR
+    2012 (12 mesecev) - LEKARNE PTUJ - DIREKTOR LEKARNE: plača bruto 27534.13 EUR, dodatki 8040.35 EUR, skupaj 35574.48 EUR
+      dodatki:
+        delovna_uspesnost: 7282.6 EUR
+        dodatek_mag_dr_c040bruto: 446.45 EUR
+        dodatek_delo_ponoci_c100bruto: 62.26 EUR
+        dodatek_dela_prost_dan_c111bruto: 249.04 EUR
+    2013 (12 mesecev) - LEKARNE PTUJ - DIREKTOR LEKARNE: plača bruto 26135.09 EUR, dodatki 9002.08 EUR, skupaj 35137.17 EUR
+      dodatki:
+        delovna_uspesnost: 8551.63 EUR
+        dodatek_mentorstvo_c030bruto: 6.92 EUR
+        dodatek_mag_dr_c040bruto: 317.25 EUR
+        dodatek_delo_ponoci_c100bruto: 5.05 EUR
+        dodatek_dela_prost_dan_c111bruto: 121.23 EUR
+    2014 (12 mesecev) - LEKARNE PTUJ - DIREKTOR LEKARNE: plača bruto 27446.14 EUR, dodatki 9931.46 EUR, skupaj 37377.6 EUR
+      dodatki:
+        delovna_uspesnost: 9310.72 EUR
+        dodatek_mag_dr_c040bruto: 226.73 EUR
+        dodatek_delo_ponoci_c100bruto: 30.31 EUR
+        dodatek_dela_prost_dan_c111bruto: 363.7 EUR
+    Skupaj: Plača bruto 135653.47 EUR, dodatki 50004.28 EUR, skupaj 185657.75 EUR
+
+Zaposleni #10590965162207281394 - 66836.82 EUR dodatkov, 26.89% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 37087.25 EUR, dodatki 13838.95 EUR, skupaj 50926.2 EUR
+      dodatki:
+        dezurstvo: 1645.2 EUR
+        dodatek_mentorstvo_c030bruto: 261.28 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 11932.47 EUR
+    2010 (0 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - PODPREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 0 EUR, dodatki 0.0 EUR, skupaj 0.0 EUR
+      dodatki:
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 38809.98 EUR, dodatki 14609.95 EUR, skupaj 53419.93 EUR
+      dodatki:
+        dodatno_delo: 68.9 EUR
+        dezurstvo: 1516.8 EUR
+        dodatek_mentorstvo_c030bruto: 118.75 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 12905.5 EUR
+    2012 (2 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 6567.85 EUR, dodatki 2087.79 EUR, skupaj 8655.64 EUR
+      dodatki:
+        dezurstvo: 73.52 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 2014.27 EUR
+    2012 (6 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - PODPREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 16364.33 EUR, dodatki 5869.91 EUR, skupaj 22234.24 EUR
+      dodatki:
+        dezurstvo: 548.46 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5321.45 EUR
+    2012 (6 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - PREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 13943.38 EUR, dodatki 4454.04 EUR, skupaj 18397.42 EUR
+      dodatki:
+        dezurstvo: 467.62 EUR
+        dodatek_mentorstvo_c030bruto: 86.91 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 3899.51 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - PODPREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 34627.53 EUR, dodatki 15003.99 EUR, skupaj 49631.52 EUR
+      dodatki:
+        dodatno_delo: 29.44 EUR
+        dezurstvo: 2022.89 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 12951.66 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - PODPREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 34311.54 EUR, dodatki 10972.19 EUR, skupaj 45283.73 EUR
+      dodatki:
+        dezurstvo: 1053.5 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 9918.69 EUR
+    Skupaj: Plača bruto 181711.86 EUR, dodatki 66836.82 EUR, skupaj 248548.68 EUR
+
+Zaposleni #12663437332144795395 - 73194.9 EUR dodatkov, 26.87% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO DRŽAVNO TOŽILSTVO V SLOVENJ GRADCU - OKROŽNI DRŽAVNI TOŽILEC SVETNIK: plača bruto 37719.33 EUR, dodatki 10331.72 EUR, skupaj 48051.05 EUR
+      dodatki:
+        dezurstvo: 3273.55 EUR
+        dodatek_mentorstvo_c030bruto: 696.49 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 6354.04 EUR
+        dodatek_ogled_kd_c300bruto: 7.64 EUR
+    2011 (11 mesecev) - OKROŽNO DRŽAVNO TOŽILSTVO V SLOVENJ GRADCU - OKROŽNI DRŽAVNI TOŽILEC SVETNIK: plača bruto 32529.32 EUR, dodatki 9548.48 EUR, skupaj 42077.8 EUR
+      dodatki:
+        dezurstvo: 2658.81 EUR
+        dodatek_mentorstvo_c030bruto: 527.79 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 6357.48 EUR
+        dodatek_ogled_kd_c300bruto: 4.4 EUR
+    2011 (2 mesecev) - OKROŽNO DRŽAVNO TOŽILSTVO V SLOVENJ GRADCU - VIŠJI DRŽAVNI TOŽILEC: plača bruto 7054.67 EUR, dodatki 3318.94 EUR, skupaj 10373.61 EUR
+      dodatki:
+        dezurstvo: 1132.06 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 2184.59 EUR
+        dodatek_ogled_kd_c300bruto: 2.29 EUR
+    2012 (10 mesecev) - OKROŽNO DRŽAVNO TOŽILSTVO V SLOVENJ GRADCU - VIŠJI DRŽAVNI TOŽILEC: plača bruto 32342.44 EUR, dodatki 15530.49 EUR, skupaj 47872.93 EUR
+      dodatki:
+        dezurstvo: 5073.61 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10456.88 EUR
+    2012 (3 mesecev) - OKROŽNO DRŽAVNO TOŽILSTVO V SLOVENJ GRADCU - VODJA OKROŽNEGA DRŽAVNEGA TOŽILSTVA III: plača bruto 8562.07 EUR, dodatki 3978.37 EUR, skupaj 12540.44 EUR
+      dodatki:
+        dezurstvo: 1166.36 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 2812.01 EUR
+    2013 (12 mesecev) - OKROŽNO DRŽAVNO TOŽILSTVO V SLOVENJ GRADCU - VODJA OKROŽNEGA DRŽAVNEGA TOŽILSTVA III: plača bruto 39590.57 EUR, dodatki 19078.12 EUR, skupaj 58668.69 EUR
+      dodatki:
+        dezurstvo: 5088.33 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 13989.79 EUR
+    2014 (12 mesecev) - OKROŽNO DRŽAVNO TOŽILSTVO V SLOVENJ GRADCU - VODJA OKROŽNEGA DRŽAVNEGA TOŽILSTVA III: plača bruto 36255 EUR, dodatki 11408.78 EUR, skupaj 47663.78 EUR
+      dodatki:
+        dezurstvo: 1258.2 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10150.58 EUR
+    2014 (6 mesecev) - SPECIALIZIRANO DRŽAVNO TOŽILSTVO REPUBLIKE SLOVENIJE - VRHOVNI DRŽAVNI TOŽILEC SVETNIK: plača bruto 5119.92 EUR, dodatki 0.0 EUR, skupaj 5119.92 EUR
+      dodatki:
+    Skupaj: Plača bruto 199173.32 EUR, dodatki 73194.9 EUR, skupaj 272368.22 EUR
+
+Zaposleni #10646204249787990731 - 19316.37 EUR dodatkov, 26.56% celotnega zneska
+    2010 (12 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA: plača bruto 31846.59 EUR, dodatki 13479.92 EUR, skupaj 45326.51 EUR
+      dodatki:
+        delovna_uspesnost: 12767.53 EUR
+        dodatek_mag_dr_c040bruto: 711.44 EUR
+        dodatek_poracun_c900bruto: 0.95 EUR
+    2011 (9 mesecev) - JAVNI ZAVOD LEKARNA LJUBLJANA - STROKOVNI DIREKTOR/STROKOVNI VODJA: plača bruto 21560.42 EUR, dodatki 5836.45 EUR, skupaj 27396.87 EUR
+      dodatki:
+        delovna_uspesnost: 5354.34 EUR
+        dodatek_mag_dr_c040bruto: 481.45 EUR
+        dodatek_poracun_c900bruto: 0.66 EUR
+    Skupaj: Plača bruto 53407.01 EUR, dodatki 19316.37 EUR, skupaj 72723.38 EUR
+
+Zaposleni #18059221517355388819 - 58533.04 EUR dodatkov, 26.55% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V CELJU - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 37470.89 EUR, dodatki 10364.41 EUR, skupaj 47835.3 EUR
+      dodatki:
+        polozajni_dodatek: 1873.54 EUR
+        dezurstvo: 5789.86 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 2701.01 EUR
+    2011 (10 mesecev) - OKROŽNO SODIŠČE V CELJU - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 26359.79 EUR, dodatki 10742.35 EUR, skupaj 37102.14 EUR
+      dodatki:
+        polozajni_dodatek: 917.96 EUR
+        dezurstvo: 6928.08 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 2887.51 EUR
+        dodatek_ogled_kd_c300bruto: 8.8 EUR
+    2012 (4 mesecev) - OKROŽNO SODIŠČE V CELJU - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 9602.93 EUR, dodatki 2309.79 EUR, skupaj 11912.72 EUR
+      dodatki:
+        dezurstvo: 831.94 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 1477.85 EUR
+    2012 (7 mesecev) - OKROŽNO SODIŠČE V CELJU - OKROŽNI SODNIK SVETNIK: plača bruto 19987.81 EUR, dodatki 9919.81 EUR, skupaj 29907.62 EUR
+      dodatki:
+        dezurstvo: 5988.66 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 3931.15 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V CELJU - OKROŽNI SODNIK SVETNIK: plača bruto 34543.45 EUR, dodatki 13353.22 EUR, skupaj 47896.67 EUR
+      dodatki:
+        dezurstvo: 7424.17 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5929.05 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V CELJU - OKROŽNI SODNIK SVETNIK: plača bruto 33939.6 EUR, dodatki 11843.46 EUR, skupaj 45783.06 EUR
+      dodatki:
+        dezurstvo: 5780.36 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 6063.1 EUR
+    Skupaj: Plača bruto 161904.47 EUR, dodatki 58533.04 EUR, skupaj 220437.51 EUR
+
+Zaposleni #628477770628901823 - 57677.63 EUR dodatkov, 26.54% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI KAZENSKI SODNIK: plača bruto 30695.11 EUR, dodatki 6203.92 EUR, skupaj 36899.03 EUR
+      dodatki:
+        dezurstvo: 588.73 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5615.19 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI KAZENSKI SODNIK: plača bruto 34610.17 EUR, dodatki 11454.76 EUR, skupaj 46064.93 EUR
+      dodatki:
+        dezurstvo: 3796.81 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7657.95 EUR
+    2012 (5 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI KAZENSKI SODNIK: plača bruto 14938.19 EUR, dodatki 5612.29 EUR, skupaj 20550.48 EUR
+      dodatki:
+        dezurstvo: 1195.82 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 4416.47 EUR
+    2012 (7 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI SODNIK: plača bruto 16967.8 EUR, dodatki 8795.05 EUR, skupaj 25762.85 EUR
+      dodatki:
+        dezurstvo: 3288.02 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5507.03 EUR
+    2013 (11 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI SODNIK: plača bruto 30708.91 EUR, dodatki 14873.31 EUR, skupaj 45582.22 EUR
+      dodatki:
+        dezurstvo: 5389.79 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 9483.52 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V KOPRU - OKROŽNI SODNIK: plača bruto 31723.05 EUR, dodatki 10738.3 EUR, skupaj 42461.35 EUR
+      dodatki:
+        dezurstvo: 3817.21 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 6921.09 EUR
+    Skupaj: Plača bruto 159643.23 EUR, dodatki 57677.63 EUR, skupaj 217320.86 EUR
+
+Zaposleni #10078349698653368602 - 50690.1 EUR dodatkov, 26.40% celotnega zneska
+    2010 (11 mesecev) - OKROŽNO SODIŠČE V SLOVENJ GRADCU - OKROŽNI KAZENSKI SODNIK: plača bruto 26462.06 EUR, dodatki 11545.7 EUR, skupaj 38007.76 EUR
+      dodatki:
+        dezurstvo: 2653.79 EUR
+        dodatek_mentorstvo_c030bruto: 811.61 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8080.3 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V SLOVENJ GRADCU - OKROŽNI KAZENSKI SODNIK: plača bruto 27922.98 EUR, dodatki 9892.35 EUR, skupaj 37815.33 EUR
+      dodatki:
+        dezurstvo: 3098.1 EUR
+        dodatek_mentorstvo_c030bruto: 287.44 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 6499.29 EUR
+        dodatek_ogled_kd_c300bruto: 7.52 EUR
+    2012 (5 mesecev) - OKROŽNO SODIŠČE V SLOVENJ GRADCU - OKROŽNI KAZENSKI SODNIK: plača bruto 12404.11 EUR, dodatki 3822.33 EUR, skupaj 16226.44 EUR
+      dodatki:
+        dezurstvo: 1567.88 EUR
+        dodatek_mentorstvo_c030bruto: 113.64 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 2140.81 EUR
+    2012 (7 mesecev) - OKROŽNO SODIŠČE V SLOVENJ GRADCU - OKROŽNI SODNIK: plača bruto 16476.33 EUR, dodatki 6089.89 EUR, skupaj 22566.22 EUR
+      dodatki:
+        dezurstvo: 2231.44 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 3858.45 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V SLOVENJ GRADCU - OKROŽNI SODNIK: plača bruto 27367.21 EUR, dodatki 9391.7 EUR, skupaj 36758.91 EUR
+      dodatki:
+        dezurstvo: 3651.8 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5739.9 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V SLOVENJ GRADCU - OKROŽNI SODNIK: plača bruto 30673.63 EUR, dodatki 9948.13 EUR, skupaj 40621.76 EUR
+      dodatki:
+        dezurstvo: 3105.75 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 6842.38 EUR
+    Skupaj: Plača bruto 141306.32 EUR, dodatki 50690.1 EUR, skupaj 191996.42 EUR
+
+Zaposleni #7497570910667875199 - 63764.18 EUR dodatkov, 26.34% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 36980.2 EUR, dodatki 9274.09 EUR, skupaj 46254.29 EUR
+      dodatki:
+        dezurstvo: 1113.83 EUR
+        dodatek_mentorstvo_c030bruto: 745.42 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7414.84 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 39169.79 EUR, dodatki 15078.7 EUR, skupaj 54248.49 EUR
+      dodatki:
+        dezurstvo: 4075.11 EUR
+        dodatek_mentorstvo_c030bruto: 725.71 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10274.58 EUR
+        dodatek_ogled_kd_c300bruto: 3.3 EUR
+    2012 (5 mesecev) - OKROŽNO SODIŠČE NA PTUJU - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 16709.36 EUR, dodatki 7424.93 EUR, skupaj 24134.29 EUR
+      dodatki:
+        dezurstvo: 1942.37 EUR
+        dodatek_mentorstvo_c030bruto: 444.24 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5038.32 EUR
+    2012 (7 mesecev) - OKROŽNO SODIŠČE NA PTUJU - OKROŽNI SODNIK SVETNIK: plača bruto 17993.3 EUR, dodatki 7899.35 EUR, skupaj 25892.65 EUR
+      dodatki:
+        dezurstvo: 2135.16 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5764.19 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - OKROŽNI SODNIK SVETNIK: plača bruto 33107.16 EUR, dodatki 12148.41 EUR, skupaj 45255.57 EUR
+      dodatki:
+        dezurstvo: 2816.45 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 9331.96 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE NA PTUJU - OKROŽNI SODNIK SVETNIK: plača bruto 34385.57 EUR, dodatki 11938.7 EUR, skupaj 46324.27 EUR
+      dodatki:
+        dezurstvo: 3063.35 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8875.35 EUR
+    Skupaj: Plača bruto 178345.38 EUR, dodatki 63764.18 EUR, skupaj 242109.56 EUR
+
+Zaposleni #3343121390457742786 - 60413.83 EUR dodatkov, 26.32% celotnega zneska
+    2010 (11 mesecev) - AGENCIJA ZA TRG VREDNOSTNIH PAPIRJEV - NAMESTNIK DIREKTORJA/ČLANA UPRAVE: plača bruto 33608.1 EUR, dodatki 5329.54 EUR, skupaj 38937.64 EUR
+      dodatki:
+        delovna_uspesnost: 5329.08 EUR
+        dodatek_poracun_c900bruto: 0.46 EUR
+    2011 (12 mesecev) - AGENCIJA ZA TRG VREDNOSTNIH PAPIRJEV - NAMESTNIK DIREKTORJA/ČLANA UPRAVE: plača bruto 42156.6 EUR, dodatki 7375.32 EUR, skupaj 49531.92 EUR
+      dodatki:
+        delovna_uspesnost: 7375.32 EUR
+    2012 (10 mesecev) - AGENCIJA ZA TRG VREDNOSTNIH PAPIRJEV - NAMESTNIK DIREKTORJA/ČLANA UPRAVE: plača bruto 29038.88 EUR, dodatki 14142.27 EUR, skupaj 43181.15 EUR
+      dodatki:
+        delovna_uspesnost: 14142.27 EUR
+    2013 (10 mesecev) - AGENCIJA ZA TRG VREDNOSTNIH PAPIRJEV - NAMESTNIK DIREKTORJA/ČLANA UPRAVE: plača bruto 28211.06 EUR, dodatki 15935.94 EUR, skupaj 44147.0 EUR
+      dodatki:
+        delovna_uspesnost: 15935.94 EUR
+    2014 (12 mesecev) - AGENCIJA ZA TRG VREDNOSTNIH PAPIRJEV - NAMESTNIK DIREKTORJA/ČLANA UPRAVE: plača bruto 36083.53 EUR, dodatki 17630.76 EUR, skupaj 53714.29 EUR
+      dodatki:
+        delovna_uspesnost: 17630.76 EUR
+    Skupaj: Plača bruto 169098.17 EUR, dodatki 60413.83 EUR, skupaj 229512.0 EUR
+
+Zaposleni #13248700784262189541 - 67512.68 EUR dodatkov, 26.32% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - VIŠJI SODNIK: plača bruto 39262.91 EUR, dodatki 14639.58 EUR, skupaj 53902.49 EUR
+      dodatki:
+        dezurstvo: 6735.22 EUR
+        dodatek_mentorstvo_c030bruto: 248.9 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7655.46 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - VIŠJI SODNIK: plača bruto 38588.83 EUR, dodatki 14554.99 EUR, skupaj 53143.82 EUR
+      dodatki:
+        dezurstvo: 6762.71 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7792.28 EUR
+    2012 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - VIŠJI SODNIK: plača bruto 37943.29 EUR, dodatki 13543.99 EUR, skupaj 51487.28 EUR
+      dodatki:
+        dezurstvo: 5526.79 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 8017.2 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - VIŠJI SODNIK: plača bruto 36021.95 EUR, dodatki 11944.54 EUR, skupaj 47966.49 EUR
+      dodatki:
+        dezurstvo: 5030.68 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 6913.86 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V NOVI GORICI - VIŠJI SODNIK: plača bruto 37186.15 EUR, dodatki 12829.58 EUR, skupaj 50015.73 EUR
+      dodatki:
+        dezurstvo: 5253.3 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7576.28 EUR
+    Skupaj: Plača bruto 189003.13 EUR, dodatki 67512.68 EUR, skupaj 256515.81 EUR
+
+Zaposleni #4515656327080438827 - 59653.47 EUR dodatkov, 26.30% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V KRANJU - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 36823.2 EUR, dodatki 12906.73 EUR, skupaj 49729.93 EUR
+      dodatki:
+        polozajni_dodatek: 1841.16 EUR
+        dezurstvo: 3102.64 EUR
+        dodatek_mentorstvo_c030bruto: 1656.57 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 6303.08 EUR
+        dodatek_ogled_kd_c300bruto: 3.28 EUR
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V KRANJU - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 38256.46 EUR, dodatki 14604.47 EUR, skupaj 52860.93 EUR
+      dodatki:
+        polozajni_dodatek: 1912.88 EUR
+        dezurstvo: 4191.82 EUR
+        dodatek_mentorstvo_c030bruto: 1407.44 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7092.33 EUR
+    2012 (5 mesecev) - OKROŽNO SODIŠČE V KRANJU - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 16146.57 EUR, dodatki 6588.77 EUR, skupaj 22735.34 EUR
+      dodatki:
+        polozajni_dodatek: 807.33 EUR
+        dezurstvo: 2161.63 EUR
+        dodatek_mentorstvo_c030bruto: 527.79 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 3092.02 EUR
+    2012 (7 mesecev) - OKROŽNO SODIŠČE V KRANJU - OKROŽNI SODNIK SVETNIK: plača bruto 18886.77 EUR, dodatki 5433.09 EUR, skupaj 24319.86 EUR
+      dodatki:
+        polozajni_dodatek: 944.34 EUR
+        dezurstvo: 1425.58 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 3063.17 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V KRANJU - OKROŽNI SODNIK SVETNIK: plača bruto 33990.93 EUR, dodatki 12176.39 EUR, skupaj 46167.32 EUR
+      dodatki:
+        polozajni_dodatek: 1699.52 EUR
+        dezurstvo: 3935.37 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 6541.5 EUR
+    2014 (9 mesecev) - OKROŽNO SODIŠČE V KRANJU - OKROŽNI SODNIK SVETNIK: plača bruto 23037.2 EUR, dodatki 7944.02 EUR, skupaj 30981.22 EUR
+      dodatki:
+        polozajni_dodatek: 1151.85 EUR
+        dezurstvo: 2301.15 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 4491.02 EUR
+    Skupaj: Plača bruto 167141.13 EUR, dodatki 59653.47 EUR, skupaj 226794.6 EUR
+
+Zaposleni #15417808631399023838 - 18986.56 EUR dodatkov, 26.26% celotnega zneska
+    2013 (8 mesecev) - JAVNI ZDRAVSTVENI ZAVOD MARIBORSKE LEKARNE MARIBOR - DIREKTOR LEKARNE: plača bruto 20670.59 EUR, dodatki 7782.33 EUR, skupaj 28452.92 EUR
+      dodatki:
+        delovna_uspesnost: 7782.33 EUR
+    2014 (12 mesecev) - JAVNI ZDRAVSTVENI ZAVOD MARIBORSKE LEKARNE MARIBOR - DIREKTOR LEKARNE: plača bruto 32647.56 EUR, dodatki 11204.23 EUR, skupaj 43851.79 EUR
+      dodatki:
+        delovna_uspesnost: 11204.23 EUR
+    Skupaj: Plača bruto 53318.15 EUR, dodatki 18986.56 EUR, skupaj 72304.71 EUR
+
+Zaposleni #16558343030147009665 - 30841.82 EUR dodatkov, 26.24% celotnega zneska
+    2010 (12 mesecev) - ZASAVSKE LEKARNE TRBOVLJE - DIREKTOR LEKARNE: plača bruto 24800.83 EUR, dodatki 14408.39 EUR, skupaj 39209.22 EUR
+      dodatki:
+        delovna_uspesnost: 13852.8 EUR
+        dodatek_mag_dr_c040bruto: 551.95 EUR
+        dodatek_poracun_c900bruto: 3.64 EUR
+    2011 (12 mesecev) - ZASAVSKE LEKARNE TRBOVLJE - DIREKTOR LEKARNE: plača bruto 23970.96 EUR, dodatki 7301.42 EUR, skupaj 31272.38 EUR
+      dodatki:
+        delovna_uspesnost: 6703.66 EUR
+        dezurstvo: 61.76 EUR
+        dodatek_mag_dr_c040bruto: 536.0 EUR
+    2012 (12 mesecev) - ZASAVSKE LEKARNE TRBOVLJE - DIREKTOR LEKARNE: plača bruto 23329.13 EUR, dodatki 5842.42 EUR, skupaj 29171.55 EUR
+      dodatki:
+        delovna_uspesnost: 4907.24 EUR
+        dodatek_mag_dr_c040bruto: 542.66 EUR
+        dodatek_dela_prost_dan_c111bruto: 392.52 EUR
+    2013 (7 mesecev) - ZASAVSKE LEKARNE TRBOVLJE - DIREKTOR LEKARNE: plača bruto 14607.52 EUR, dodatki 3289.59 EUR, skupaj 17897.11 EUR
+      dodatki:
+        delovna_uspesnost: 2978.31 EUR
+        dodatek_mag_dr_c040bruto: 311.28 EUR
+    Skupaj: Plača bruto 86708.44 EUR, dodatki 30841.82 EUR, skupaj 117550.26 EUR
+
+Zaposleni #18018817475469694567 - 41472.67 EUR dodatkov, 26.20% celotnega zneska
+    2010 (11 mesecev) - ENERGETSKA AGENCIJA ZA PODRAVJE - ZAVOD ZA TRAJNOSTNO RABO ENERGIJE - DIREKTOR JAVNEGA SKLADA, JAVNEGA ZAVODA, AGENCIJE: plača bruto 23399.13 EUR, dodatki 5226.48 EUR, skupaj 28625.61 EUR
+      dodatki:
+        delovna_uspesnost: 4023.18 EUR
+        dodatek_mentorstvo_c030bruto: 116.26 EUR
+        dodatek_mag_dr_c040bruto: 1087.04 EUR
+    2011 (12 mesecev) - ENERGETSKA AGENCIJA ZA PODRAVJE - ZAVOD ZA TRAJNOSTNO RABO ENERGIJE - DIREKTOR JAVNEGA SKLADA, JAVNEGA ZAVODA, AGENCIJE: plača bruto 26311.51 EUR, dodatki 4628.54 EUR, skupaj 30940.05 EUR
+      dodatki:
+        delovna_uspesnost: 3052.72 EUR
+        dodatek_mentorstvo_c030bruto: 353.0 EUR
+        dodatek_mag_dr_c040bruto: 1222.82 EUR
+    2012 (11 mesecev) - ENERGETSKA AGENCIJA ZA PODRAVJE - ZAVOD ZA TRAJNOSTNO RABO ENERGIJE - DIREKTOR JAVNEGA SKLADA, JAVNEGA ZAVODA, AGENCIJE: plača bruto 22258.37 EUR, dodatki 9590.8 EUR, skupaj 31849.17 EUR
+      dodatki:
+        delovna_uspesnost: 8005.07 EUR
+        dodatek_mentorstvo_c030bruto: 504.54 EUR
+        dodatek_mag_dr_c040bruto: 1081.19 EUR
+    2013 (12 mesecev) - ENERGETSKA AGENCIJA ZA PODRAVJE - ZAVOD ZA TRAJNOSTNO RABO ENERGIJE - DIREKTOR JAVNEGA SKLADA, JAVNEGA ZAVODA, AGENCIJE: plača bruto 21956.94 EUR, dodatki 8837.58 EUR, skupaj 30794.52 EUR
+      dodatki:
+        delovna_uspesnost: 8021.13 EUR
+        dodatek_mag_dr_c040bruto: 816.45 EUR
+    2014 (12 mesecev) - ENERGETSKA AGENCIJA ZA PODRAVJE - ZAVOD ZA TRAJNOSTNO RABO ENERGIJE - DIREKTOR JAVNEGA SKLADA, JAVNEGA ZAVODA, AGENCIJE: plača bruto 22870.5 EUR, dodatki 13189.27 EUR, skupaj 36059.77 EUR
+      dodatki:
+        delovna_uspesnost: 12391.5 EUR
+        dodatek_mentorstvo_c030bruto: 214.36 EUR
+        dodatek_mag_dr_c040bruto: 583.41 EUR
+    Skupaj: Plača bruto 116796.45 EUR, dodatki 41472.67 EUR, skupaj 158269.12 EUR
+
+Zaposleni #17195445645246397450 - 14619.59 EUR dodatkov, 26.16% celotnega zneska
+    2010 (12 mesecev) - OKROŽNO SODIŠČE V CELJU - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 38169.13 EUR, dodatki 14056.6 EUR, skupaj 52225.73 EUR
+      dodatki:
+        dezurstvo: 5500.66 EUR
+        dodatek_mentorstvo_c030bruto: 835.04 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 7720.9 EUR
+    2011 (1 mesecev) - OKROŽNO SODIŠČE V CELJU - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 3097.76 EUR, dodatki 562.99 EUR, skupaj 3660.75 EUR
+      dodatki:
+        dodatek_stalna_pripravljenost_c130bruto: 562.99 EUR
+    2012 (0 mesecev) - OKROŽNO SODIŠČE V CELJU - OKROŽNI KAZENSKI SODNIK SVETNIK: plača bruto 0 EUR, dodatki 0.0 EUR, skupaj 0.0 EUR
+      dodatki:
+    2012 (0 mesecev) - OKROŽNO SODIŠČE V CELJU - OKROŽNI SODNIK SVETNIK: plača bruto 0 EUR, dodatki 0.0 EUR, skupaj 0.0 EUR
+      dodatki:
+    2013 (0 mesecev) - OKROŽNO SODIŠČE V CELJU - OKROŽNI SODNIK SVETNIK: plača bruto 0 EUR, dodatki 0.0 EUR, skupaj 0.0 EUR
+      dodatki:
+    2014 (0 mesecev) - OKROŽNO SODIŠČE V CELJU - OKROŽNI SODNIK SVETNIK: plača bruto 0 EUR, dodatki 0.0 EUR, skupaj 0.0 EUR
+      dodatki:
+    Skupaj: Plača bruto 41266.89 EUR, dodatki 14619.59 EUR, skupaj 55886.48 EUR
+
+Zaposleni #10001010641803010344 - 45940.76 EUR dodatkov, 26.07% celotnega zneska
+    2010 (12 mesecev) - GEODETSKI INŠTITUT SLOVENIJE - DIREKTOR JAVNEGA RAZISKOVALNEGA ZAVODA / JAVNEGA INFRASTRUKTURNEGA ZAVODA: plača bruto 37821.45 EUR, dodatki 13952.39 EUR, skupaj 51773.84 EUR
+      dodatki:
+        delovna_uspesnost: 7900.0 EUR
+        dodatno_delo: 4553.04 EUR
+        dodatek_mentorstvo_c030bruto: 776.87 EUR
+        dodatek_mag_dr_c040bruto: 722.48 EUR
+    2011 (12 mesecev) - GEODETSKI INŠTITUT SLOVENIJE - DIREKTOR JAVNEGA RAZISKOVALNEGA ZAVODA / JAVNEGA INFRASTRUKTURNEGA ZAVODA: plača bruto 38497.99 EUR, dodatki 9873.04 EUR, skupaj 48371.03 EUR
+      dodatki:
+        delovna_uspesnost: 4127.03 EUR
+        dodatno_delo: 4553.04 EUR
+        dodatek_mentorstvo_c030bruto: 457.24 EUR
+        dodatek_mag_dr_c040bruto: 735.73 EUR
+    2012 (12 mesecev) - GEODETSKI INŠTITUT SLOVENIJE - DIREKTOR JAVNEGA RAZISKOVALNEGA ZAVODA / JAVNEGA INFRASTRUKTURNEGA ZAVODA: plača bruto 34985.42 EUR, dodatki 5248.83 EUR, skupaj 40234.25 EUR
+      dodatki:
+        dodatno_delo: 4553.04 EUR
+        dodatek_mag_dr_c040bruto: 695.79 EUR
+    2013 (7 mesecev) - GEODETSKI INŠTITUT SLOVENIJE - DIREKTOR JAVNEGA RAZISKOVALNEGA ZAVODA / JAVNEGA INFRASTRUKTURNEGA ZAVODA: plača bruto 18958.13 EUR, dodatki 16866.5 EUR, skupaj 35824.63 EUR
+      dodatki:
+        dodatno_delo: 16528.85 EUR
+        dodatek_mag_dr_c040bruto: 337.65 EUR
+    Skupaj: Plača bruto 130262.99 EUR, dodatki 45940.76 EUR, skupaj 176203.75 EUR
+
+Zaposleni #3441172921372299768 - 1419.87 EUR dodatkov, 26.00% celotnega zneska
+    2010 (3 mesecev) - VARSTVENO DELOVNI CENTER TOLMIN - DIREKTOR VARSTVENO DELOVNEGA CENTRA: plača bruto 4041.29 EUR, dodatki 1419.87 EUR, skupaj 5461.16 EUR
+      dodatki:
+        delovna_uspesnost: 1419.44 EUR
+        dodatek_poracun_c900bruto: 0.43 EUR
+    Skupaj: Plača bruto 4041.29 EUR, dodatki 1419.87 EUR, skupaj 5461.16 EUR
+
+Zaposleni #13586037568642981013 - 64932.64 EUR dodatkov, 25.88% celotnega zneska
+    2010 (11 mesecev) - ZAVOD ZA KULTURO BLED - DIREKTOR JAVNEGA ZAVODA: plača bruto 33785.7 EUR, dodatki 13353.77 EUR, skupaj 47139.47 EUR
+      dodatki:
+        delovna_uspesnost: 13353.26 EUR
+        dodatek_poracun_c900bruto: 0.51 EUR
+    2011 (12 mesecev) - ZAVOD ZA KULTURO BLED - DIREKTOR JAVNEGA ZAVODA: plača bruto 40120.07 EUR, dodatki 8135.84 EUR, skupaj 48255.91 EUR
+      dodatki:
+        delovna_uspesnost: 8135.84 EUR
+    2012 (12 mesecev) - ZAVOD ZA KULTURO BLED - DIREKTOR JAVNEGA ZAVODA: plača bruto 38522.44 EUR, dodatki 12539.24 EUR, skupaj 51061.68 EUR
+      dodatki:
+        delovna_uspesnost: 12539.24 EUR
+    2013 (12 mesecev) - ZAVOD ZA KULTURO BLED - DIREKTOR JAVNEGA ZAVODA: plača bruto 37994.42 EUR, dodatki 13575.4 EUR, skupaj 51569.82 EUR
+      dodatki:
+        delovna_uspesnost: 13575.4 EUR
+    2014 (11 mesecev) - ZAVOD ZA KULTURO BLED - DIREKTOR JAVNEGA ZAVODA: plača bruto 35510.88 EUR, dodatki 17328.39 EUR, skupaj 52839.27 EUR
+      dodatki:
+        delovna_uspesnost: 17328.39 EUR
+    Skupaj: Plača bruto 185933.51 EUR, dodatki 64932.64 EUR, skupaj 250866.15 EUR
+
+Zaposleni #11655360120505580572 - 62037.86 EUR dodatkov, 25.86% celotnega zneska
+    2010 (5 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI KAZENSKI SODNIK: plača bruto 14080.96 EUR, dodatki 3799.66 EUR, skupaj 17880.62 EUR
+      dodatki:
+        dezurstvo: 591.22 EUR
+        dodatek_mentorstvo_c030bruto: 48.53 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 3159.91 EUR
+    2010 (8 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - PREDSEDNIK OKRAJNEGA SODIŠČA IV: plača bruto 21046.16 EUR, dodatki 0.0 EUR, skupaj 21046.16 EUR
+      dodatki:
+    2011 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI KAZENSKI SODNIK: plača bruto 34752.27 EUR, dodatki 12320.92 EUR, skupaj 47073.19 EUR
+      dodatki:
+        dezurstvo: 2513.03 EUR
+        dodatek_mentorstvo_c030bruto: 166.73 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 9641.16 EUR
+    2012 (5 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI KAZENSKI SODNIK: plača bruto 14913.75 EUR, dodatki 6706.51 EUR, skupaj 21620.26 EUR
+      dodatki:
+        dezurstvo: 1154.66 EUR
+        dodatek_mentorstvo_c030bruto: 170.79 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5381.06 EUR
+    2012 (2 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - OKROŽNI SODNIK: plača bruto 2556.87 EUR, dodatki 1267.81 EUR, skupaj 3824.68 EUR
+      dodatki:
+        dezurstvo: 316.81 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 951.0 EUR
+    2012 (6 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - PREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 18549.59 EUR, dodatki 7431.89 EUR, skupaj 25981.48 EUR
+      dodatki:
+        dezurstvo: 1687.75 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 5744.14 EUR
+    2013 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - PREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 35554.62 EUR, dodatki 16533.5 EUR, skupaj 52088.12 EUR
+      dodatki:
+        dezurstvo: 3306.3 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 13227.2 EUR
+    2014 (12 mesecev) - OKROŽNO SODIŠČE V KRŠKEM - PREDSEDNIK OKROŽNEGA SODIŠČA III: plača bruto 36367.09 EUR, dodatki 13977.57 EUR, skupaj 50344.66 EUR
+      dodatki:
+        dodatno_delo: 117.57 EUR
+        dezurstvo: 3035.26 EUR
+        dodatek_stalna_pripravljenost_c130bruto: 10824.74 EUR
+    Skupaj: Plača bruto 177821.31 EUR, dodatki 62037.86 EUR, skupaj 239859.17 EUR
+
