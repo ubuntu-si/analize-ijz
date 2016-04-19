@@ -13,6 +13,10 @@ def dodatki_relative(entry):
         return 0
     return dodatki_sum(entry) / float(entry[4])
 
+def placa(entry):
+    assert type(entry) is list
+    return float(entry[4])
+
 def total_income(entry):
     assert type(entry) is list
     return dodatki_sum(entry) + float(entry[4])
